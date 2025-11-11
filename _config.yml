@@ -1,0 +1,20 @@
+title: Tu Nombre Aquí
+description: Desarrollador / Diseñador / Lo que seas
+remote_theme: riggraz/no-style-please
+
+theme_config:
+  appearance: "dark"
+  back_home_text: "< inicio"
+  date_format: "%Y-%m-%d"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+
+url: "https://medusahra.github.io"
+
+# Redes sociales (opcional)
+author:
+  name: Tu Nombre
+  email: tuemail@ejemplo.com
