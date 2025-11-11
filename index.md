@@ -1,7 +1,8 @@
 ---
 layout: home
 ---
-![Logo](/assets/radonxglitchsuperpink_upscayl_4x_remacri-4x.png
+![Logo](/assets/radonxglitchsuperpink_upscayl_4x_remacri-4x.png)
+
 
 # hola, soy 𝕲𝖎𝖌𝖎 𝕮𝖍𝖆𝖉𝖎𝖉 👋 AKA 𝖒𝖊𝖉𝖚𝖘𝖆𝖍𝖗𝖆
 
