@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# hola, soy 𝕲𝖎𝖌𝖎 𝕮𝖍𝖆𝖉𝖎𝖉 👋 AKA medusahra
+# hola, soy 𝕲𝖎𝖌𝖎 𝕮𝖍𝖆𝖉𝖎𝖉 👋 AKA 𝖒𝖊𝖉𝖚𝖘𝖆𝖍𝖗𝖆
 
 Bienvenidx a mi sitio web. Fixed finally!
 
@@ -26,8 +26,9 @@ Seguridad ofensiva, pentesting y análisis de malware. Todo tiene fisuras: siste
 ## contacto
 
 - GitHub: [@medusahra](https://github.com/medusahra)
-- Email: tu@email.com
-- Twitter/X: @tuusuario (si tienes)
+- Email: blackobjkt@protonmail.com
+- Instagram: @medusahra
+- X: @medusahra
 
 ---
 
