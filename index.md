@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# hola, soy Gigi Chadid 👋 AKA medusahra
+# hola, soy 𝕲𝖎𝖌𝖎 𝕮𝖍𝖆𝖉𝖎𝖉 👋 AKA medusahra
 
 Bienvenidx a mi sitio web. Fixed finally!
 
