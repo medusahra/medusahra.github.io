@@ -6,7 +6,7 @@ layout: home
 
 # hola, soy 𝕲𝖎𝖌𝖎 𝕮𝖍𝖆𝖉𝖎𝖉 👋
 
-Bienvenidx a mi sitio web. Fixed finally!
+Bienvenidxs a mi sitio web. Fixed finally!!
 
 ---
 
