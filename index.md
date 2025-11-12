@@ -1,6 +1,5 @@
 ---
 layout: home
-𝖒𝖊𝖉𝖚𝖘𝖆𝖍𝖗𝖆
 ---
 <img src="/assets/radonxglitchsuperpink_upscayl_4x_remacri-4x.png" alt="Logo" style="max-width: 200px; display: block; margin: 0 auto 20px;">
  
