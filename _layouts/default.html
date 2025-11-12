@@ -35,15 +35,18 @@
     }
     
     /* Enlaces rosa */
-    a {
-      color: #ff1493 !important;
-      text-decoration: underline;
-    }
-    
-    a:hover {
-      color: #ff69b4 !important;
-      text-shadow: 0 0 10px #ff69b4;
-    }
+  /* Enlaces rosa con glow */
+a {
+  color: #ff1493 !important;
+  text-decoration: underline;
+  text-shadow: 0 0 8px #ff1493, 0 0 15px #ff1493;
+  transition: all 0.3s ease;
+}
+
+a:hover {
+  color: #ff69b4 !important;
+  text-shadow: 0 0 15px #ff69b4, 0 0 25px #ff69b4, 0 0 35px #ff69b4;
+}
     
     /* Logo flotante */
     img {
