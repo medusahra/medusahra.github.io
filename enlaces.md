@@ -9,6 +9,7 @@ title: "enlaces de interés"
 - 🔗 **<a href="https://open.spotify.com/episode/0uytTOumP2Wn1w28y9jw3E?si=uu7dJu4pTmyrt2TLOms5yw" target="_blank">Giovanna Chadid spotify t1-ep3</a>**
 - 🔗 **<a href="https://open.spotify.com/episode/0uytTOumP2Wn1w28y9jw3E?si=uu7dJu4pTmyrt2TLOms5yw" target="_blank">Giovanna Chadid - spotify fonoescritos</a>**
 - 🔗 **<a href="https://smallbluelibrary.wordpress.com/2021/04/11/poesia-en-voz-de-sus-autoras-giovanna-chadid/" target="_blank">Giovanna Chadid - small blue library -  México</a>**
+- 🔗 **<a href="https://malwaremedusa.tumblr.com/" target="_blank">malware medusa · blog</a>**
 - 🔗 **<a href="https://www.semanticscholar.org/author/Giovanna-Chadid/146780905" target="_blank">Giovanna Chadid research featured on semantic scholar</a>**
 - 🔗 **<a href="https://www.seattlestar.net/author/giovchad/" target="_blank">Giovanna Chadid on the seattle star</a>**
 - 🔗 **<a href="https://core.ac.uk/display/229562174" target="_blank">Giovanna Chadid, featured on CORE (UK), the open access repository</a>**
@@ -22,7 +23,8 @@ title: "enlaces de interés"
 - 🔗 **<a href="https://www.quira-medios.com/giovanna-simone-ch%C3%A4did/" target="_blank">portal cultural de Bogotá</a>**
 ---
 ## para explorar
-- **<a href="https://physicsofbeauty.art/" target="_blank">Physics of beauty</a>**
+- **<a href="https://www.denizcemonduygu.com/philo/browse/" target="_blank">Physics of beauty</a>**
+-  **<a href="https://physicsofbeauty.art/" target="_blank">History of Philosophy</a>**
 - **<a href="https://copiona.com/" target="_blank">Copiona</a>**
 - **<a href="https://brokenenglish.lol/" target="_blank">https://brokenenglish.lol/</a>**
 - **<a href="https://www.phantomphreak.com/" target="_blank">Phantom Phreak</a>**
