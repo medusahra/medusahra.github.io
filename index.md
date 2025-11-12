@@ -22,6 +22,7 @@ Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagam
 - **[archivo de textos >](/archive.html)**
 - [descarga mi libro: weltschmerz >](/2025/11/11/weltschmerz.html) un libro para los que no temen mirar hacia el abismo
 - [goad letters en Substack >](https://goadletter.substack.com/) filosofía, tecnología, crítica cultural
+- 🔗 **[enlaces de interés >](/enlaces.html)**
 
 ## cosas que hice cuando debería estar trabajando
 
