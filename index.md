@@ -15,10 +15,9 @@ Bienvenidxs a mi sitio web
 colombo lebanese hacker, offsec + exploit dev. Todo tiene fisuras: sistemas, cuerpos e infraestructuras del deseo, a esas grietas me asomo. ♡
 Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagamente lujuriosos.
 
-🧠
-**Autista ♡ Neurodisidente**
 
----
+## Autista 🧠 Neurodisidente
+
 ## literatura
 
 - **[archivo de textos >](/archive.html)**
