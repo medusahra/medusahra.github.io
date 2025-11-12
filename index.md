@@ -7,8 +7,8 @@ layout: home
 # hola, soy 𝕲𝖎𝖌𝖎 𝕮𝖍𝖆𝖉𝖎𝖉 👋
 
 Bienvenidxs a mi sitio web.
-mi único punto fijo en el hiperespacio: un espejismo bien indexado.
-
+---
+mi única dirección estable en este mapa en perpetuo glitch.
 ---
 
 ## sobre mí
