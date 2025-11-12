@@ -28,7 +28,7 @@ Al final del libro encontrarás formas de hacerlo. Todo gesto será recibido con
     display: inline-block;
     padding: 20px 40px;
     background: linear-gradient(45deg, #ff1493, #ff69b4);
-    color: #000;
+    color: #000000;
     text-decoration: none;
     font-weight: bold;
     font-size: 1.2em;
@@ -36,6 +36,7 @@ Al final del libro encontrarás formas de hacerlo. Todo gesto será recibido con
     box-shadow: 0 0 20px #ff1493, 0 0 40px #ff1493, 0 0 60px #ff1493;
     animation: pulse 2s infinite;
     transition: all 0.3s;
+    text-shadow: none;
   ">
     ⬇ Descargar Weltschmerz Gratuitamente ⬇
   </a>
@@ -47,6 +48,8 @@ Al final del libro encontrarás formas de hacerlo. Todo gesto será recibido con
   50% { box-shadow: 0 0 30px #ff1493, 0 0 60px #ff1493, 0 0 90px #ff1493; }
 }
 </style>
+
+
 *En este viaje de polvo estelar y ecos de lo subterráneo, cada gesto se convierte en un verso compartido, una chispa en la oscuridad.*
 *Gracias por acompañar este murmullante ritual de creación y resistencia.*
 *Para quienes habitan en la grieta entre el deseo y su imposibilidad*
