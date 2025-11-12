@@ -1,0 +1,47 @@
+<style>
+/* Forzar tema oscuro SIEMPRE */
+* {
+  background-color: #000000 !important;
+}
+
+body {
+  background-color: #000000 !important;
+  color: #ffffff !important;
+}
+
+/* Texto rosa neón como Alexine */
+h1, h2, h3 {
+  color: #ff1493 !important;
+  text-shadow: 0 0 10px #ff1493, 0 0 20px #ff1493, 0 0 30px #ff1493;
+  font-weight: bold !important;
+}
+
+/* Todos los textos en blanco */
+p, li, div, span, a {
+  color: #ffffff !important;
+  background-color: transparent !important;
+}
+
+/* Enlaces rosa neón */
+a {
+  color: #ff1493 !important;
+  text-decoration: underline;
+  text-shadow: 0 0 5px #ff1493;
+}
+
+a:hover {
+  color: #ff69b4 !important;
+  text-shadow: 0 0 10px #ff69b4;
+}
+
+/* Logo con efecto */
+img {
+  filter: drop-shadow(0 0 20px #ff1493);
+  animation: float 3s ease-in-out infinite;
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+}
+</style>
