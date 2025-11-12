@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ site.title }}</title>
+  
+  <style>
+    /* Fondo negro total */
+    * {
+      margin: 0;
+      padding: 0;
+    }
+    
+    body {
+      background-color: #000000 !important;
+      color: #ffffff !important;
+      font-family: monospace;
+      padding: 20px;
+      max-width: 800px;
+      margin: 0 auto;
+      line-height: 1.6;
+    }
+    
+    /* Títulos rosa neón */
+    h1, h2, h3 {
+      color: #ff1493 !important;
+      text-shadow: 0 0 10px #ff1493, 0 0 20px #ff1493;
+      margin: 20px 0;
+    }
+    
+    /* Texto normal blanco */
+    p, li, div {
+      color: #ffffff !important;
+    }
+    
+    /* Enlaces rosa */
+    a {
+      color: #ff1493 !important;
+      text-decoration: underline;
+    }
+    
+    a:hover {
+      color: #ff69b4 !important;
+      text-shadow: 0 0 10px #ff69b4;
+    }
+    
+    /* Logo flotante */
+    img {
+      max-width: 300px;
+      display: block;
+      margin: 20px auto;
+      filter: drop-shadow(0 0 20px #ff1493);
+      animation: float 3s ease-in-out infinite;
+    }
+    
+    @keyframes float {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-10px); }
+    }
+    
+    /* Listas */
+    ul, ol {
+      margin-left: 20px;
+    }
+  </style>
+</head>
+<body>
+  {{ content }}
+</body>
+</html>
