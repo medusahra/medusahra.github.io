@@ -16,7 +16,7 @@ hacker, seguridad ofensiva, pentesting y análisis de malware. Todo tiene fisura
 —a esas grietas me asomo. Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagamente lujuriosos.
 
 ---
-## Literatura
+## literatura
 
 - **[archivo de textos >](/archive.html)**
 - [weltschmerz >](/2025/11/11/weltschmerz.html) un libro para los que no temen mirar hacia el abismo
