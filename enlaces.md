@@ -33,28 +33,19 @@ title: "enlaces de interés"
 - **[Physics of beauty](https://physicsofbeauty.art/)**
 - **[Copiona](https://copiona.com/)**
 - **[https://brokenenglish.lol/](https://brokenenglish.lol/)**
+- **[Phantom Phreak](https://www.phantomphreak.com/)**
+- **[C0d3 P03try](https://c0d3-p03try.neocities.org/)**
+- **[Low tech Magazine](https://solar.lowtechmagazine.com/)**
+- **[Canek Zapata Net](https://canekzapata.net/index.html)**
+- **[Hackers Curator](https://hackerscurator.com/)**
+- **[Phrack](http://www.phrack.org/)**
 - **[Recurso 2](URL)**
-- **[Recurso 2](URL)**
-- **[Recurso 2](URL)**
-- **[Recurso 2](URL)**
-- **[Recurso 2](URL)**
-- **[Recurso 2](URL)**
-- **[Recurso 2](URL)**
-- **[Recurso 2](URL)**
+- **[Bloerp \ Hackers code95](https://bloerp.de/code/tempel/hackers/hackersFinal.c.html)**
 
 ---
 
-## comunidades & colectivos
+## ▌║█║▌│║▌│║▌║▌█║Looks like you’ve reached the end  ▌│║▌║▌│║║▌█║▌║█
 
-- 👥 **[Comunidad X](URL)**
-- 👥 **[Colectivo Y](URL)**
-
----
-
-## otros
-
-- ⚡ **[Link random](URL)**
-- ⚡ **[Otro link](URL)**
 
 ---
 
