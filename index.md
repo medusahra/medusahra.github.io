@@ -12,7 +12,7 @@ Bienvenidx a mi sitio web. Fixed finally!
 
 ## sobre mí
 
-Hacker, Seguridad ofensiva, pentesting y análisis de malware. Todo tiene fisuras: sistemas, cuerpos e infraestructuras del deseo 
+Hacker, seguridad ofensiva, pentesting y análisis de malware. Todo tiene fisuras: sistemas, cuerpos e infraestructuras del deseo 
 —a esas grietas me asomo. Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagamente lujuriosos.
 
 ---
