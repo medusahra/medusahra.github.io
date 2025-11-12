@@ -8,7 +8,7 @@ date: 2025-11-11
 
 # Weltschmerz
 
-<img src="/assets/weltschmerz-cover.jpg" alt="Portada Weltschmerz" style="max-width: 400px; display: block; margin: 30px auto; filter: drop-shadow(0 0 30px #ff1493);">
+<img src="/assets/weltschmerz-cover.jpg" alt="Portada Weltschmerz" style="max-width: 90%; width: 400px; display: block; margin: 30px auto; filter: drop-shadow(0 0 30px #ff1493);">
 
 ## un libro para los que no temen mirar hacia el abismo
 
