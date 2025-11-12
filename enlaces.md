@@ -1,17 +1,17 @@
 ---
 layout: default
-title: "Enlaces de Interés"
+title: "enlaces de interés"
 ---
 
 [< volver](/)
 
 <img src="/assets/Malware Medusa Banner Dark Army(1).png" alt="Malware Medusa Banner" style="max-width: 100%; display: block; margin: 30px auto; filter: drop-shadow(0 0 30px #ff1493);">
 
-# Enlaces de Interés
+# enlaces de Interés
 
 ## proyectos & colaboraciones
 
-- 🔗 **[Nombre del proyecto](URL)** — descripción breve
+- 🔗 **[Giovanna Chadid Spotify t1-ep3](https://open.spotify.com/episode/0uytTOumP2Wn1w28y9jw3E?si=uu7dJu4pTmyrt2TLOms5yw)**
 - 🔗 **[Otro proyecto](URL)** — descripción breve
 - 🔗 **[Colaboración X](URL)** — descripción breve
 
