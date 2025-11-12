@@ -8,7 +8,7 @@ layout: home
 
 Bienvenidxs a mi sitio web.
 ---
-mi única dirección estable en este mapa en perpetuo glitch.
+mi única dirección estable en este mapa en perpetuo glitch. ☻
 ---
 
 ## sobre mí
