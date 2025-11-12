@@ -28,7 +28,7 @@ Este libro no busca llegar a todos; busca llegar a quienes resuenen con él. Cre
 
 No hay una gran editorial detrás de *Weltschmerz*, ni tampoco habrá un lanzamiento oficial con luces, ponqué y escenario. Decidí gestionarlo yo misma porque creo en el poder de lo pequeño, lo cercano y lo auténtico.
 
-<img src="/assets/coverbook2.jpg" alt="Autor" style="max-width: 350px; display: block; margin: 40px auto; filter: drop-shadow(0 0 20px #ff1493);">
+<img src="/assets/coverbook2.jpg" alt="Autor" style="max-width: 90%; width: 350px; display: block; margin: 40px auto; filter: drop-shadow(0 0 20px #ff1493);">
 
 Mi escritura, como mi vida, se nutre de la resistencia frente a un sistema que parece consumirlo todo, incluso el arte. Publicarlo de manera independiente es, en última instancia, un acto de coherencia con mi visión del mundo: una donde las voces no tienen que gritar para ser escuchadas.
 
