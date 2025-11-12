@@ -5,7 +5,6 @@ layout: home
  
 # hola, soy 𝕲𝖎𝖌𝖎 𝕮𝖍𝖆𝖉𝖎𝖉 👋 AKA ♡ 𝖒𝖊𝖉𝖚𝖘𝖆𝖍𝖗𝖆 
 Bienvenidxs a mi sitio web
----
 ☻ mi única dirección estable en este mapa en perpetuo glitch. ☻
 ## sobre mí
 colombo lebanese 🇱🇧 hacker, offsec + exploit dev. Todo tiene fisuras: sistemas, cuerpos e infraestructuras del deseo, a esas grietas me asomo. ♡
