@@ -16,11 +16,13 @@ hacker, seguridad ofensiva, pentesting y análisis de malware. Todo tiene fisura
 —a esas grietas me asomo. Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagamente lujuriosos.
 
 ---
+## escritos
+
+- [goad letters](https://goadletter.substack.com/) — filosofía, tecnología, crítica cultural
 
 ## cosas que hice cuando debería estar trabajando
 
 - ☣ **[listen to my sick playlists](https://open.spotify.com/user/oer0flire345iy1g4vaifowzc/playlists)** ☣
-- ☣ **[Mi Newsletter](https://goadletter.substack.com/)** ☣
 - ☣ **[Proyecto 3](https://enlace.com)**: Descripción breve ☣
 ---
 
@@ -34,4 +36,6 @@ hacker, seguridad ofensiva, pentesting y análisis de malware. Todo tiene fisura
 
 ---
 
-> 𝔫𝔬𝔫 𝔞𝔡 𝔩𝔲𝔠𝔢𝔪, 𝔰𝔢𝔡 𝔦𝔫 𝔦𝔫𝔠𝔢𝔫𝔡𝔦𝔲𝔪
+<div style="text-align: center; margin-top: 80px; margin-bottom: 40px;">
+<em>𝔫𝔬𝔫 𝔞𝔡 𝔩𝔲𝔠𝔢𝔪, 𝔰𝔢𝔡 𝔦𝔫 𝔦𝔫𝔠𝔢𝔫𝔡𝔦𝔲𝔪</em>
+</div>
