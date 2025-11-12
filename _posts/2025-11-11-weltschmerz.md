@@ -27,16 +27,16 @@ Al final del libro encontrarás formas de hacerlo. Todo gesto será recibido con
   <a href="https://drive.google.com/drive/folders/1PmajCjLHaCD2x08vmiq0Vp6zFdcNXuMU?usp=sharing" target="_blank" style="
     display: inline-block;
     padding: 25px 45px;
-    background: #ff1493;
-    color: #FFFFFF;
+    background: linear-gradient(135deg, #ff1493, #ff69b4);
+    color: #000000;
     text-decoration: none;
-    font-weight: bold;
-    font-size: 1.3em;
+    font-weight: 900;
+    font-size: 1.4em;
     border-radius: 10px;
     box-shadow: 0 0 20px #ff1493, 0 0 40px #ff1493, 0 0 60px #ff1493;
     animation: pulse 2s infinite;
     transition: all 0.3s;
-    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+    text-shadow: 0 0 3px #ffffff, 0 0 5px #ffffff;
   ">
     ⬇ Descargar Weltschmerz Gratuitamente ⬇
   </a>
