@@ -28,6 +28,14 @@ Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagam
 - ☣ **[listen to my sick playlists](https://open.spotify.com/user/oer0flire345iy1g4vaifowzc/playlists)** ☣
 ---
 
+---
+
+## otros proyectos
+
+- 💎 **[flabelum](https://instagram.com/flabelum)** · sacred objects for the body ·
+
+---
+
 ## contacto
 
 - GitHub: [@medusahra](https://github.com/medusahra)
@@ -35,8 +43,15 @@ Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagam
 - Instagram: [@medusahra](https://www.instagram.com/medusahra/)
 - X: [@medusahra](https://x.com/medusahra)
 
+---
+
+## apoya mi trabajo
+
+- ☕ [ko-fi](https://ko-fi.com/chadidgiovanna)
+- 💸 [paypal](https://www.paypal.com/paypalme/medusahra)
 
 ---
+
 
 <div style="text-align: center; margin-top: 80px; margin-bottom: 40px;">
 <em>𝔫𝔬𝔫 𝔞𝔡 𝔩𝔲𝔠𝔢𝔪, 𝔰𝔢𝔡 𝔦𝔫 𝔦𝔫𝔠𝔢𝔫𝔡𝔦𝔲𝔪</em>
