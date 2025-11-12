@@ -44,7 +44,9 @@ title: "enlaces de interés"
 
 ---
 
-## ▌║█║▌│║▌│║▌║▌█║Looks like you’ve reached the end  ▌│║▌║▌│║║▌█║▌║█
+<div style="text-align: center; margin: 80px 0; font-size: 1.3em; color: #ff1493; text-shadow: 0 0 10px #ff1493; font-family: monospace;">
+▌║█║▌│║▌│║▌║▌█║ Looks like you've reached the end ▌│║▌║▌│║║▌█║▌║█
+</div>
 
 
 ---
