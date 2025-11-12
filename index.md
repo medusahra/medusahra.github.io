@@ -26,15 +26,12 @@ Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagam
 ## cosas que hice cuando debería estar trabajando
 
 - ☣ **[listen to my sick playlists](https://open.spotify.com/user/oer0flire345iy1g4vaifowzc/playlists)** ☣
----
 
----
 
 ## otros proyectos
 
 - 💎 **[flabelum](https://instagram.com/flabelum)** · sacred objects for the body ·
 
----
 
 ## contacto
 
@@ -43,14 +40,12 @@ Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagam
 - Instagram: [@medusahra](https://www.instagram.com/medusahra/)
 - X: [@medusahra](https://x.com/medusahra)
 
----
 
 ## apoya mi trabajo
 
 - ☕ [ko-fi](https://ko-fi.com/chadidgiovanna)
 - 💸 [paypal](https://www.paypal.com/paypalme/medusahra)
 
----
 
 
 <div style="text-align: center; margin-top: 80px; margin-bottom: 40px;">
