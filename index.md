@@ -27,10 +27,10 @@ Hacker, Seguridad ofensiva, pentesting y análisis de malware. Todo tiene fisura
 ## contacto
 
 - GitHub: [@medusahra](https://github.com/medusahra)
-- Email: blackobjkt@protonmail.com
-- Instagram: @medusahra
-- X: @medusahra
+- Email: [blackobjkt@protonmail.com](mailto:blackobjkt@protonmail.com)
+- Instagram: [@medusahra](https://www.instagram.com/medusahra/)
+- X: [@medusahra](https://x.com/medusahra)
 
----
 
-> "Una frase inspiradora que te guste"
+
+> 𝔫𝔬𝔫 𝔞𝔡 𝔩𝔲𝔠𝔢𝔪, 𝔰𝔢𝔡 𝔦𝔫 𝔦𝔫𝔠𝔢𝔫𝔡𝔦𝔲𝔪
