@@ -6,7 +6,7 @@ layout: home
 
 # hola, soy 𝕲𝖎𝖌𝖎 𝕮𝖍𝖆𝖉𝖎𝖉 👋 AKA ♡ 𝖒𝖊𝖉𝖚𝖘𝖆𝖍𝖗𝖆 
 
-Bienvenidxs a mi sitio web.
+Bienvenidxs a mi sitio web
 ---
 ☻ mi única dirección estable en este mapa en perpetuo glitch. ☻
 
