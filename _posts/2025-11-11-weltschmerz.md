@@ -24,7 +24,22 @@ Al final del libro encontrarás formas de hacerlo. Todo gesto será recibido con
 ## descarga
 
 <div style="text-align: center; margin: 60px 0;">
-  <a href="https://drive.google.com/drive/folders/1PmajCjLHaCD2x08vmiq0Vp6zFdcNXuMU?usp=sharing" target="_blank" style="display: inline-block; padding: 15px 25px; background: #ff1493; color: #000000; text-decoration: none; font-weight: bold; font-size: 1em; border-radius: 8px; box-shadow: 0 0 20px #ff1493, 0 0 40px #ff1493, 0 0 60px #ff1493; animation: pulse 2s infinite; transition: all 0.3s;">⬇ Descargar Weltschmerz Gratuitamente ⬇</a>
+  <a href="https://drive.google.com/drive/folders/1PmajCjLHaCD2x08vmiq0Vp6zFdcNXuMU?usp=sharing" target="_blank" style="
+    display: inline-block;
+    padding: 15px 25px;
+    background: #ff1493;
+    color: #000000;
+    text-decoration: none;
+    font-weight: 900;
+    font-size: 1.1em;
+    border-radius: 8px;
+    box-shadow: 0 0 20px #ff1493, 0 0 40px #ff1493, 0 0 60px #ff1493;
+    animation: pulse 2s infinite;
+    transition: all 0.3s;
+    text-shadow: 0 0 10px #1a1a1a, 0 0 15px #333333, 2px 2px 4px rgba(0,0,0,0.8);
+  ">
+    ⬇ Descargar Weltschmerz Gratuitamente ⬇
+  </a>
 </div>
 
 <style>
