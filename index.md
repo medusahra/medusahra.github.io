@@ -19,10 +19,9 @@ Seguridad ofensiva, pentesting y análisis de malware. Todo tiene fisuras: siste
 
 ## proyectos
 
-☣ listen to my sick playlists ☣ (https://open.spotify.com/user/oer0flire345iy1g4vaifowzc/playlists)
-☣ Mi Newsletter ☣ (https://goadletter.substack.com/)
-- **Proyecto 3**: Descripción breve
-
+- ☣ **[listen to my sick playlists](https://open.spotify.com/user/oer0flire345iy1g4vaifowzc/playlists)** ☣
+- ☣ **[Mi Newsletter](https://goadletter.substack.com/)** ☣
+- ☣ **[Proyecto 3](https://enlace.com)**: Descripción breve ☣
 ---
 
 ## contacto
