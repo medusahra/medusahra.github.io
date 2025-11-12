@@ -13,8 +13,7 @@ mi única dirección estable en este mapa en perpetuo glitch. ☻
 
 ## sobre mí
 
-hacker, offsec + exploit dev. Todo tiene fisuras: sistemas, cuerpos e infraestructuras del deseo 
-—a esas grietas me asomo. ♡
+hacker, offsec + exploit dev. Todo tiene fisuras: sistemas, cuerpos e infraestructuras del deseo, a esas grietas me asomo. ♡
 Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagamente lujuriosos.
 
 ---
