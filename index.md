@@ -24,7 +24,7 @@ Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagam
 
 ## cosas que hice cuando debería estar trabajando
 
-- ☣ **[listen to my sick playlists](https://open.spotify.com/user/oer0flire345iy1g4vaifowzc/playlists)** ☣
+- ☣ [listen to my sick playlists](https://open.spotify.com/user/oer0flire345iy1g4vaifowzc/playlists) ☣
 ---
 
 ## contacto
