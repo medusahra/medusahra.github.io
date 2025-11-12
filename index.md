@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-<img src="/assets/radonxglitchsuperpink_upscayl_4x_remacri-4x.png" alt="Logo" style="max-width: 200px; display: block; margin: 0 auto 20px;">
+<img src="/assets/logo-small.png" alt="Logo" style="max-width: 200px; display: block; margin: 0 auto 20px;">
  
 
 # hola, soy 𝕲𝖎𝖌𝖎 𝕮𝖍𝖆𝖉𝖎𝖉 👋
