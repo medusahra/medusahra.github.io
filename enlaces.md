@@ -39,7 +39,6 @@ title: "enlaces de interés"
 - **[Canek Zapata Net](https://canekzapata.net/index.html)**
 - **[Hackers Curator](https://hackerscurator.com/)**
 - **[Phrack](http://www.phrack.org/)**
-- **[Recurso 2](URL)**
 - **[Bloerp \ Hackers code95](https://bloerp.de/code/tempel/hackers/hackersFinal.c.html)**
 
 ---
