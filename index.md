@@ -19,12 +19,12 @@ hacker, seguridad ofensiva, pentesting y análisis de malware. Todo tiene fisura
 ## Literatura
 
 - [weltschmerz >](/2025/11/11/weltschmerz.html) — un libro para los que no temen mirar hacia el abismo
+- **[archivo de textos >](/archive.html)** ☣
 - [goad letters](https://goadletter.substack.com/) — filosofía, tecnología, crítica cultural
 
 ## cosas que hice cuando debería estar trabajando
 
 - ☣ **[listen to my sick playlists](https://open.spotify.com/user/oer0flire345iy1g4vaifowzc/playlists)** ☣
-- ☣ **[Proyecto 3](https://enlace.com)**: Descripción breve ☣
 ---
 
 ## contacto
