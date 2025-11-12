@@ -5,7 +5,7 @@ title: "Enlaces de Interés"
 
 [< volver](/)
 
-<img src="/assets/Malware Medusa Banner.jpg" alt="Malware Medusa Banner" style="max-width: 100%; display: block; margin: 30px auto; filter: drop-shadow(0 0 30px #ff1493);">
+<img src="/assets/Malware Medusa Banner Dark Army(1).png" alt="Malware Medusa Banner" style="max-width: 100%; display: block; margin: 30px auto; filter: drop-shadow(0 0 30px #ff1493);">
 
 # Enlaces de Interés
 
