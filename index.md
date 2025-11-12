@@ -16,7 +16,7 @@ colombo lebanese hacker, offsec + exploit dev. Todo tiene fisuras: sistemas, cue
 Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagamente lujuriosos.
 
 
-## Autista 🧠 Neurodisidente
+**[autista 🧠 neurodisidente]
 
 ## literatura
 
