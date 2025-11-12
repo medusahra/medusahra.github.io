@@ -19,7 +19,7 @@ hacker, seguridad ofensiva, pentesting y análisis de malware. Todo tiene fisura
 ## literatura
 
 - **[archivo de textos >](/archive.html)**
-- [weltschmerz >](/2025/11/11/weltschmerz.html) un libro para los que no temen mirar hacia el abismo
+- [descarga mi libro: weltschmerz >](/2025/11/11/weltschmerz.html) un libro para los que no temen mirar hacia el abismo
 - [goad letters](https://goadletter.substack.com/) filosofía, tecnología, crítica cultural
 
 ## cosas que hice cuando debería estar trabajando
