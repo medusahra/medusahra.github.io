@@ -4,7 +4,7 @@ layout: home
 <img src="/assets/logo-small.png" alt="Logo" style="max-width: 200px; display: block; margin: 0 auto 20px;">
  
 
-# hola, soy 𝕲𝖎𝖌𝖎 𝕮𝖍𝖆𝖉𝖎𝖉 👋
+# hola, soy 𝕲𝖎𝖌𝖎 𝕮𝖍𝖆𝖉𝖎𝖉 👋 AKA ♡ 𝖒𝖊𝖉𝖚𝖘𝖆𝖍𝖗𝖆 
 
 Bienvenidxs a mi sitio web.
 ---
