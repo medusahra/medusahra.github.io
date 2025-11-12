@@ -1,0 +1,50 @@
+/* Forzar tema oscuro en todos los dispositivos */
+:root {
+  --bg: #1a1a1a;
+  --text: #e0e0e0;
+  --link: #7873f5;
+}
+
+body {
+  background-color: var(--bg) !important;
+  color: var(--text) !important;
+}
+
+/* Efecto holográfico en títulos principales */
+h1 {
+  background: linear-gradient(45deg, #ff6ec4, #7873f5, #4facfe, #00f2fe);
+  background-size: 300% 300%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  animation: holographic 3s ease infinite;
+  font-weight: bold;
+}
+
+@keyframes holographic {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+/* Enlaces con efecto */
+a {
+  color: #7873f5;
+  transition: color 0.3s;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ff6ec4;
+}
+
+/* Logo con efecto flotante */
+img {
+  filter: drop-shadow(0 0 20px rgba(120, 115, 245, 0.5));
+  animation: float 3s ease-in-out infinite;
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+}
