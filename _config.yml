@@ -18,3 +18,14 @@ url: "https://medusahra.github.io"
 author:
   name: Tu Nombre
   email: tuemail@ejemplo.com
+
+# CSS personalizado
+sass:
+  style: compressed
+
+# Incluir CSS custom
+defaults:
+  - scope:
+      path: ""
+    values:
+      custom_css: /assets/css/style.css
