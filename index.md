@@ -12,14 +12,14 @@ Bienvenidx a mi sitio web. Fixed finally!
 
 ## sobre mí
 
-Hacker, seguridad ofensiva, pentesting y análisis de malware. Todo tiene fisuras: sistemas, cuerpos e infraestructuras del deseo 
+hacker, seguridad ofensiva, pentesting y análisis de malware. Todo tiene fisuras: sistemas, cuerpos e infraestructuras del deseo 
 —a esas grietas me asomo. Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagamente lujuriosos.
 
 ---
 
 ## cosas que hice cuando debería estar trabajando
 
-- - ☣ [listen to my sick playlists](https://open.spotify.com/user/oer0flire345iy1g4vaifowzc/playlists) ☣
+- ☣ **[listen to my sick playlists](https://open.spotify.com/user/oer0flire345iy1g4vaifowzc/playlists)** ☣
 - ☣ **[Mi Newsletter](https://goadletter.substack.com/)** ☣
 - ☣ **[Proyecto 3](https://enlace.com)**: Descripción breve ☣
 ---
@@ -32,5 +32,6 @@ Hacker, seguridad ofensiva, pentesting y análisis de malware. Todo tiene fisura
 - X: [@medusahra](https://x.com/medusahra)
 
 
+---
 
 > 𝔫𝔬𝔫 𝔞𝔡 𝔩𝔲𝔠𝔢𝔪, 𝔰𝔢𝔡 𝔦𝔫 𝔦𝔫𝔠𝔢𝔫𝔡𝔦𝔲𝔪
