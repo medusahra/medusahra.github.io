@@ -8,7 +8,7 @@ date: 2025-11-13
 
 # Encuentro el mundo neurotípico superficial y artificial
 
-## Existir desde la neurodivergencia
+## *Existir desde la neurodivergencia*
 
 ---
 
