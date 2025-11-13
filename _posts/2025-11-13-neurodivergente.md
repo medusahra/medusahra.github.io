@@ -82,7 +82,7 @@ Y si alguien no comprende esto, está bien. No fui hecha para ser comprendida po
 
 No es que no pueda adaptarme… es que simplemente no me interesa.
 
-<img src="/assets/infinite1.jpg" alt="autismawareness" style="max-width: 90%; width: 400px; display: block; margin: 30px auto; filter: drop-shadow(0 0 30px #ff1493);">
+<img src="/assets/infinite1.png" alt="autismawareness" style="max-width: 90%; width: 400px; display: block; margin: 30px auto; filter: drop-shadow(0 0 30px #ff1493);">
 
 Gracias por leer, y si llegaste hasta aquí, si quieres conocer mi trabajo orfebre, puedes seguir mi página de Instagram.
 
