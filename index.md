@@ -15,7 +15,7 @@ Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagam
 - **[archivo de textos >](/archive.html)**
 - [descarga mi libro: weltschmerz >](/2025/11/11/weltschmerz.html)
 - <a href="https://goadletter.substack.com/" target="_blank">goad letters en Substack ></a>
-- **<a href="https://www.goodreads.com/author/show/52505402.Giovanna_Chadid" target="_blank">goodreads author</a>**
+- **<a href="https://www.goodreads.com/author/show/52505402.Giovanna_Chadid" target="_blank">goodreads author></a>**
 - **[enlaces de interés >](/enlaces.html)**
 ## cosas que hice cuando debería estar trabajando
 - ☣ **<a href="https://open.spotify.com/user/oer0flire345iy1g4vaifowzc/playlists" target="_blank">listen to my sick playlists</a>** ☣
