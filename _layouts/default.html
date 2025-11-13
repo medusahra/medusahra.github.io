@@ -11,6 +11,33 @@
       margin: 0;
       padding: 0;
     }
+    /* Protección de imágenes */
+img {
+  pointer-events: none;
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
+    
+    <script>
+// Deshabilitar click derecho en imágenes
+document.addEventListener('contextmenu', function(e) {
+  if (e.target.tagName === 'IMG') {
+    e.preventDefault();
+    return false;
+  }
+});
+
+// Deshabilitar arrastrar imágenes
+document.addEventListener('dragstart', function(e) {
+  if (e.target.tagName === 'IMG') {
+    e.preventDefault();
+    return false;
+  }
+});
+</script>
+    
     
     body {
       background-color: #000000 !important;
