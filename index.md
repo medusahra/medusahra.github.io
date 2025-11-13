@@ -6,7 +6,7 @@ layout: home
 # Hola soy 𝕲𝖎𝖌𝖎 𝕮𝖍𝖆𝖉𝖎𝖉 🤘 AKA ♡ 𝖒𝖊𝖉𝖚𝖘𝖆𝖍𝖗𝖆 
 
 Bienvenidxxs a mi sitio web 🏴‍☠️
----
+
 he levantado mi propio templo de código y deseo: un glitch rosa en el mapa
 ## whoami
 colombo lebanese 🇱🇧 hacker, offsec + exploit dev. Todo tiene fisuras: sistemas, cuerpos e infraestructuras del deseo, a esas grietas me asomo. ♡
