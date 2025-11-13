@@ -1,11 +1,11 @@
 title: ♡ 𝖒𝖊𝖉𝖚𝖘𝖆𝖍𝖗𝖆 ♡
-description: 
+description: "Hacker offsec, escritora de filosofía y crítica cultural. Weltschmerz - libro de poesía gratuito. Goad Letters newsletter."
 remote_theme: riggraz/no-style-please
 
 theme_config:
   appearance: "dark"
   back_home_text: "< inicio"
-  date_format: "%Y-% %d"
+  date_format: "%Y-%m-%d"
 
 plugins:
   - jekyll-remote-theme
@@ -13,17 +13,27 @@ plugins:
   - jekyll-seo-tag
 
 url: "https://medusahra.github.io"
+lang: es
 
-# Redes sociales (opcional)
+# Autor
 author:
-  name: Tu Nombre
-  email: tuemail@ejemplo.com
+  name: Giovanna Gigi Chadid
+  email: blackobjkt@protonmail.com
+
+# SEO
+tagline: "Hacker, offsec, filosofía, crítica cultural, poesía"
+
+social:
+  name: Gigi Chadid
+  links:
+    - https://github.com/medusahra
+    - https://instagram.com/medusahra
+    - https://x.com/medusahra
 
 # CSS personalizado
 sass:
   style: compressed
 
-# Incluir CSS custom
 defaults:
   - scope:
       path: ""
