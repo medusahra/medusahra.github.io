@@ -10,8 +10,8 @@ Bienvenidxs a mi sitio web
 ## whoami
 colombo lebanese 🇱🇧 hacker, offsec + exploit dev. Todo tiene fisuras: sistemas, cuerpos e infraestructuras del deseo, a esas grietas me asomo. ♡
 Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagamente lujuriosos.
----
-**autista 🧠 neurodisidente**
+
+# mi hardware cognitivo 🧠 no fue aprobado por el comité de normalidad. Lo cual explica casi todo.
 
 ## literatura
 - **[archivo de textos >](/archive.html)**
