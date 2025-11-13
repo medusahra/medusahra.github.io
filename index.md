@@ -7,7 +7,7 @@ layout: home
 
 Bienvenidxs a mi sitio web
 ☻ mi única dirección estable en este mapa en perpetuo glitch. ☻
-## sobre mí
+## whoami
 colombo lebanese 🇱🇧 hacker, offsec + exploit dev. Todo tiene fisuras: sistemas, cuerpos e infraestructuras del deseo, a esas grietas me asomo. ♡
 Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagamente lujuriosos.
 ## autista 🧠 neurodisidente
