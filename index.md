@@ -15,6 +15,7 @@ Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagam
 ## literatura
 - **[archivo de textos >](/archive.html)**
 - [descarga mi libro: weltschmerz >](/2025/11/11/weltschmerz.html)
+- - **[existir desde la neurodivergencia >](/2025/11/13/neurodivergente.html)**
 - <a href="https://goadletter.substack.com/" target="_blank">goad letters en substack ></a>
 - **<a href="https://www.goodreads.com/author/show/52505402.Giovanna_Chadid" target="_blank">goodreads author ></a>**
 - **[enlaces de interés >](/enlaces.html)**
