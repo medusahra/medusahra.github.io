@@ -23,8 +23,8 @@ title: "enlaces de interés"
 - 🔗 **<a href="https://www.quira-medios.com/giovanna-simone-ch%C3%A4did/" target="_blank">portal cultural de Bogotá</a>**
 ---
 ## para explorar
-- **<a href="https://www.denizcemonduygu.com/philo/browse/" target="_blank">Physics of beauty</a>**
--  **<a href="https://physicsofbeauty.art/" target="_blank">History of Philosophy</a>**
+- **<a href="https://physicsofbeauty.art/" target="_blank">Physics of beauty</a>**
+-  **<a href="https://www.denizcemonduygu.com/philo/browse/" target="_blank">History of Philosophy</a>**
 - **<a href="https://copiona.com/" target="_blank">Copiona</a>**
 - **<a href="https://brokenenglish.lol/" target="_blank">https://brokenenglish.lol/</a>**
 - **<a href="https://www.phantomphreak.com/" target="_blank">Phantom Phreak</a>**
