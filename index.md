@@ -11,7 +11,6 @@ Bienvenidxs a mi sitio web
 colombo lebanese 🇱🇧 hacker, offsec + exploit dev. Todo tiene fisuras: sistemas, cuerpos e infraestructuras del deseo, a esas grietas me asomo. ♡
 Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagamente lujuriosos.
 
-- <a href="https://open.substack.com/pub/goadletter/p/encuentro-el-mundo-neurotipico-superficial?r=2kfe43&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false" target="_blank">Mi hardware cognitivo no fue aprobado por el comité de normalidad. Lo cual explica casi todo. ></a>
 
 ## literatura
 - **[archivo de textos >](/archive.html)**
