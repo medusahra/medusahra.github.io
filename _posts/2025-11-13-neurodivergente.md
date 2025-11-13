@@ -43,4 +43,23 @@ Permitirme estar más presente en los momentos que favorecen el flujo, la creaci
 
 <img src="/assets/gigi2.jpg" alt="estudio1995" style="max-width: 90%; width: 400px; display: block; margin: 30px auto; filter: drop-shadow(0 0 30px #ff1493);">
 
+Mi cerebro habita el mundo de una manera particular. Soy autista —diagnosticada a los nueve años y luego a los treinta y uno—, tengo TDAH y un trastorno esquizoafectivo. Esto último significa que convivo con síntomas propios de la esquizofrenia, como alucinaciones, paranoia y delirios, pero también con los de un trastorno del estado de ánimo. En mi caso, trastorno bipolar: un vaivén entre la euforia ligera de la hipomanía y los abismos de la depresión mayor.
+
+Bien controlados con medicación, sí. Pero eso no quita que mi percepción de la realidad a veces no coincida con la de los demás. Oh, ¿te sorprende? ¿Pensaste que solo era excéntrica? Qué ternura. Supongo que era momento de revelarlo, pues no cometí ningún crímen como para tener que esconderlo, aunque en mi realidad no cambia nada. Siempre he sido así, con una mente que opera en una frecuencia distinta, analizando el mundo con una profundidad casi absurda, lo que me permite captar detalles que otros ignoran, analizar el mundo con perspicacia y, al mismo tiempo, desconectarme por completo de lo que muchos consideran esencial.
+
+Su mundo (neurotípico)
+
+Puedo concentrarme con precisión quirúrgica en lo que me interesa, pero como dije antes, cambiar de enfoque es otra historia. Mientras el TDAH me lanza en múltiples direcciones, 
+la parte autista de mí busca patrones, lógica, rutina y estructura en un entorno que se siente caótico y banal.
+
+Los síntomas negativos del trastorno esquizoafectivo, por su parte, introducen una distancia entre mi mundo interior y la realidad compartida: la motivación no surge de forma natural, 
+la energía no fluye como debería, pero mi mente lo compensa con una observación más aguda, más despiadada. Las alucinaciones no son constantes, pero cuando aparecen, 
+el mundo se vuelve fascinante en su propia forma retorcida, como si el velo de lo ordinario se rompiera por un instante y revelara algo más interesante detrás.
+
+Mi mundo se transforma en un entorno más profundo, más simbólico, como si el mundo tuviera capas invisibles a las que solo yo puedo acceder, sin duda, un multiplano más interesante.
+
+<img src="/assets/pills1.jpg" alt="medicinas" style="max-width: 90%; width: 400px; display: block; margin: 30px auto; filter: drop-shadow(0 0 30px #ff1493);">
+
+
+
 
