@@ -1,9 +1,7 @@
 ---
 layout: home
 ---
-<div class="logo-protected">
-  <img src="/assets/logo-small.png" alt="Logo" style="max-width: 200px; display: block; margin: 80px auto 20px; filter: drop-shadow(0 0 20px #ff1493);">
-</div>
+<img src="/assets/logo-small.png" alt="Logo" style="max-width: 200px; display: block; margin: 80px auto 20px; filter: drop-shadow(0 0 20px #ff1493);">
  
 # hola, soy 𝕲𝖎𝖌𝖎 𝕮𝖍𝖆𝖉𝖎𝖉 👋 AKA ♡ 𝖒𝖊𝖉𝖚𝖘𝖆𝖍𝖗𝖆
 
