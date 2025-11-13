@@ -14,37 +14,39 @@
     
     body {
       background-color: #000000 !important;
-      color: #ffffff !important;
+      color: #FF2777 !important;
       font-family: monospace;
+      font-size: 12px;
       padding: 20px;
       max-width: 800px;
       margin: 0 auto;
       line-height: 1.6;
     }
     
-    /* Títulos rosa neón */
+    /* Títulos rosa neón con glow */
     h1, h2, h3 {
       color: #ff1493 !important;
       text-shadow: 0 0 10px #ff1493, 0 0 20px #ff1493;
       margin: 20px 0;
     }
     
-    /* Texto normal blanco */
-    p, li, div {
-      color: #ffffff !important;
+    /* Texto normal rosa sin glow */
+    p, li, div, span {
+      color: #FF2777 !important;
+      text-shadow: none;
     }
     
-    /* Enlaces rosa con glow */
+    /* Enlaces blancos con glow sutil */
     a {
-      color: #ff1493 !important;
+      color: #ffffff !important;
       text-decoration: underline;
-      text-shadow: 0 0 8px #ff1493, 0 0 15px #ff1493;
+      text-shadow: 0 0 3px #ffffff, 0 0 6px #ffffff;
       transition: all 0.3s ease;
     }
     
     a:hover {
-      color: #ff69b4 !important;
-      text-shadow: 0 0 15px #ff69b4, 0 0 25px #ff69b4, 0 0 35px #ff69b4;
+      color: #ffffff !important;
+      text-shadow: 0 0 8px #ffffff, 0 0 15px #ffffff;
     }
     
     /* Logo flotante */
@@ -66,7 +68,7 @@
       margin-left: 20px;
     }
   </style>
-
+  
   <!-- Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-3YV9GBM4FZ"></script>
   <script>
@@ -75,7 +77,6 @@
     gtag('js', new Date());
     gtag('config', 'G-3YV9GBM4FZ');
   </script>
-
 </head>
 <body>
   {{ content }}
