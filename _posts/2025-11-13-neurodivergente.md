@@ -86,7 +86,9 @@ No es que no pueda adaptarme… es que simplemente no me interesa.
 
 Gracias por leer, y si llegaste hasta aquí, si quieres conocer mi trabajo orfebre, puedes seguir mi página de Instagram.
 
+<a href="https://www.instagram.com/flabelum/" target="_blank">@flabelum</a>
 
+---
 
 [< volver al inicio](/)
 
