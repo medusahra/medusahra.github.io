@@ -60,6 +60,34 @@ Mi mundo se transforma en un entorno más profundo, más simbólico, como si el 
 
 <img src="/assets/pills1.jpg" alt="medicinas" style="max-width: 90%; width: 400px; display: block; margin: 30px auto; filter: drop-shadow(0 0 30px #ff1493);">
 
+Decido hablar de esto porque creo que es importante, sin importar los juicios ajenos, que se desestigmatice la enfermedad mental y la neurodivergencia en un mundo que quiere e intenta a cada minuto decirnos quién somos y quién no debemos ser, uniformarnos con su igualdad aplastante, es urgente, porque cuando eres así, la familia y los amigos tienden a desaparecer. No con dramatismo ni escándalo, sino con la elegante cobardía de quien simplemente deja de responder. Se deslizan fuera de tu vida con la misma naturalidad con la que se deslizan fuera de una conversación incómoda. No porque te odien, sino porque les resulta más fácil fingir que no existes que lidiar con la incomodidad de tu existencia real. Pero en mi caso especifico, nunca he tenido el más mínimo interés en ser la mascota emocional de nadie. 
+Si para ser aceptada tengo que volverme inofensiva, dócil y predecible, prefiero el exilio. La soledad no es un problema cuando la alternativa es rodearse de gente cuya mayor aspiración es no sentirse incómoda. En los últimos treinta y nueve años de vida, durante cada día, he luchado contra eso, contra este sistema manipulador, lleno de gente manipuladora y a la vez manipulada, porque a pesar de todo no he necesitado encajar en un sistema diseñado para inteligencias más simples ni justificar la forma en que existo. La mayoría sobrevive siguiendo estructuras rígidas y predefinidas, sin cuestionar su propia programación. Yo, en cambio, observo desde afuera, con la lucidez de la locura de quien no necesita validación ni permiso.
 
+<img src="/assets/gigi3.jpg" alt="diadelmicumpleanos" style="max-width: 90%; width: 400px; display: block; margin: 30px auto; filter: drop-shadow(0 0 30px #ff1493);">
+
+Moverme en la realidad cotidiana es un desafío no porque me falte capacidad, sino porque me sobran dimensiones para procesar. La sociedad espera un ritmo, una estructura, una forma de ser que nunca ha sido la mía. Por eso, encontrar espacios donde pueda sumergirme en mi propio flujo es esencial. Ahí, en la escritura, en la contemplación, en el pensamiento sin restricciones, es donde todo cobra sentido. No es que no pueda adaptarme, es que no veo la necesidad de hacerlo.
+
+Decidí hablar de esto hoy porque, en el fondo, la opinión de la mayoría no tiene ninguna relevancia en mi existencia. Mi vida está fuera del alcance de los perdedores. No intento justificar mi existencia, o mi quizá no existencia, porque la mera idea de hacerlo es absurda. No hay tribunal ante el cual deba rendir cuentas ni estándar contra el que deba medirme. Si este dispatch suena a un manifesto, es porque lo es. No una súplica, ni una explicación, ni una busqueda por aprobación externa, sino una afirmación irrefutable: existo bajo mis propios términos, en un eje distinto al de la medianía.
+
+<img src="/assets/gigiautismo1.jpg" alt="awareness" style="max-width: 90%; width: 400px; display: block; margin: 30px auto; filter: drop-shadow(0 0 30px #ff1493);">
+
+No me interesa la redención que otros persiguen ni las ilusiones que los mantienen funcionales. Vivo en un espectro de realidad donde la percepción no es unívoca, 
+donde los márgenes de lo real se doblan sobre sí mismos y la conciencia es un territorio vasto, inexplorado. La mayoría está atrapada en la linealidad del pensamiento utilitario; 
+yo me desplazo entre fractales de significado, donde la inteligencia no es solo una herramienta, sino un prisma que distorsiona y revela a la vez.
+
+
+<img src="/assets/gigi4.jpg" alt="medicinas" style="max-width: 90%; width: 400px; display: block; margin: 30px auto; filter: drop-shadow(0 0 30px #ff1493);">
+
+Y si alguien no comprende esto, está bien. No fui hecha para ser comprendida por todos. No fui hecha para encajar, sino para existir de manera absoluta bajo mis propios terminos.
+
+No es que no pueda adaptarme… es que simplemente no me interesa.
+
+<img src="/assets/infinite1.jpg" alt="autismawareness" style="max-width: 90%; width: 400px; display: block; margin: 30px auto; filter: drop-shadow(0 0 30px #ff1493);">
+
+Gracias por leer, y si llegaste hasta aquí, si quieres conocer mi trabajo orfebre, puedes seguir mi página de Instagram.
+
+
+
+[< volver al inicio](/)
 
 
