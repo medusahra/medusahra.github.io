@@ -28,6 +28,7 @@ lo que los hace tiernos la mayor parte del tiempo.
 Quizá yo también sea tierna y fatídica. Me agradan los patrones que se repiten y varían en bucle dentro de su misma repetición, conservando su esencia viva mientras dan un breve espacio a lo nuevo, 
 cargado de posibles nuevos resultados llenos de más vida. Soy completamente ajena a las cosas que otras personas planifican y a su manera suave y plana de ejecutar y justificar su existencia.
 <img src="/assets/gigi1.jpg" alt="estudio" style="max-width: 90%; width: 400px; display: block; margin: 30px auto; filter: drop-shadow(0 0 30px #ff1493);">
+
 Cuanto más cansada estoy, más fuerte es esta sensación de estar perdida, vacía y desamparada dentro de mí, y a menudo estoy cansada, debido a las impresiones, las expectativas y el intento inútil de encajar y navegar en un mundo cada vez más agresivo, cerrado, inestable, caótico y superficial. A esto se suma toda una vida tratando de ser neurotípica, 
 de intentar ajustarme a esa norma impuesta por un montón de gente inerte, lo que ha creado una incertidumbre y una sensación constante de estrés por tratar de estar alerta para poder manejar la vida.
 
