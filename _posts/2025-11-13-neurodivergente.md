@@ -64,8 +64,8 @@ Mi cerebro es extremadamente bueno para mantenerse enfocado en una sola cosa, es
 
 
 
-Mi cerebro habita el mundo de una manera particular. 
-<div style="margin: 40px 0;"></div>
+*Mi cerebro habita el mundo de una manera particular.* 
+<div style="margin: 10px 0;"></div>
 Soy autista —diagnosticada a los nueve años y luego a los treinta y uno—, tengo TDAH y vivo con ideación suicida constante, para mí, una de las partes más difíciles con las que convivo a diario; mérito de un trastorno esquizoafectivo que he tenido desde que tengo uso de razón. Esto último significa que convivo con síntomas propios de la esquizofrenia, como alucinaciones visuales y auditivas, 
 paranoia, delirio de persecución, *sobre todo cuando paso por mucho estrés*, pero también con los de un trastorno del estado de ánimo. 
 En mi caso, un vaivén entre la euforia ligera de la hipomanía y los abismos de la depresión mayor.
