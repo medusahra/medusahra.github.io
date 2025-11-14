@@ -2,6 +2,8 @@
 layout: default
 title: "Encuentro el mundo neurotípico superficial y artificial."
 date: 2025-11-13
+pinned: true
+
 ---
 
 [< volver](/)
