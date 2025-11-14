@@ -16,7 +16,9 @@ pinned: true
 
 Qué incómoda la vida, pero ya que estamos aquí…
 
-Muy a menudo, más de lo que quisiera, me siento vacía y perdida, también terriblemente triste y huérfana. Es un sentimiento que he llevado conmigo desde que era muy pequeña. Quizá esté relacionado con el hecho de que experimento el mundo exterior como caótico y que tengo dificultad para encontrar sentido en cosas a las que otros les atribuyen significado. 
+Muy a menudo, más de lo que quisiera, me siento vacía y perdida, también terriblemente triste y huérfana. 
+Es un sentimiento que he llevado conmigo desde que era muy pequeña. Quizá esté relacionado con el hecho de que experimento el mundo exterior como caótico y que tengo dificultad para encontrar sentido 
+en cosas a las que otros les atribuyen significado. 
 
 Puedo ser ajena a cosas para las que otras personas se preparan, pero siento un significado profundo por unos segundos cuando hay un olor a pasto mojado en el aire después de la lluvia o cuando encuentro la mirada de mi gata Zero en el balcón, temprano en la mañana mientras el sol está saliendo o cuando cae el atardecer y se refleja en mi ventana. Solo pequeños destellos de significado y alegría abrumadores. Luego vuelvo a sentirme vacía y perdida la mayor parte del tiempo.
 
@@ -29,13 +31,17 @@ En un mundo exterior, que con todas sus impresiones, constantemente está pinch�
 Me cuesta encontrar significado en tener un determinado trabajo o en otros indicadores de estatus social, incluidos amigos y eventos sociales, pero también me resulta muy difícil planificar cosas en el futuro con las que otras personas estructuran su vida, como a dónde ir de vacaciones o qué hacer el próximo fin de semana, a dónde ir a comer y con quién. Cuando la gente empieza a hablar de estas cosas, casi entro en pánico por dentro, porque hay una brecha enorme entre ellos y yo; casi siento una sensación existencial de vacío y una fuerte alienación.
 
 Me incomodan las miradas cómplices de la gente cuando me creen ingenua por no entender sus formas de interactuar tan extrañas. Piensan que no me doy cuenta de su nefasta manera de intentar verme la cara de tonta, cuando, justamente por eso, los tontos suelen ser ellos. Con sus palabras vacías y carentes de empatía, sus «échale ganas» sus «sal de tu zona de confort» con su profunda incomprensión por lo diferente y su miedo ingenuo y mal informado.
+<div style="margin: 20px 0;"></div>
 
+*Nunca he comprendido bien las cosas básicas, ya que no entiendo todo aquello que carece de espíritu.*
 
-Nunca he comprendido bien las cosas básicas, ya que no entiendo todo aquello que carece de espíritu.
+<div style="margin: 20px 0;"></div>
+Mientras tanto, observo sus patrones de comportamiento, y la pésima comunicación que usan, para intentar entender qué logran con esas formas tan vacías y anestesiadas de conectar con los demás. 
+Me pregunto por qué, aunque fracasen, siguen intentándolo de la misma manera. Tal vez yo también soy víctima de empecinarme en mirar lo mismo una y otra vez, igual que esos otros hacen lo mismo con su comportamiento y comunicación a pesar de saber que terminará de la misma manera... ¿o no? 
 
-Mientras tanto, observo sus patrones de comportamiento, y la pésima comunicación que usan, para intentar entender qué logran con esas formas tan vacías y anestesiadas de conectar con los demás. Me pregunto por qué, aunque fracasen, siguen intentándolo de la misma manera. Tal vez yo también soy víctima de empecinarme en mirar lo mismo una y otra vez, igual que esos otros hacen lo mismo con su comportamiento y comunicación a pesar de saber que terminará de la misma manera... ¿o no? 
-
-La gente es incómoda, fatídica, prejuiciosa, aburrida y sobre todo, predecible... lo que los hace tiernos la mayor parte del tiempo. Quizá yo también sea tierna y fatídica. Me agradan los patrones que se repiten y varían en bucle dentro de su misma repetición, conservando su esencia viva mientras dan un breve espacio a lo nuevo, cargado de posibles nuevos resultados llenos de más vida. Soy completamente ajena a las cosas que otras personas planifican y a su manera suave y plana de ejecutar y justificar su existencia.
+La gente es incómoda, fatídica, prejuiciosa, aburrida y sobre todo, predecible... lo que los hace tiernos la mayor parte del tiempo. Quizá yo también sea tierna y fatídica. 
+Me agradan los patrones que se repiten y varían en bucle dentro de su misma repetición, conservando su esencia viva mientras dan un breve espacio a lo nuevo, cargado de posibles nuevos resultados 
+llenos de más vida. Soy completamente ajena a las cosas que otras personas planifican y a su manera suave y plana de ejecutar y justificar su existencia.
 
 
 
@@ -118,6 +124,9 @@ No es que no pueda adaptarme… es que simplemente no me interesa.
 Gracias por leer, y si llegaste hasta aquí, si quieres conocer mi trabajo orfebre, puedes seguir mi página de Instagram.
 
 <a href="https://www.instagram.com/flabelum/" target="_blank">@flabelum</a>
+
+
+<div style="margin: 40px 0;"></div>
 
 
 
