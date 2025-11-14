@@ -28,7 +28,7 @@ Este libro es para quienes escuchan el murmullo bajo la superficie, para quienes
 Si este libro te ha encontrado y sientes que su contenido resuena en lo profundo, quiero invitarte a apoyar mi trabajo desde la libertad de dar, sabiendo que el acto de sostener lo independiente también es un acto de resistencia.
 Al final del libro encontrarás formas de hacerlo. Todo gesto será recibido con gratitud, porque es una forma más de mantener viva esta ruta que elige no someterse.
 ---
-## descarga
+# descarga
 
 <div style="text-align: center; margin: 60px 0;">
   <a href="https://drive.google.com/drive/folders/1PmajCjLHaCD2x08vmiq0Vp6zFdcNXuMU?usp=sharing" target="_blank" style="
