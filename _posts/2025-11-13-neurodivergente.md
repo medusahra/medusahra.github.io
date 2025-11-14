@@ -89,7 +89,7 @@ Mi mundo se transforma en un entorno más profundo, más simbólico, como si el 
 
 
 
-Decido hablar de esto porque creo que es importante, sin importar los juicios ajenos, que se desestigmatice la enfermedad mental y la neurodivergencia en un mundo que quiere e intenta a cada minuto decirnos quién somos y quién no debemos ser, uniformarnos con su igualdad aplastante, es urgente, porque cuando eres así, la familia y los amigos tienden a desaparecer. No con dramatismo ni escándalo, sino con la elegante cobardía de quien simplemente deja de responder. Se deslizan fuera de tu vida con la misma naturalidad con la que se deslizan fuera de una conversación incómoda. 
+*Decido hablar de esto porque creo que es importante, sin importar los juicios ajenos, que se desestigmatice la enfermedad mental y la neurodivergencia* en un mundo que quiere e intenta a cada minuto decirnos quién somos y quién no debemos ser, uniformarnos con su igualdad aplastante, es urgente, porque cuando eres así, la familia y los amigos tienden a desaparecer. No con dramatismo ni escándalo, sino con la elegante cobardía de quien simplemente deja de responder. Se deslizan fuera de tu vida con la misma naturalidad con la que se deslizan fuera de una conversación incómoda. 
 
 No porque te odien, sino porque les resulta más fácil fingir que no existes que lidiar con la incomodidad de tu existencia real. Pero en mi caso especifico, nunca he tenido el más mínimo interés en ser la mascota emocional de nadie. Si para ser aceptada tengo que volverme inofensiva, dócil y predecible, prefiero el exilio. La soledad no es un problema cuando la alternativa es rodearse de gente cuya mayor aspiración es no sentirse incómoda. 
 
