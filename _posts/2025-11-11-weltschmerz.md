@@ -15,7 +15,11 @@ Descubre *Weltschmerz*, mi más reciente libro de poesía. Un libro libre, un li
 ### sobre el libro
 Estoy lanzando al agujero de gusano que es el internet mi libro de poesía *Weltschmerz*.
 Escribir este libro ha sido una experiencia profunda, no solo por las palabras que surgieron de la herida, sino también por la manera en que decidí compartirlo con el mundo. Weltschmerz no es solo un conjunto de poemas; es el resultado de un proceso que abarca algo más grande: una decisión consciente de hacer las cosas de forma diferente, de no seguir los caminos tradicionales, de rechazar la industria que a menudo reduce el arte a números, ventas y espectáculos.
-Opté por una publicación independiente porque, al igual que en todo lo que hago, quiero que la creación sea libre. Como dijo alguna vez Thoreau: *«Todo lo bueno es libre y salvaje»*. Así es la poesía: no está amarrada a exigencias externas, ni a la lógica del mercado y mucho menos al capital.
+Opté por una publicación independiente porque, al igual que en todo lo que hago, quiero que la creación sea libre.
+<div style="margin: 10px 0;"></div>
+Como dijo alguna vez Thoreau: *«Todo lo bueno es libre y salvaje»*. 
+<div style="margin: 10px 0;"></div>
+Así es la poesía: no está amarrada a exigencias externas, ni a la lógica del mercado y mucho menos al capital.
 Este libro no busca llegar a todos; busca llegar a quienes resuenen con él. Creo que las palabras encuentran su propio camino, así como las personas encuentran las historias que necesitan leer en el momento justo.
 No hay una gran editorial detrás de Weltschmerz, ni tampoco habrá un lanzamiento oficial con luces, ponqué y escenario. Decidí gestionarlo yo misma porque creo en el poder de lo pequeño, lo cercano y lo auténtico.
 <img src="/assets/coverbook2.jpg" alt="Autor" style="max-width: 90%; width: 350px; display: block; margin: 40px auto; filter: drop-shadow(0 0 20px #ff1493);">
@@ -56,6 +60,8 @@ Al final del libro encontrarás formas de hacerlo. Todo gesto será recibido con
 *En este viaje de polvo estelar y ecos de lo subterráneo, cada gesto se convierte en un verso compartido, una chispa en la oscuridad.*
 *Gracias por acompañar este murmullante ritual de creación y resistencia.*
 *Para quienes habitan en la grieta entre el deseo y su imposibilidad*
----
+
+<div style="margin: 40px 0;"></div>
+
 
 [< volver al inicio](/)
