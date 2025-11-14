@@ -9,12 +9,12 @@ Bienvenidxxs a mi sitio web 🏴‍☠️
 
 he levantado mi propio templo de código y deseo: un glitch rosa en el mapa.
 ## whoami
-colombo lebanese 🇱🇧 hacker 
----
-offsec + exploit dev
-
+colombo lebanese 🇱🇧 hacker enfocada en seguridad ofensiva
+<div style="margin: 40px 0;"></div>
 
 *fine & dandy honeypot*
+<div style="margin: 40px 0;"></div>
+
 Todo tiene fisuras: sistemas, cuerpos e infraestructuras del deseo, a esas grietas me asomo. ♡
 Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagamente lujuriosos.
 
