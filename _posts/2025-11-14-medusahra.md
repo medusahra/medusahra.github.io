@@ -44,7 +44,60 @@ Entre lo que se guarda y lo que se desborda.
 Todo lo que hago nace de ese cruce inestable, de ese linaje dislocado que se hereda y se re—inventa con cada contradicción, con cada pérdida asumida como forma de vida. 
 Hablo desde un archivo que respira, que no tiene índice ni origen claro, y cuya única ley es la transformación.
 
+Mi gabinete de sombras.
+Mi archivo de lo indecible.
+Una zona donde el tiempo no fluye: se acumula.
+Donde el yo no se confiesa: se disgrega en símbolos.
+Es una habitación sin puertas donde los ecos forman arquitectura.
 
+Soy descendiente de oasis invisibles y ciudades laberínticas escritas en caligrafías de fuego.
+No vengo del orden, sino de su disolución: del desvío, del tránsito perpetuo, de la fricción entre lo que desea formar parte y lo que sabe que no pertenece.
+
+Me formé en las grietas de los sistemas, en los márgenes de los mapas donde las genealogías se enredan y los nombres se vuelven bruma.
+Aprendí a leer en los márgenes y a escribir en las ruinas.
+
+Habito el desplazamiento como herencia y como método,
+no como huida, sino como insurrección contra la fijeza.
+Contra la lógica genealógica que exige continuidad, identidad, coherencia.
+
+Lo mío es otra forma de permanencia:
+una que se curva, que se disuelve, que reaparece en otro registro, con otro rostro,
+como un poema que se niega a cerrarse.
+
+Mi linaje es constelación sin centro,
+hecha de fragmentos afectivos que no obedecen a ninguna cronología.
+Ni origen ni destino: tan solo intensidades.
+
+Llevo en el cuerpo un archivo emocional errante, sin índice,
+donde cada cicatriz funciona como código y cada goce como subversión del tiempo.
+
+Mi genealogía no es lineal:
+es una danza de restos, una música de intervalos.
+Soy hija del entre-lugar, del exilio interior,
+de los mundos que no alcanzaron a fundarse pero dejaron señales.
+
+Aquí hablo —no para explicar, sino para encarnar lo inexplicable.
+Aquí escribo —no para narrarme, sino para invocar.
+Aquí estoy —como un eco con cuerpo, como un signo que respira.
+
+Y si algo perdura, que no sea la forma, sino la frecuencia.
+El temblor que sobrevive a toda sintaxis,
+la vibración sutil de lo que no se deja atrapar ni fijar.
+
+Que mi nombre no sea una firma, sino un pliegue en el tejido del mundo.
+Que este archivo no se conserve: que se active.
+Que no se entienda: que se sienta.
+
+Porque no vine a establecer sentido, sino a invocar presencias.
+A dejar señales para quien también habite el borde, la ruina, el relámpago.
+
+Y si alguien escucha, que escuche con el cuerpo.
+Y si alguien responde, que no traduzca.
+Que dance.
+
+“Soy la oveja Vantablack: garganta de agujero negro, aberración de luz,
+animal imposible que ya no cabe en el rebaño.”
+— Medusahra
 
 
 
