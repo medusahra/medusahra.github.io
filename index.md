@@ -13,7 +13,7 @@ colombo lebanese 🇱🇧 hacker <br>
 enfocada en seguridad ofensiva  
 <br>
 *fine & dandy honeypot*
-Todo tiene fisuras: sistemas, cuerpos e infraestructuras del deseo, a esas grietas me asomo. ♡
+todo tiene fisuras: sistemas, cuerpos e infraestructuras del deseo, a esas grietas me asomo. ♡
 Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagamente lujuriosos.
 
 
