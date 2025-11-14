@@ -9,7 +9,8 @@ Bienvenidxxs a mi sitio web 🏴‍☠️
 
 he levantado mi propio templo de código y deseo: un glitch rosa en el mapa.
 ## whoami
-colombo lebanese 🇱🇧 hacker enfocada en seguridad ofensiva  
+colombo lebanese 🇱🇧 hacker <br>
+enfocada en seguridad ofensiva  
 <br>
 *fine & dandy honeypot*
 Todo tiene fisuras: sistemas, cuerpos e infraestructuras del deseo, a esas grietas me asomo. ♡
