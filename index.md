@@ -3,7 +3,7 @@ layout: home
 ---
 <img src="/assets/logo-small.png" alt="Logo" style="max-width: 200px; display: block; margin: 80px auto 20px; filter: drop-shadow(0 0 20px #ff1493);">
  
-# Hola 👋🌐🦄🌈 soy 𝕲𝖎𝖌𝖎 𝕮𝖍𝖆𝖉𝖎𝖉 AKA 𝖒𝖊𝖉𝖚𝖘𝖆𝖍𝖗𝖆
+# Hola 👋👺🌈🦄 soy 𝕲𝖎𝖌𝖎 𝕮𝖍𝖆𝖉𝖎𝖉 AKA 𝖒𝖊𝖉𝖚𝖘𝖆𝖍𝖗𝖆
 
 
 Bienvenidxxs a mi sitio web 🏴‍☠️
