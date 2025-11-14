@@ -36,5 +36,5 @@ Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagam
 <em>𝔫𝔬𝔫 𝔞𝔡 𝔩𝔲𝔠𝔢𝔪, 𝔰𝔢𝔡 𝔦𝔫 𝔦𝔫𝔠𝔢𝔫𝔡𝔦𝔲𝔪</em>
 </div>
 <div style="text-align: center; margin-top: 40px;">
-<img src="/assets/pirateglam.jpeg" alt="Pirate Flag" style="max-width: 150px; filter: drop-shadow(0 0 15px #ff1493);">
+<img src="/assets/pirateglam2x.png" alt="Pirate Flag" style="max-width: 150px; filter: drop-shadow(0 0 15px #ff1493);">
 </div>
