@@ -70,9 +70,10 @@ Bien controlados con medicación, sí. Pero eso no quita que mi percepción de l
 
 ### Su mundo (neurotípico)
 
-Puedo concentrarme con precisión quirúrgica en lo que me interesa, pero como dije antes, cambiar de enfoque es otra historia. Mientras el TDAH me lanza en múltiples direcciones, la parte autista de mí busca patrones, lógica, rutina y estructura en un entorno que se siente caótico y banal.
-
-Los síntomas negativos del trastorno esquizoafectivo, por su parte, introducen una distancia entre mi mundo interior y la realidad compartida: la motivación no surge de forma natural, la energía no fluye como debería, pero mi mente lo compensa con una observación más aguda, más despiadada. Las alucinaciones no son constantes, pero cuando aparecen, el mundo se vuelve fascinante en su propia forma retorcida, como si el velo de lo ordinario se rompiera por un instante y revelara algo más interesante detrás.
+Puedo concentrarme con dicha y facilidad en lo que me interesa, pero como dije antes, cambiar de enfoque es otra historia. Mientras el TDAH me lanza en múltiples direcciones, la parte autista de mí busca patrones, lógica, rutina y estructura en un entorno que se siente caótico y banal.
+<br>
+Los síntomas negativos del trastorno esquizoafectivo, por su parte, introducen una distancia entre mi mundo interior y la realidad compartida: la motivación no surge de forma natural, si es que surge... la energía no fluye como debería, pero mi mente lo compensa con una observación más aguda, más despiadada. 
+Las alucinaciones no son constantes, pero cuando aparecen, el mundo se vuelve fascinante en su propia forma retorcida, como si el velo de lo ordinario se rompiera por un instante y revelara algo más interesante detrás.
 
 Mi mundo se transforma en un entorno más profundo, más simbólico, como si el mundo tuviera capas invisibles a las que solo yo puedo acceder, sin duda, un multiplano más interesante.
 
