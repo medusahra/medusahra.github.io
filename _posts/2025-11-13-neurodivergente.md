@@ -10,7 +10,7 @@ date: 2025-11-13
 
 ## *Existir desde la neurodivergencia*
 
-
+<div style="margin: 40px 0;"></div>
 
 Qué incómoda la vida, pero ya que estamos aquí…
 
@@ -18,12 +18,12 @@ Muy a menudo, más de lo que quisiera, me siento vacía y perdida, también terr
 
 Puedo ser ajena a cosas para las que otras personas se preparan, pero siento un significado profundo por unos segundos cuando hay un olor a pasto mojado en el aire después de la lluvia o cuando encuentro la mirada de mi gata Zero en el balcón, temprano en la mañana mientras el sol está saliendo o cuando cae el atardecer y se refleja en mi ventana. Solo pequeños destellos de significado y alegría abrumadores. Luego vuelvo a sentirme vacía y perdida la mayor parte del tiempo.
 
-
+<div style="margin: 40px 0;"></div>
 
 
 <img src="/assets/zero1.jpg" alt="zerogata" style="max-width: 90%; width: 400px; display: block; margin: 40px auto; filter: drop-shadow(0 0 30px #ff1493);">
 
-
+<div style="margin: 40px 0;"></div>
 
 
 En un mundo exterior, que con todas sus impresiones, constantemente está pinchándome y empujándome, de mala manera, diciéndome que desee más y que sea más, cuando todo lo que quiero es estar en paz con lo que encuentro significativo, y eso a menudo no es algo que el mundo exterior valore como suficientemente significativo. 
