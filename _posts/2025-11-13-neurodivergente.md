@@ -15,6 +15,7 @@ pinned: true
 <div style="margin: 40px 0;"></div>
 
 Qué incómoda la vida, pero ya que estamos aquí…
+<div style="margin: 10px 0;"></div>
 
 Muy a menudo, más de lo que quisiera, me siento vacía y perdida, también terriblemente triste y huérfana. 
 Es un sentimiento que he llevado conmigo desde que era muy pequeña. Quizá esté relacionado con el hecho de que experimento el mundo exterior como caótico y que tengo dificultad para encontrar sentido 
