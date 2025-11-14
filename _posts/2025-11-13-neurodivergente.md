@@ -46,18 +46,19 @@ La gente es incómoda, fatídica, prejuiciosa, aburrida y sobre todo, predecible
 
 
 
-
 <img src="/assets/gigi1.jpg" alt="estudio" style="max-width: 90%; width: 400px; display: block; margin: 40px auto; filter: drop-shadow(0 0 30px #ff1493);">
-
 
 
 
 Cuanto más cansada estoy, más fuerte es esta sensación de estar perdida, vacía y desamparada dentro de mí, y a menudo estoy cansada, debido a las impresiones, las expectativas y el intento inútil de encajar y navegar en un mundo cada vez más agresivo, cerrado, inestable, caótico y superficial. A esto se suma toda una vida tratando de ser neurotípica, de intentar ajustarme a esa norma impuesta por un montón de gente inerte, lo que ha creado una incertidumbre y una sensación constante de estrés por tratar de estar alerta para poder manejar la vida.
 
+<div style="margin: 40px 0;"></div>
+
 Es difícil reaprender y cuidar de un sistema nervioso estresado tantos años después, ya que el piloto automático de simplemente intentar sobrevivir en el mundo de los demás se ha convertido en una parte integral de mí. Realmente solo me siento segura cuando sé exactamente qué hacer en el momento y puedo sumergirme en una concentración total, como cuando escribo poesía, ensayos, algún paper o tésis, analizando malware, escribiendo scripts o estoy creando joyería (una forma de meditación). Ese hiperfoco me saca de un mundo lleno de demandas absurdas y me lleva a un estado de flujo donde vuelvo a sentirme segura.
 
-Mi cerebro es extremadamente bueno para mantenerse enfocado en una sola cosa, especialmente si es algo que me interesa, pero le cuesta cambiar de foco. Relacionarme y formar parte del mundo exterior, así como atravesar la vida cotidiana con todas las tareas que implica, requiere cambiar constantemente de enfoque. Eso me agota y, como consecuencia, me siento estresada, vacía, perdida y adolorida. No conozco otra forma de sobrellevarlo más que intentar estructurar mi vida diaria y reducir las exigencias que me impongo. Permitirme estar más presente en los momentos que favorecen el flujo, la creación y el hiperfoco.
+<div style="margin: 40px 0;"></div>
 
+Mi cerebro es extremadamente bueno para mantenerse enfocado en una sola cosa, especialmente si es algo que me interesa, pero le cuesta cambiar de foco. Relacionarme y formar parte del mundo exterior, así como atravesar la vida cotidiana con todas las tareas que implica, requiere cambiar constantemente de enfoque. Eso me agota y, como consecuencia, me siento estresada, vacía, perdida y adolorida. No conozco otra forma de sobrellevarlo más que intentar estructurar mi vida diaria y reducir las exigencias que me impongo. Permitirme estar más presente en los momentos que favorecen el flujo, la creación y el hiperfoco.
 
 
 
@@ -65,8 +66,9 @@ Mi cerebro es extremadamente bueno para mantenerse enfocado en una sola cosa, es
 
 
 
+Mi cerebro habita el mundo de una manera particular. Soy autista —diagnosticada a los nueve años y luego a los treinta y uno—, tengo TDAH y un trastorno esquizoafectivo. Esto último significa que convivo con síntomas propios de la esquizofrenia, como alucinaciones visuales y auditivas, paranoia, delirio de persecución, sobre todo cuando paso por mucho estrés, pero también con los de un trastorno del estado de ánimo. En mi caso, un vaivén entre la euforia ligera de la hipomanía y los abismos de la depresión mayor.
 
-Mi cerebro habita el mundo de una manera particular. Soy autista —diagnosticada a los nueve años y luego a los treinta y uno—, tengo TDAH y un trastorno esquizoafectivo. Esto último significa que convivo con síntomas propios de la esquizofrenia, como alucinaciones, paranoia y delirios, pero también con los de un trastorno del estado de ánimo. En mi caso, trastorno bipolar: un vaivén entre la euforia ligera de la hipomanía y los abismos de la depresión mayor.
+<div style="margin: 40px 0;"></div>
 
 Bien controlados con medicación, sí. Pero eso no quita que mi percepción de la realidad a veces no coincida con la de los demás. Oh, ¿te sorprende? ¿Pensaste que solo era excéntrica? Qué ternura. Supongo que era momento de revelarlo, pues no cometí ningún crímen como para tener que esconderlo, aunque en mi realidad no cambia nada. Siempre he sido así, con una mente que opera en una frecuencia distinta, analizando el mundo con una profundidad casi absurda, lo que me permite captar detalles que otros ignoran, analizar el mundo con perspicacia y, al mismo tiempo, desconectarme por completo de lo que muchos consideran esencial.
 
@@ -80,9 +82,7 @@ Mi mundo se transforma en un entorno más profundo, más simbólico, como si el 
 
 
 
-
 <img src="/assets/pills1.jpg" alt="medicinas" style="max-width: 90%; width: 400px; display: block; margin: 40px auto; filter: drop-shadow(0 0 30px #ff1493);">
-
 
 
 
@@ -94,9 +94,7 @@ En los últimos treinta y nueve años de vida, durante cada día, he luchado con
 
 
 
-
 <img src="/assets/gigi3.jpg" alt="diadelmicumpleanos" style="max-width: 90%; width: 400px; display: block; margin: 40px auto; filter: drop-shadow(0 0 30px #ff1493);">
-
 
 
 
@@ -106,9 +104,7 @@ Decidí hablar de esto hoy porque, en el fondo, la opinión de la mayoría no ti
 
 
 
-
 <img src="/assets/gigiautismo1.jpg" alt="awareness" style="max-width: 90%; width: 400px; display: block; margin: 40px auto; filter: drop-shadow(0 0 30px #ff1493);">
-
 
 
 
@@ -116,9 +112,7 @@ No me interesa la redención que otros persiguen ni las ilusiones que los mantie
 
 
 
-
 <img src="/assets/gigi4.jpg" alt="medicinas" style="max-width: 90%; width: 400px; display: block; margin: 40px auto; filter: drop-shadow(0 0 30px #ff1493);">
-
 
 
 
@@ -128,9 +122,7 @@ No es que no pueda adaptarme… es que simplemente no me interesa.
 
 
 
-
 <img src="/assets/infinite1.png" alt="autismawareness" style="max-width: 90%; width: 400px; display: block; margin: 40px auto; filter: drop-shadow(0 0 30px #ff1493);">
-
 
 
 
