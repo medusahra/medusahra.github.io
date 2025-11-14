@@ -14,8 +14,9 @@ he levantado mi propio templo de código y deseo: un glitch rosa en el mapa.
 ## whoami
 colombo lebanese 🇱🇧 hacker <br>
 enfocada en seguridad ofensiva  
-<br>
+<h1 style="line-height: 1.2;">
 *fine & dandy honeypot*
+</h1>
 todo tiene fisuras: sistemas, cuerpos e infraestructuras del deseo, a esas grietas me asomo. ♡
 Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagamente lujuriosos.
 
