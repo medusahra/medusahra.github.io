@@ -63,18 +63,32 @@ h1, h2, h3 {
       font-style: italic;
     }
     
-   /* Logo flotante */
+/* Logo flotante (movimiento grande) */
 img {
   max-width: 300px;
   display: block;
   margin: 20px auto;
-  filter: drop-shadow(0 0 30px #ff1493) drop-shadow(0 0 50px #ff1493) brightness(1.2);
-  animation: float 3s ease-in-out infinite;
+  filter: drop-shadow(0 0 20px #ff1493);
 }
-    
-   @keyframes float {
+
+/* Solo el logo del home flota mucho */
+.logo-home {
+  animation: float-big 3s ease-in-out infinite;
+}
+
+/* Imágenes de posts flotan poquito */
+img {
+  animation: float-small 3s ease-in-out infinite;
+}
+
+@keyframes float-big {
   0%, 100% { transform: translateY(0px); }
   50% { transform: translateY(-40px); }
+}
+
+@keyframes float-small {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
 }
     /* Listas */
     ul, ol {
