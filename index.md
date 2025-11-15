@@ -7,6 +7,9 @@ layout: home
 hola soy 𝕲𝖎𝖌𝖎 𝕮𝖍𝖆𝖉𝖎𝖉 ⚔️👺⚔️ <br>
 AKA ♡ 𝖒𝖊𝖉𝖚𝖘𝖆𝖍𝖗𝖆
 </h1>
+<h1 style="line-height: 1.2;">
+𝑁𝑒𝑢𝑟𝑜𝑞𝑢𝑒𝑒𝑟 𝐻𝑒𝑟𝑒𝑠𝑖𝑒𝑠 
+</h1>
 
 Bienvenidxxs a mi sitio web 🏴‍☠️
 
