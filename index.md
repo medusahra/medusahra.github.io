@@ -44,7 +44,6 @@ Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagam
 <div style="text-align: center; margin-top: 80px; margin-bottom: 40px;">
 <em>𝔫𝔬𝔫 𝔞𝔡 𝔩𝔲𝔠𝔢𝔪, 𝔰𝔢𝔡 𝔦𝔫 𝔦𝔫𝔠𝔢𝔫𝔡𝔦𝔲𝔪</em>
 </div>
-<div style="text-align: center; margin-top: 10px;">
-  <img src="/assets/piratepinkglam2x.png" alt="Pirate Flag" style="max-width: 150px; filter: drop-shadow(0 0 15px #ff1493); display: inline-block;">
+<div style="text-align: center; margin-top: 40px;">
+<img src="/assets/piratepinkglam2x.png" alt="Pirate Flag" style="max-width: 150px; filter: drop-shadow(0 0 15px #ff1493);">
 </div>
-
