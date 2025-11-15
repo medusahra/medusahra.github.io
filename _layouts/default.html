@@ -13,7 +13,7 @@
   <!-- Open Graph (redes sociales) -->
   <meta property="og:site_name" content="Giovanna Chadid | medusahra">
   <meta property="og:title" content="Giovanna Chadid | Hacker & Escritora">
-  <meta property="og:description" content="Hacker offsec, filosofía, crítica cultural y poesía. Weltschmerz - libro gratuito.">
+  <meta property="og:description" content="Hacker ofensiva, filosofía, crítica cultural y poesía. Weltschmerz - libro gratuito.">
   <meta property="og:image" content="https://medusahra.github.io/assets/logo-small.png">
   <meta property="og:url" content="https://medusahra.github.io">
   <meta property="og:type" content="website">
@@ -21,46 +21,50 @@
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Giovanna Chadid | medusahra">
-  <meta name="twitter:description" content="Hacker offsec, filosofía, crítica cultural y poesía">
+  <meta name="twitter:description" content="Hacker ofensiva, filosofía, crítica cultural y poesía">
   <meta name="twitter:image" content="https://medusahra.github.io/assets/logo-small.png">
   <meta name="twitter:site" content="@medusahra">
   
   <style>
+    /* Fondo negro total */
     * {
       margin: 0;
       padding: 0;
     }
     
-    body {
-      background-color: #000000 !important;
-      color: #ff2777 !important;
-      font-family: monospace;
-      font-size: 16px;
-      line-height: 1.4;
-      padding: 15px;
-      padding-bottom: 0;
-      max-width: 800px;
-      margin: 0 auto;
-      min-height: 100%;
-      overflow-wrap: break-word;
-      word-wrap: break-word;
-    }
+   body {
+  background-color: #000000 !important;
+  color: #ff2777 !important;
+  font-family: monospace;
+  font-size: 16px;
+  line-height: 1.4;
+  padding: 15px;
+  padding-bottom: 100px;
+  max-width: 800px;
+  margin: 0 auto;
+  min-height: 100%;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+}
     
-    h1, h2, h3 {
-      color: #ff1493 !important;
-      text-shadow: 0 0 10px #ff1493, 0 0 20px #ff1493;
-      margin: 20px 0;
-      font-family: Consolas, 'Lucida Console', Monaco, monospace;
-      font-weight: bold;
-      letter-spacing: 1px;
-      font-size: 1.5em;
-    }
+/* Títulos rosa neón con glow */
+h1, h2, h3 {
+  color: #ff1493 !important;
+  text-shadow: 0 0 10px #ff1493, 0 0 20px #ff1493;
+  margin: 20px 0;
+  font-family: Consolas, 'Lucida Console', Monaco, monospace;
+  font-weight: bold;
+  letter-spacing: 1px;
+  font-size: 1.5em;
+}
     
+    /* Texto normal rosa sin glow */
     p, li, div, span {
       color: #FF2777 !important;
       text-shadow: none;
     }
     
+    /* Enlaces blancos con glow sutil */
     a {
       color: #ffffff !important;
       text-decoration: underline;
@@ -73,85 +77,99 @@
       text-shadow: 0 0 8px #ffffff, 0 0 15px #ffffff;
     }
     
+    /* Texto en cursiva = blanco neón */
     em, i {
       color: #ffffff !important;
       text-shadow: 0 0 5px #ffffff, 0 0 10px #ffffff;
       font-style: italic;
     }
-
-    img {
-      max-width: 300px;
-      display: block;
-      margin: 20px auto;
-      filter: drop-shadow(0 0 20px #ff1493);
-    }
-
-    .logo-home {
-      animation: float-big 3s ease-in-out infinite;
-    }
-
-    img {
-      animation: float-small 3s ease-in-out infinite;
-    }
-
-    @keyframes float-big {
-      0%, 100% { transform: translateY(0px); }
-      50% { transform: translateY(-40px); }
-    }
-    @keyframes float-small {
-      0%, 100% { transform: translateY(0px); }
-      50% { transform: translateY(-15px); }
-    }
-
+    
+/* Logo flotante (movimiento grande) */
+img {
+  max-width: 300px;
+  display: block;
+  margin: 20px auto;
+  filter: drop-shadow(0 0 20px #ff1493);
+}
+/* Solo el logo del home flota mucho */
+.logo-home {
+  animation: float-big 3s ease-in-out infinite;
+}
+/* Imágenes de posts flotan poquito */
+img {
+  animation: float-small 3s ease-in-out infinite;
+}
+@keyframes float-big {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-40px); }
+}
+@keyframes float-small {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-15px); }
+}
+    /* Listas */
     ul, ol {
       margin-left: 20px;
     }
     
-    @media (max-width: 600px) {
-      body {
-        font-size: 14px;
-        padding: 10px;
-        padding-bottom: 10px;
-      }
-      
-      h1, h2, h3 {
-        font-size: 1.3em;
-      }
-    }
+  /* Responsive para móvil */
+@media (max-width: 600px) {
+  body {
+    font-size: 14px;
+    padding: 10px;
+    padding-bottom: 110px;
+  }
+  
+  h1, h2, h3 {
+    font-size: 1.3em;
+  }
+}
 
-    /* MINI PLAYER */
-    #mini-player {
-      position: fixed;
-      bottom: 20px;
-      right: 20px;
-      padding: 10px 14px;
-      border: 1px solid #ff1493;
-      border-radius: 10px;
-      background: rgba(0,0,0,0.65);
-      backdrop-filter: blur(6px);
-      display: flex;
-      align-items: center;
-      gap: 6px;
-      z-index: 9999;
-      box-shadow: 0 0 20px #ff1493;
-    }
-    #mini-player button {
-      background: none;
-      border: none;
-      color: #ff1493;
-      font-size: 18px;
-      cursor: pointer;
-      text-shadow: 0 0 10px #ff1493;
-    }
-    #mini-player input[type=range] {
-      accent-color: #ff1493;
-    }
-    #mini-player button:hover {
-      color: #ffffff;
-      text-shadow: 0 0 15px #ffffff;
-    }
+/* ===== REPRODUCTOR SIMPLE ===== */
+.music-player {
+  position: fixed;
+  bottom: 15px;
+  right: 15px;
+  background: rgba(0, 0, 0, 0.98);
+  border: 2px solid #ff1493;
+  border-radius: 12px;
+  padding: 15px;
+  box-shadow: 0 0 20px #ff1493;
+  z-index: 9999;
+  font-family: monospace;
+  max-width: 320px;
+}
+
+.player-title {
+  color: #ff1493;
+  font-size: 13px;
+  text-shadow: 0 0 10px #ff1493;
+  font-weight: bold;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.audio-player {
+  width: 100%;
+  margin-top: 5px;
+  filter: hue-rotate(290deg) saturate(2);
+}
+
+@media (max-width: 600px) {
+  .music-player {
+    bottom: 10px;
+    right: 10px;
+    left: 10px;
+    max-width: none;
+    padding: 12px;
+  }
+  
+  .player-title {
+    font-size: 11px;
+  }
+}
   </style>
-
+  
   <!-- Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-3YV9GBM4FZ"></script>
   <script>
@@ -161,10 +179,17 @@
     gtag('config', 'G-3YV9GBM4FZ');
   </script>
 </head>
-
 <body>
   {{ content }}
 
+  <!-- Reproductor HTML5 básico -->
+  <div class="music-player">
+    <div class="player-title">♪ SOUNDTRACK ♪</div>
+    <audio class="audio-player" controls preload="metadata">
+      <source src="https://medusahra.github.io/assets/music/voodoo-people.mp3" type="audio/mpeg">
+      Tu navegador no soporta audio HTML5.
+    </audio>
+  </div>
+
 </body>
 </html>
-
