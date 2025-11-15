@@ -39,6 +39,7 @@
   font-size: 16px;
   line-height: 1.4;
   padding: 15px;
+  padding-bottom: 80px; /* Espacio para el reproductor en móvil */
   max-width: 800px;
   margin: 0 auto;
   min-height: 100%;
@@ -116,6 +117,7 @@ img {
   body {
     font-size: 14px;
     padding: 10px;
+    padding-bottom: 70px;
   }
   
   h1, h2, h3 {
@@ -128,32 +130,34 @@ img {
   position: fixed;
   bottom: 20px;
   right: 20px;
-  background: rgba(0, 0, 0, 0.95);
+  background: rgba(0, 0, 0, 0.98);
   border: 2px solid #ff1493;
   border-radius: 10px;
-  padding: 15px;
+  padding: 12px;
   box-shadow: 0 0 20px #ff1493, 0 0 40px #ff1493;
   z-index: 9999;
   font-family: monospace;
-  min-width: 280px;
+  min-width: 260px;
+  max-width: 280px;
   backdrop-filter: blur(10px);
 }
 
 .music-player.minimized {
   min-width: auto;
-  padding: 10px;
+  max-width: none;
+  padding: 8px 12px;
 }
 
 .player-header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 10px;
+  margin-bottom: 8px;
 }
 
 .player-title {
   color: #ff1493;
-  font-size: 14px;
+  font-size: 12px;
   text-shadow: 0 0 10px #ff1493;
   font-weight: bold;
 }
@@ -162,10 +166,13 @@ img {
   background: none;
   border: none;
   color: #ff1493;
-  font-size: 18px;
+  font-size: 16px;
   cursor: pointer;
   text-shadow: 0 0 5px #ff1493;
   transition: all 0.3s;
+  padding: 0;
+  width: 20px;
+  height: 20px;
 }
 
 .minimize-btn:hover {
@@ -183,31 +190,36 @@ img {
 
 .track-info {
   color: #ff2777;
-  font-size: 12px;
-  margin-bottom: 10px;
-  height: 30px;
+  font-size: 10px;
+  margin-bottom: 8px;
+  height: 26px;
   overflow: hidden;
   text-overflow: ellipsis;
+  line-height: 1.3;
 }
 
 .controls {
   display: flex;
   justify-content: center;
-  gap: 15px;
-  margin-bottom: 10px;
+  gap: 10px;
+  margin-bottom: 8px;
 }
 
 .control-btn {
   background: none;
   border: 2px solid #ff1493;
   color: #ff1493;
-  width: 40px;
-  height: 40px;
+  width: 36px;
+  height: 36px;
   border-radius: 50%;
   cursor: pointer;
-  font-size: 18px;
+  font-size: 14px;
   transition: all 0.3s;
   box-shadow: 0 0 10px #ff1493;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
 }
 
 .control-btn:hover {
@@ -224,60 +236,109 @@ img {
 .volume-control {
   display: flex;
   align-items: center;
-  gap: 10px;
-  margin-top: 10px;
+  gap: 8px;
+  margin-top: 8px;
 }
 
 .volume-label {
   color: #ff1493;
-  font-size: 12px;
+  font-size: 10px;
   text-shadow: 0 0 5px #ff1493;
 }
 
 .volume-slider {
   flex: 1;
-  height: 4px;
+  height: 3px;
   -webkit-appearance: none;
   appearance: none;
   background: #ff1493;
   outline: none;
   border-radius: 2px;
-  box-shadow: 0 0 10px #ff1493;
+  box-shadow: 0 0 8px #ff1493;
 }
 
 .volume-slider::-webkit-slider-thumb {
   -webkit-appearance: none;
   appearance: none;
-  width: 14px;
-  height: 14px;
+  width: 12px;
+  height: 12px;
   background: #ff1493;
   cursor: pointer;
   border-radius: 50%;
-  box-shadow: 0 0 10px #ff1493;
+  box-shadow: 0 0 8px #ff1493;
 }
 
 .volume-slider::-moz-range-thumb {
-  width: 14px;
-  height: 14px;
+  width: 12px;
+  height: 12px;
   background: #ff1493;
   cursor: pointer;
   border-radius: 50%;
-  box-shadow: 0 0 10px #ff1493;
+  box-shadow: 0 0 8px #ff1493;
   border: none;
 }
 
+/* MÓVIL - Mucho más pequeño y centrado abajo */
 @media (max-width: 600px) {
   .music-player {
-    bottom: 10px;
-    right: 10px;
-    min-width: 240px;
-    padding: 12px;
+    bottom: 5px;
+    right: 5px;
+    left: 5px;
+    margin: 0 auto;
+    min-width: auto;
+    max-width: 95%;
+    padding: 8px;
+    border-width: 1px;
+  }
+  
+  .player-title {
+    font-size: 10px;
+  }
+  
+  .minimize-btn {
+    font-size: 14px;
+    width: 18px;
+    height: 18px;
   }
   
   .control-btn {
-    width: 35px;
-    height: 35px;
-    font-size: 16px;
+    width: 32px;
+    height: 32px;
+    font-size: 12px;
+    border-width: 1px;
+  }
+  
+  .track-info {
+    font-size: 9px;
+    height: 24px;
+    margin-bottom: 6px;
+  }
+  
+  .controls {
+    gap: 8px;
+    margin-bottom: 6px;
+  }
+  
+  .volume-label {
+    font-size: 9px;
+  }
+  
+  .volume-slider {
+    height: 2px;
+  }
+  
+  .volume-slider::-webkit-slider-thumb {
+    width: 10px;
+    height: 10px;
+  }
+  
+  .volume-slider::-moz-range-thumb {
+    width: 10px;
+    height: 10px;
+  }
+  
+  .music-player.minimized {
+    padding: 6px 10px;
   }
 }
   </style>
@@ -319,13 +380,13 @@ img {
   <script>
     // Playlist
     const playlist = [
-      { name: "The Moth The Flame", file: "/assets/music/Les Deux Love Orchestra - The Moth The Flame (1).mp3" },
-      { name: "Voodoo People", file: "/assets/music/03. Voodoo People (1).mp3" },
-      { name: "Clubbed To Death", file: "/assets/music/04. Rob D - Clubbed To Death [Kurayamino Mix].mp3" },
-      { name: "root@kali", file: "/assets/music/09. 3.1_4-root@kali.0cc.mp3" },
-      { name: "Distract & Enter", file: "/assets/music/13 - Mac Quayle - 405.1 Distract & Enter.mp3" },
-      { name: "da3m0nsneverstop", file: "/assets/music/23. 1.3_5-da3m0nsneverstop.caf (1).mp3" },
-      { name: "impenetrable", file: "/assets/music/25. 1.4_2-impenetrable.sd2.mp3" }
+      { name: "The Moth The Flame", file: "/assets/music/moth-flame.mp3" },
+      { name: "Voodoo People", file: "/assets/music/voodoo-people.mp3" },
+      { name: "Clubbed To Death", file: "/assets/music/clubbed-to-death.mp3" },
+      { name: "root@kali", file: "/assets/music/root-kali.mp3" },
+      { name: "Distract & Enter", file: "/assets/music/distract-enter.mp3" },
+      { name: "da3m0nsneverstop", file: "/assets/music/da3m0ns.mp3" },
+      { name: "impenetrable", file: "/assets/music/impenetrable.mp3" }
     ];
 
     let currentTrack = 0;
@@ -345,6 +406,17 @@ img {
     audio.src = playlist[0].file;
     audio.volume = 0.7;
 
+    // Debug: Verificar si el audio carga
+    audio.addEventListener('loadedmetadata', () => {
+      console.log('Audio cargado:', playlist[currentTrack].name);
+    });
+
+    audio.addEventListener('error', (e) => {
+      console.error('Error cargando audio:', e);
+      console.error('Archivo:', playlist[currentTrack].file);
+      trackInfo.textContent = '❌ Error cargando audio';
+    });
+
     // Actualizar info del track
     function updateTrackInfo() {
       trackInfo.textContent = `${currentTrack + 1}/${playlist.length} - ${playlist[currentTrack].name}`;
@@ -357,10 +429,18 @@ img {
         playBtn.textContent = '▶';
         isPlaying = false;
       } else {
-        audio.play();
-        playBtn.textContent = '⏸';
-        isPlaying = true;
-        updateTrackInfo();
+        // Intento de reproducir
+        const playPromise = audio.play();
+        if (playPromise !== undefined) {
+          playPromise.then(() => {
+            playBtn.textContent = '⏸';
+            isPlaying = true;
+            updateTrackInfo();
+          }).catch((error) => {
+            console.error('Error al reproducir:', error);
+            trackInfo.textContent = '❌ No se puede reproducir';
+          });
+        }
       }
     });
 
@@ -368,7 +448,9 @@ img {
     prevBtn.addEventListener('click', () => {
       currentTrack = (currentTrack - 1 + playlist.length) % playlist.length;
       audio.src = playlist[currentTrack].file;
-      if (isPlaying) audio.play();
+      if (isPlaying) {
+        audio.play().catch(e => console.error('Error:', e));
+      }
       updateTrackInfo();
     });
 
@@ -376,7 +458,9 @@ img {
     nextBtn.addEventListener('click', () => {
       currentTrack = (currentTrack + 1) % playlist.length;
       audio.src = playlist[currentTrack].file;
-      if (isPlaying) audio.play();
+      if (isPlaying) {
+        audio.play().catch(e => console.error('Error:', e));
+      }
       updateTrackInfo();
     });
 
@@ -384,7 +468,7 @@ img {
     audio.addEventListener('ended', () => {
       currentTrack = (currentTrack + 1) % playlist.length;
       audio.src = playlist[currentTrack].file;
-      audio.play();
+      audio.play().catch(e => console.error('Error:', e));
       updateTrackInfo();
     });
 
