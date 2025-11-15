@@ -69,7 +69,13 @@ const homePlaylist = [
   { name: "rootkali", file: "https://medusahra.github.io/assets/music/rootkali.mp3" },
   { name: "405.3", file: "https://medusahra.github.io/assets/music/405.3.mp3" },
   { name: "409.1", file: "https://medusahra.github.io/assets/music/409.1.mp3" },
-  { name: "409.3", file: "https://medusahra.github.io/assets/music/409.3.mp3" }
+  { name: "409.3", file: "https://medusahra.github.io/assets/music/409.3.mp3" },
+  { name: "Grimes1", file: "https://medusahra.github.io/assets/music/Grimes1.mp3" },
+  { name: "Grimes2", file: "https://medusahra.github.io/assets/music/Grimes2.mp3" },
+  { name: "lesdeux", file: "https://medusahra.github.io/assets/music/lesdeux.mp3" },
+  { name: "Ninajirachi", file: "https://medusahra.github.io/assets/music/Ninajirachi.mp3" },
+  { name: "Univz", file: "https://medusahra.github.io/assets/music/Univz.mp3" },
+  { name: "clubbed", file: "https://medusahra.github.io/assets/music/clubbed.mp3" }
 ];
 
 let homeCurrentTrack = 0;
