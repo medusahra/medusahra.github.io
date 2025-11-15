@@ -117,7 +117,7 @@ img {
   body {
     font-size: 14px;
     padding: 10px;
-    padding-bottom: 110px;
+    padding-bottom: 90px;
   }
   
   h1, h2, h3 {
@@ -125,7 +125,7 @@ img {
   }
 }
 
-/* ===== REPRODUCTOR SIMPLE ===== */
+/* ===== REPRODUCTOR MUSICAL ===== */
 .music-player {
   position: fixed;
   bottom: 15px;
@@ -134,10 +134,24 @@ img {
   border: 2px solid #ff1493;
   border-radius: 12px;
   padding: 15px;
-  box-shadow: 0 0 20px #ff1493;
+  box-shadow: 0 0 20px #ff1493, 0 0 40px #ff1493;
   z-index: 9999;
   font-family: monospace;
-  max-width: 320px;
+  min-width: 280px;
+  max-width: 300px;
+  backdrop-filter: blur(10px);
+}
+
+.music-player.minimized {
+  min-width: auto;
+  padding: 8px 12px;
+}
+
+.player-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
 }
 
 .player-title {
@@ -145,14 +159,122 @@ img {
   font-size: 13px;
   text-shadow: 0 0 10px #ff1493;
   font-weight: bold;
-  margin-bottom: 10px;
-  text-align: center;
 }
 
-.audio-player {
-  width: 100%;
-  margin-top: 5px;
-  filter: hue-rotate(290deg) saturate(2);
+.minimize-btn {
+  background: none;
+  border: none;
+  color: #ff1493;
+  font-size: 16px;
+  cursor: pointer;
+  text-shadow: 0 0 5px #ff1493;
+  transition: all 0.3s;
+  padding: 0;
+  width: 20px;
+  height: 20px;
+}
+
+.minimize-btn:hover {
+  text-shadow: 0 0 15px #ff1493;
+  transform: scale(1.2);
+}
+
+.player-content {
+  display: block;
+}
+
+.player-content.hidden {
+  display: none;
+}
+
+.track-info {
+  color: #ff2777;
+  font-size: 11px;
+  margin-bottom: 10px;
+  height: 28px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 1.3;
+}
+
+.controls {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+
+.control-btn {
+  background: none;
+  border: 2px solid #ff1493;
+  color: #ff1493;
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 14px;
+  transition: all 0.3s;
+  box-shadow: 0 0 10px #ff1493;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+}
+
+.control-btn:hover {
+  background: #ff1493;
+  color: #000;
+  box-shadow: 0 0 20px #ff1493;
+  transform: scale(1.1);
+}
+
+.control-btn:active {
+  transform: scale(0.95);
+}
+
+.volume-control {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.volume-label {
+  color: #ff1493;
+  font-size: 10px;
+  text-shadow: 0 0 5px #ff1493;
+}
+
+.volume-slider {
+  flex: 1;
+  height: 3px;
+  -webkit-appearance: none;
+  appearance: none;
+  background: #ff1493;
+  outline: none;
+  border-radius: 2px;
+  box-shadow: 0 0 8px #ff1493;
+}
+
+.volume-slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 12px;
+  height: 12px;
+  background: #ff1493;
+  cursor: pointer;
+  border-radius: 50%;
+  box-shadow: 0 0 10px #ff1493;
+}
+
+.volume-slider::-moz-range-thumb {
+  width: 12px;
+  height: 12px;
+  background: #ff1493;
+  cursor: pointer;
+  border-radius: 50%;
+  box-shadow: 0 0 10px #ff1493;
+  border: none;
 }
 
 @media (max-width: 600px) {
@@ -160,12 +282,33 @@ img {
     bottom: 10px;
     right: 10px;
     left: 10px;
-    max-width: none;
-    padding: 12px;
+    margin: 0 auto;
+    min-width: auto;
+    max-width: 95%;
+    padding: 10px;
   }
   
   .player-title {
     font-size: 11px;
+  }
+  
+  .minimize-btn {
+    font-size: 14px;
+  }
+  
+  .control-btn {
+    width: 34px;
+    height: 34px;
+    font-size: 12px;
+  }
+  
+  .track-info {
+    font-size: 10px;
+    height: 26px;
+  }
+  
+  .controls {
+    gap: 10px;
   }
 }
   </style>
@@ -182,14 +325,120 @@ img {
 <body>
   {{ content }}
 
-  <!-- Reproductor HTML5 básico -->
-  <div class="music-player">
-    <div class="player-title">♪ SOUNDTRACK ♪</div>
-    <audio class="audio-player" controls preload="metadata">
-      <source src="https://medusahra.github.io/assets/music/voodoo-people.mp3" type="audio/mpeg">
-      Tu navegador no soporta audio HTML5.
-    </audio>
+  <!-- Reproductor Musical -->
+  <div class="music-player" id="musicPlayer">
+    <div class="player-header">
+      <span class="player-title">♪ SOUNDTRACK</span>
+      <button class="minimize-btn" id="minimizeBtn" title="Minimizar">−</button>
+    </div>
+    <div class="player-content" id="playerContent">
+      <div class="track-info" id="trackInfo">
+        Click play para comenzar
+      </div>
+      <div class="controls">
+        <button class="control-btn" id="prevBtn" title="Anterior">⏮</button>
+        <button class="control-btn" id="playBtn" title="Play">▶</button>
+        <button class="control-btn" id="nextBtn" title="Siguiente">⏭</button>
+      </div>
+      <div class="volume-control">
+        <span class="volume-label">VOL</span>
+        <input type="range" class="volume-slider" id="volumeSlider" min="0" max="100" value="70">
+      </div>
+    </div>
   </div>
 
+  <script>
+    // Playlist
+    const playlist = [
+      { name: "impenetrable", file: "https://medusahra.github.io/assets/music/impenetrable.mp3" },
+      { name: "rootkali", file: "https://medusahra.github.io/assets/music/rootkali.mp3" },
+      { name: "405.3", file: "https://medusahra.github.io/assets/music/405.3.mp3" },
+      { name: "409.1", file: "https://medusahra.github.io/assets/music/409.1.mp3" },
+      { name: "409.3", file: "https://medusahra.github.io/assets/music/409.3.mp3" }
+    ];
+
+    let currentTrack = 0;
+    let isPlaying = false;
+    const audio = new Audio();
+    
+    const playBtn = document.getElementById('playBtn');
+    const prevBtn = document.getElementById('prevBtn');
+    const nextBtn = document.getElementById('nextBtn');
+    const trackInfo = document.getElementById('trackInfo');
+    const volumeSlider = document.getElementById('volumeSlider');
+    const minimizeBtn = document.getElementById('minimizeBtn');
+    const playerContent = document.getElementById('playerContent');
+    const musicPlayer = document.getElementById('musicPlayer');
+
+    // Cargar primer track
+    audio.src = playlist[0].file;
+    audio.volume = 0.7;
+
+    // Actualizar info del track
+    function updateTrackInfo() {
+      trackInfo.textContent = `${currentTrack + 1}/${playlist.length} - ${playlist[currentTrack].name}`;
+    }
+
+    // Play/Pause
+    playBtn.addEventListener('click', () => {
+      if (isPlaying) {
+        audio.pause();
+        playBtn.textContent = '▶';
+        isPlaying = false;
+      } else {
+        audio.play();
+        playBtn.textContent = '⏸';
+        isPlaying = true;
+        updateTrackInfo();
+      }
+    });
+
+    // Anterior
+    prevBtn.addEventListener('click', () => {
+      currentTrack = (currentTrack - 1 + playlist.length) % playlist.length;
+      audio.src = playlist[currentTrack].file;
+      if (isPlaying) audio.play();
+      updateTrackInfo();
+    });
+
+    // Siguiente
+    nextBtn.addEventListener('click', () => {
+      currentTrack = (currentTrack + 1) % playlist.length;
+      audio.src = playlist[currentTrack].file;
+      if (isPlaying) audio.play();
+      updateTrackInfo();
+    });
+
+    // Auto-next cuando termina
+    audio.addEventListener('ended', () => {
+      currentTrack = (currentTrack + 1) % playlist.length;
+      audio.src = playlist[currentTrack].file;
+      audio.play();
+      updateTrackInfo();
+    });
+
+    // Control de volumen
+    volumeSlider.addEventListener('input', (e) => {
+      audio.volume = e.target.value / 100;
+    });
+
+    // Minimizar/Maximizar
+    let isMinimized = false;
+    minimizeBtn.addEventListener('click', () => {
+      if (isMinimized) {
+        playerContent.classList.remove('hidden');
+        musicPlayer.classList.remove('minimized');
+        minimizeBtn.textContent = '−';
+        isMinimized = false;
+      } else {
+        playerContent.classList.add('hidden');
+        musicPlayer.classList.add('minimized');
+        minimizeBtn.textContent = '+';
+        isMinimized = true;
+      }
+    });
+
+    updateTrackInfo();
+  </script>
 </body>
 </html>
