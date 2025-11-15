@@ -72,7 +72,6 @@ paranoia, delirio de persecución, sobre todo cuando paso por mucho estrés, per
 En mi caso, un vaivén entre la euforia ligera de la hipomanía y los abismos de la depresión mayor.
 
 Bien controlados con medicación, sí, excepto por los últimos dos años. Pero eso no quita que mi percepción de la realidad a veces no coincida con la de los demás. 
-<div style="margin: 40px 0;"></div>
 Oh, ¿te sorprende? ¿Pensaste que solo era excéntrica? Qué ternura. Supongo que era momento de revelarlo, pues no cometí ningún crímen como para tener que esconderlo, aunque en mi realidad no cambia nada. Siempre he sido así, con una mente que opera en una frecuencia distinta, analizando el mundo con una profundidad casi absurda, lo que me permite captar detalles que otros ignoran, analizar el mundo con perspicacia y, al mismo tiempo, desconectarme por completo de lo que muchos consideran esencial.
 
 ### Su mundo (neurotípico)
