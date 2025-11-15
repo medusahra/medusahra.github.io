@@ -31,95 +31,127 @@
       padding: 0;
     }
     
-   body {
-  background-color: #000000 !important;
-  color: #ff2777 !important;
-  font-family: monospace;
-  font-size: 16px;
-  line-height: 1.4;
-  padding: 15px;
-  padding-bottom: 0;
-  max-width: 800px;
-  margin: 0 auto;
-  min-height: 100%;
-  overflow-wrap: break-word;
-  word-wrap: break-word;
-}
+    body {
+      background-color: #000000 !important;
+      color: #ff2777 !important;
+      font-family: monospace;
+      font-size: 16px;
+      line-height: 1.4;
+      padding: 15px;
+      padding-bottom: 0;
+      max-width: 800px;
+      margin: 0 auto;
+      min-height: 100%;
+      overflow-wrap: break-word;
+      word-wrap: break-word;
+    }
     
-h1, h2, h3 {
-  color: #ff1493 !important;
-  text-shadow: 0 0 10px #ff1493, 0 0 20px #ff1493;
-  margin: 20px 0;
-  font-family: Consolas, 'Lucida Console', Monaco, monospace;
-  font-weight: bold;
-  letter-spacing: 1px;
-  font-size: 1.5em;
-}
+    h1, h2, h3 {
+      color: #ff1493 !important;
+      text-shadow: 0 0 10px #ff1493, 0 0 20px #ff1493;
+      margin: 20px 0;
+      font-family: Consolas, 'Lucida Console', Monaco, monospace;
+      font-weight: bold;
+      letter-spacing: 1px;
+      font-size: 1.5em;
+    }
     
-p, li, div, span {
-  color: #FF2777 !important;
-  text-shadow: none;
-}
+    p, li, div, span {
+      color: #FF2777 !important;
+      text-shadow: none;
+    }
     
-a {
-  color: #ffffff !important;
-  text-decoration: underline;
-  text-shadow: 0 0 3px #ffffff, 0 0 6px #ffffff;
-  transition: all 0.3s ease;
-}
+    a {
+      color: #ffffff !important;
+      text-decoration: underline;
+      text-shadow: 0 0 3px #ffffff, 0 0 6px #ffffff;
+      transition: all 0.3s ease;
+    }
     
-a:hover {
-  color: #ffffff !important;
-  text-shadow: 0 0 8px #ffffff, 0 0 15px #ffffff;
-}
+    a:hover {
+      color: #ffffff !important;
+      text-shadow: 0 0 8px #ffffff, 0 0 15px #ffffff;
+    }
     
-em, i {
-  color: #ffffff !important;
-  text-shadow: 0 0 5px #ffffff, 0 0 10px #ffffff;
-  font-style: italic;
-}
+    em, i {
+      color: #ffffff !important;
+      text-shadow: 0 0 5px #ffffff, 0 0 10px #ffffff;
+      font-style: italic;
+    }
 
-img {
-  max-width: 300px;
-  display: block;
-  margin: 20px auto;
-  filter: drop-shadow(0 0 20px #ff1493);
-}
+    img {
+      max-width: 300px;
+      display: block;
+      margin: 20px auto;
+      filter: drop-shadow(0 0 20px #ff1493);
+    }
 
-.logo-home {
-  animation: float-big 3s ease-in-out infinite;
-}
+    .logo-home {
+      animation: float-big 3s ease-in-out infinite;
+    }
 
-img {
-  animation: float-small 3s ease-in-out infinite;
-}
+    img {
+      animation: float-small 3s ease-in-out infinite;
+    }
 
-@keyframes float-big {
-  0%, 100% { transform: translateY(0px); }
-  50% { transform: translateY(-40px); }
-}
-@keyframes float-small {
-  0%, 100% { transform: translateY(0px); }
-  50% { transform: translateY(-15px); }
-}
+    @keyframes float-big {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-40px); }
+    }
+    @keyframes float-small {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-15px); }
+    }
 
-ul, ol {
-  margin-left: 20px;
-}
+    ul, ol {
+      margin-left: 20px;
+    }
     
-@media (max-width: 600px) {
-  body {
-    font-size: 14px;
-    padding: 10px;
-    padding-bottom: 10px;
-  }
-  
-  h1, h2, h3 {
-    font-size: 1.3em;
-  }
-}
+    @media (max-width: 600px) {
+      body {
+        font-size: 14px;
+        padding: 10px;
+        padding-bottom: 10px;
+      }
+      
+      h1, h2, h3 {
+        font-size: 1.3em;
+      }
+    }
+
+    /* MINI PLAYER */
+    #mini-player {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      padding: 10px 14px;
+      border: 1px solid #ff1493;
+      border-radius: 10px;
+      background: rgba(0,0,0,0.65);
+      backdrop-filter: blur(6px);
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      z-index: 9999;
+      box-shadow: 0 0 20px #ff1493;
+    }
+    #mini-player button {
+      background: none;
+      border: none;
+      color: #ff1493;
+      font-size: 18px;
+      cursor: pointer;
+      text-shadow: 0 0 10px #ff1493;
+    }
+    #mini-player input[type=range] {
+      accent-color: #ff1493;
+    }
+    #mini-player button:hover {
+      color: #ffffff;
+      text-shadow: 0 0 15px #ffffff;
+    }
   </style>
-  
+
   <!-- Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-3YV9GBM4FZ"></script>
   <script>
@@ -129,7 +161,80 @@ ul, ol {
     gtag('config', 'G-3YV9GBM4FZ');
   </script>
 </head>
+
 <body>
   {{ content }}
+
+
+  <!-- MINI AUDIO PLAYER -->
+  <div id="mini-player">
+    <button id="prev-btn">⏮</button>
+    <button id="play-btn">▶</button>
+    <button id="next-btn">⏭</button>
+    <input type="range" id="seek" value="0" min="0" max="100">
+    <input type="range" id="volume" min="0" max="1" step="0.05" value="0.7">
+  </div>
+
+  <script>
+    const tracks = [
+      "/assets/music/clubbed-to-death.mp3",
+      "/assets/music/da3m0ns.mp3",
+      "/assets/music/distract-enter.mp3"
+      "/assets/music/impenetrable.mp3"
+      "/assets/music/moth-flame.mp3"
+      "/assets/music/root-kali.mp3"
+      "/assets/music/voodoo-people.mp3"
+    ];
+
+    let currentTrack = 0;
+    const audio = new Audio(tracks[currentTrack]);
+    audio.volume = 0.7;
+
+    audio.play().catch(() => {});
+
+    const playBtn = document.getElementById("play-btn");
+    const prevBtn = document.getElementById("prev-btn");
+    const nextBtn = document.getElementById("next-btn");
+    const seek = document.getElementById("seek");
+    const volume = document.getElementById("volume");
+
+    playBtn.onclick = () => {
+      if (audio.paused) {
+        audio.play();
+        playBtn.textContent = "⏸";
+      } else {
+        audio.pause();
+        playBtn.textContent = "▶";
+      }
+    };
+
+    prevBtn.onclick = () => {
+      currentTrack = (currentTrack - 1 + tracks.length) % tracks.length;
+      audio.src = tracks[currentTrack];
+      audio.play();
+    };
+
+    nextBtn.onclick = () => {
+      currentTrack = (currentTrack + 1) % tracks.length;
+      audio.src = tracks[currentTrack];
+      audio.play();
+    };
+
+    audio.addEventListener("timeupdate", () => {
+      if (audio.duration) {
+        seek.value = (audio.currentTime / audio.duration) * 100;
+      }
+    });
+
+    seek.oninput = () => {
+      audio.currentTime = (seek.value / 100) * audio.duration;
+    };
+
+    volume.oninput = () => {
+      audio.volume = volume.value;
+    };
+  </script>
+
 </body>
 </html>
+
