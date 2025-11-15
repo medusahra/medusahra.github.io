@@ -39,7 +39,6 @@
   font-size: 16px;
   line-height: 1.4;
   padding: 15px;
-  padding-bottom: 15px;
   max-width: 800px;
   margin: 0 auto;
   min-height: 100%;
@@ -117,7 +116,6 @@ img {
   body {
     font-size: 14px;
     padding: 10px;
-    padding-bottom: 10px;
   }
   
   h1, h2, h3 {
@@ -125,100 +123,58 @@ img {
   }
 }
 
-/* ===== REPRODUCTOR MUSICAL ===== */
-.music-player {
-  position: fixed;
-  bottom: 200px;
-  right: 20px;
+/* ===== ESTILOS REPRODUCTOR ===== */
+.music-player-home {
   background: rgba(0, 0, 0, 0.95);
   border: 1.5px solid #ff6eb4;
   border-radius: 12px;
-  padding: 12px;
+  padding: 20px;
+  margin: 40px auto;
+  max-width: 500px;
   box-shadow: 0 0 15px rgba(255, 110, 180, 0.4);
-  z-index: 9999;
   font-family: monospace;
-  min-width: 240px;
-  max-width: 250px;
-  backdrop-filter: blur(10px);
-  transition: all 0.3s ease;
 }
 
-.music-player:hover {
+.music-player-home:hover {
   box-shadow: 0 0 25px rgba(255, 110, 180, 0.6);
-  border-color: #ff8dc7;
 }
 
-.music-player.minimized {
-  min-width: auto;
-  padding: 8px 12px;
-}
-
-.player-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 8px;
-}
-
-.player-title {
+.player-home-title {
   color: #ff8dc7;
-  font-size: 12px;
+  font-size: 14px;
   text-shadow: 0 0 8px rgba(255, 141, 199, 0.6);
   font-weight: bold;
+  text-align: center;
+  margin-bottom: 15px;
 }
 
-.minimize-btn {
-  background: none;
-  border: none;
-  color: #ff8dc7;
-  font-size: 16px;
-  cursor: pointer;
-  text-shadow: 0 0 5px rgba(255, 141, 199, 0.4);
-  transition: all 0.3s;
-  padding: 0;
-  width: 20px;
-  height: 20px;
-}
-
-.minimize-btn:hover {
-  text-shadow: 0 0 12px rgba(255, 141, 199, 0.8);
-  transform: scale(1.2);
-}
-
-.player-content {
-  display: block;
-}
-
-.player-content.hidden {
-  display: none;
-}
-
-.track-info {
+.player-home-track {
   color: #ffb3d9;
-  font-size: 10px;
-  margin-bottom: 8px;
-  height: 26px;
+  font-size: 11px;
+  margin-bottom: 12px;
+  text-align: center;
+  height: 28px;
   overflow: hidden;
   text-overflow: ellipsis;
   line-height: 1.3;
 }
 
-.controls {
+.player-home-controls {
   display: flex;
   justify-content: center;
-  gap: 10px;
-  margin-bottom: 8px;
+  gap: 15px;
+  margin-bottom: 15px;
 }
 
-.control-btn {
+.player-home-btn {
   background: none;
   border: 1.5px solid #ff8dc7;
   color: #ff8dc7;
-  width: 36px;
-  height: 36px;
+  width: 42px;
+  height: 42px;
   border-radius: 50%;
   cursor: pointer;
-  font-size: 14px;
+  font-size: 16px;
   transition: all 0.3s;
   box-shadow: 0 0 8px rgba(255, 141, 199, 0.3);
   display: flex;
@@ -227,33 +183,29 @@ img {
   padding: 0;
 }
 
-.control-btn:hover {
+.player-home-btn:hover {
   background: #ff8dc7;
   color: #000;
   box-shadow: 0 0 15px rgba(255, 141, 199, 0.6);
   transform: scale(1.1);
 }
 
-.control-btn:active {
-  transform: scale(0.95);
-}
-
-.volume-control {
+.player-home-volume {
   display: flex;
   align-items: center;
-  gap: 8px;
-  margin-top: 8px;
+  gap: 10px;
+  justify-content: center;
 }
 
-.volume-label {
+.player-home-volume-label {
   color: #ff8dc7;
-  font-size: 10px;
+  font-size: 11px;
   text-shadow: 0 0 5px rgba(255, 141, 199, 0.4);
 }
 
-.volume-slider {
-  flex: 1;
-  height: 3px;
+.player-home-slider {
+  width: 200px;
+  height: 4px;
   -webkit-appearance: none;
   appearance: none;
   background: linear-gradient(90deg, #ff6eb4, #ff8dc7);
@@ -262,20 +214,20 @@ img {
   box-shadow: 0 0 6px rgba(255, 141, 199, 0.3);
 }
 
-.volume-slider::-webkit-slider-thumb {
+.player-home-slider::-webkit-slider-thumb {
   -webkit-appearance: none;
   appearance: none;
-  width: 12px;
-  height: 12px;
+  width: 14px;
+  height: 14px;
   background: #ff8dc7;
   cursor: pointer;
   border-radius: 50%;
   box-shadow: 0 0 8px rgba(255, 141, 199, 0.5);
 }
 
-.volume-slider::-moz-range-thumb {
-  width: 12px;
-  height: 12px;
+.player-home-slider::-moz-range-thumb {
+  width: 14px;
+  height: 14px;
   background: #ff8dc7;
   cursor: pointer;
   border-radius: 50%;
@@ -284,35 +236,27 @@ img {
 }
 
 @media (max-width: 600px) {
-  .music-player {
-    bottom: 180px;
-    right: 10px;
-    min-width: 240px;
-    max-width: 260px;
-    padding: 10px;
+  .music-player-home {
+    padding: 15px;
+    margin: 30px auto;
   }
   
-  .player-title {
-    font-size: 11px;
+  .player-home-title {
+    font-size: 13px;
   }
   
-  .minimize-btn {
+  .player-home-track {
+    font-size: 10px;
+  }
+  
+  .player-home-btn {
+    width: 38px;
+    height: 38px;
     font-size: 14px;
   }
   
-  .control-btn {
-    width: 32px;
-    height: 32px;
-    font-size: 12px;
-  }
-  
-  .track-info {
-    font-size: 9px;
-    height: 24px;
-  }
-  
-  .controls {
-    gap: 8px;
+  .player-home-slider {
+    width: 150px;
   }
 }
   </style>
@@ -328,174 +272,5 @@ img {
 </head>
 <body>
   {{ content }}
-
-  <!-- Reproductor Musical -->
-  <div class="music-player" id="musicPlayer">
-    <div class="player-header">
-      <span class="player-title">♪ soundtrack</span>
-      <button class="minimize-btn" id="minimizeBtn" title="Minimizar">−</button>
-    </div>
-    <div class="player-content" id="playerContent">
-      <div class="track-info" id="trackInfo">
-        click play para comenzar
-      </div>
-      <div class="controls">
-        <button class="control-btn" id="prevBtn" title="Anterior">⏮</button>
-        <button class="control-btn" id="playBtn" title="Play">▶</button>
-        <button class="control-btn" id="nextBtn" title="Siguiente">⏭</button>
-      </div>
-      <div class="volume-control">
-        <span class="volume-label">vol</span>
-        <input type="range" class="volume-slider" id="volumeSlider" min="0" max="100" value="70">
-      </div>
-    </div>
-  </div>
-
-  <script>
-    // Playlist
-    const playlist = [
-      { name: "impenetrable", file: "https://medusahra.github.io/assets/music/impenetrable.mp3" },
-      { name: "rootkali", file: "https://medusahra.github.io/assets/music/rootkali.mp3" },
-      { name: "405.3", file: "https://medusahra.github.io/assets/music/405.3.mp3" },
-      { name: "409.1", file: "https://medusahra.github.io/assets/music/409.1.mp3" },
-      { name: "409.3", file: "https://medusahra.github.io/assets/music/409.3.mp3" }
-    ];
-
-    let currentTrack = 0;
-    let isPlaying = false;
-    const audio = new Audio();
-    
-    const playBtn = document.getElementById('playBtn');
-    const prevBtn = document.getElementById('prevBtn');
-    const nextBtn = document.getElementById('nextBtn');
-    const trackInfo = document.getElementById('trackInfo');
-    const volumeSlider = document.getElementById('volumeSlider');
-    const minimizeBtn = document.getElementById('minimizeBtn');
-    const playerContent = document.getElementById('playerContent');
-    const musicPlayer = document.getElementById('musicPlayer');
-
-    // Restaurar estado desde sessionStorage
-    function restorePlayerState() {
-      const savedTrack = sessionStorage.getItem('currentTrack');
-      const savedTime = sessionStorage.getItem('currentTime');
-      const savedPlaying = sessionStorage.getItem('isPlaying');
-      const savedVolume = sessionStorage.getItem('volume');
-      
-      if (savedTrack !== null) {
-        currentTrack = parseInt(savedTrack);
-      }
-      
-      audio.src = playlist[currentTrack].file;
-      
-      if (savedVolume !== null) {
-        audio.volume = parseFloat(savedVolume);
-        volumeSlider.value = audio.volume * 100;
-      } else {
-        audio.volume = 0.7;
-      }
-      
-      if (savedTime !== null) {
-        audio.currentTime = parseFloat(savedTime);
-      }
-      
-      updateTrackInfo();
-      
-      if (savedPlaying === 'true') {
-        audio.play().then(() => {
-          playBtn.textContent = '⏸';
-          isPlaying = true;
-        }).catch(() => {
-          // Si falla autoplay, no pasa nada
-        });
-      }
-    }
-
-    // Guardar estado
-    function savePlayerState() {
-      sessionStorage.setItem('currentTrack', currentTrack);
-      sessionStorage.setItem('currentTime', audio.currentTime);
-      sessionStorage.setItem('isPlaying', isPlaying);
-      sessionStorage.setItem('volume', audio.volume);
-    }
-
-    // Guardar estado cada segundo mientras reproduce
-    setInterval(() => {
-      if (isPlaying) {
-        savePlayerState();
-      }
-    }, 1000);
-
-    // Actualizar info del track
-    function updateTrackInfo() {
-      trackInfo.textContent = `${currentTrack + 1}/${playlist.length} - ${playlist[currentTrack].name}`;
-    }
-
-    // Play/Pause
-    playBtn.addEventListener('click', () => {
-      if (isPlaying) {
-        audio.pause();
-        playBtn.textContent = '▶';
-        isPlaying = false;
-      } else {
-        audio.play();
-        playBtn.textContent = '⏸';
-        isPlaying = true;
-        updateTrackInfo();
-      }
-      savePlayerState();
-    });
-
-    // Anterior
-    prevBtn.addEventListener('click', () => {
-      currentTrack = (currentTrack - 1 + playlist.length) % playlist.length;
-      audio.src = playlist[currentTrack].file;
-      if (isPlaying) audio.play();
-      updateTrackInfo();
-      savePlayerState();
-    });
-
-    // Siguiente
-    nextBtn.addEventListener('click', () => {
-      currentTrack = (currentTrack + 1) % playlist.length;
-      audio.src = playlist[currentTrack].file;
-      if (isPlaying) audio.play();
-      updateTrackInfo();
-      savePlayerState();
-    });
-
-    // Auto-next cuando termina
-    audio.addEventListener('ended', () => {
-      currentTrack = (currentTrack + 1) % playlist.length;
-      audio.src = playlist[currentTrack].file;
-      audio.play();
-      updateTrackInfo();
-      savePlayerState();
-    });
-
-    // Control de volumen
-    volumeSlider.addEventListener('input', (e) => {
-      audio.volume = e.target.value / 100;
-      savePlayerState();
-    });
-
-    // Minimizar/Maximizar
-    let isMinimized = false;
-    minimizeBtn.addEventListener('click', () => {
-      if (isMinimized) {
-        playerContent.classList.remove('hidden');
-        musicPlayer.classList.remove('minimized');
-        minimizeBtn.textContent = '−';
-        isMinimized = false;
-      } else {
-        playerContent.classList.add('hidden');
-        musicPlayer.classList.add('minimized');
-        minimizeBtn.textContent = '+';
-        isMinimized = true;
-      }
-    });
-
-    // Restaurar estado al cargar
-    restorePlayerState();
-  </script>
 </body>
 </html>
