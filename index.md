@@ -7,22 +7,21 @@ layout: home
 hola soy 𝕲𝖎𝖌𝖎 𝕮𝖍𝖆𝖉𝖎𝖉 ⚔️👺⚔️ <br>
 AKA ♡ 𝖒𝖊𝖉𝖚𝖘𝖆𝖍𝖗𝖆
 </h1>
-<h1 style="line-height: 1.2;">
-𝑁𝑒𝑢𝑟𝑜𝑞𝑢𝑒𝑒𝑟 𝐻𝑒𝑟𝑒𝑠𝑖𝑒𝑠 
-</h1>
 
 Bienvenidxxs a mi sitio web 🏴‍☠️
 
 he levantado mi propio templo de código y deseo: un glitch rosa en el mapa.
 ## whoami
 colombo lebanese 🇱🇧 hacker <br>
-enfocada en seguridad ofensiva  
-<h1 style="line-height: 1.2;">
+enfocada en seguridad ofensiva <br>
 *fine & dandy honeypot*
 </h1>
 todo tiene fisuras: sistemas, cuerpos e infraestructuras del deseo, a esas grietas me asomo. ♡
 Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagamente lujuriosos.
 
+<h1 style="line-height: 1.2;">
+*𝑁𝑒𝑢𝑟𝑜𝑞𝑢𝑒𝑒𝑟 𝐻𝑒𝑟𝑒𝑠𝑖𝑒𝑠* 
+</h1>
 
 ## literatura
 - **[archivo de textos >](/archive.html)**
