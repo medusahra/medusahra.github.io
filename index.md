@@ -47,3 +47,85 @@ Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagam
 <div style="text-align: center; margin-top: 40px;">
 <img src="/assets/piratepinkglam2x.png" alt="Pirate Flag" style="max-width: 150px; filter: drop-shadow(0 0 15px #ff1493);">
 </div>
+
+<!-- Reproductor Musical -->
+<div class="music-player-home">
+  <div class="player-home-title">♪ soundtrack ♪</div>
+  <div class="player-home-track" id="homeTrackInfo">click play para comenzar</div>
+  <div class="player-home-controls">
+    <button class="player-home-btn" id="homePrevBtn" title="Anterior">⏮</button>
+    <button class="player-home-btn" id="homePlayBtn" title="Play">▶</button>
+    <button class="player-home-btn" id="homeNextBtn" title="Siguiente">⏭</button>
+  </div>
+  <div class="player-home-volume">
+    <span class="player-home-volume-label">vol</span>
+    <input type="range" class="player-home-slider" id="homeVolumeSlider" min="0" max="100" value="70">
+  </div>
+</div>
+
+<script>
+const homePlaylist = [
+  { name: "impenetrable", file: "https://medusahra.github.io/assets/music/impenetrable.mp3" },
+  { name: "rootkali", file: "https://medusahra.github.io/assets/music/rootkali.mp3" },
+  { name: "405.3", file: "https://medusahra.github.io/assets/music/405.3.mp3" },
+  { name: "409.1", file: "https://medusahra.github.io/assets/music/409.1.mp3" },
+  { name: "409.3", file: "https://medusahra.github.io/assets/music/409.3.mp3" }
+];
+
+let homeCurrentTrack = 0;
+let homeIsPlaying = false;
+const homeAudio = new Audio();
+
+const homePlayBtn = document.getElementById('homePlayBtn');
+const homePrevBtn = document.getElementById('homePrevBtn');
+const homeNextBtn = document.getElementById('homeNextBtn');
+const homeTrackInfo = document.getElementById('homeTrackInfo');
+const homeVolumeSlider = document.getElementById('homeVolumeSlider');
+
+homeAudio.src = homePlaylist[0].file;
+homeAudio.volume = 0.7;
+
+function updateHomeTrackInfo() {
+  homeTrackInfo.textContent = `${homeCurrentTrack + 1}/${homePlaylist.length} - ${homePlaylist[homeCurrentTrack].name}`;
+}
+
+homePlayBtn.addEventListener('click', () => {
+  if (homeIsPlaying) {
+    homeAudio.pause();
+    homePlayBtn.textContent = '▶';
+    homeIsPlaying = false;
+  } else {
+    homeAudio.play();
+    homePlayBtn.textContent = '⏸';
+    homeIsPlaying = true;
+    updateHomeTrackInfo();
+  }
+});
+
+homePrevBtn.addEventListener('click', () => {
+  homeCurrentTrack = (homeCurrentTrack - 1 + homePlaylist.length) % homePlaylist.length;
+  homeAudio.src = homePlaylist[homeCurrentTrack].file;
+  if (homeIsPlaying) homeAudio.play();
+  updateHomeTrackInfo();
+});
+
+homeNextBtn.addEventListener('click', () => {
+  homeCurrentTrack = (homeCurrentTrack + 1) % homePlaylist.length;
+  homeAudio.src = homePlaylist[homeCurrentTrack].file;
+  if (homeIsPlaying) homeAudio.play();
+  updateHomeTrackInfo();
+});
+
+homeAudio.addEventListener('ended', () => {
+  homeCurrentTrack = (homeCurrentTrack + 1) % homePlaylist.length;
+  homeAudio.src = homePlaylist[homeCurrentTrack].file;
+  homeAudio.play();
+  updateHomeTrackInfo();
+});
+
+homeVolumeSlider.addEventListener('input', (e) => {
+  homeAudio.volume = e.target.value / 100;
+});
+
+updateHomeTrackInfo();
+</script>
