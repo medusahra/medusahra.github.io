@@ -39,7 +39,7 @@
   font-size: 16px;
   line-height: 1.4;
   padding: 15px;
-  padding-bottom: 100px;
+  padding-bottom: 15px;
   max-width: 800px;
   margin: 0 auto;
   min-height: 100%;
@@ -117,7 +117,7 @@ img {
   body {
     font-size: 14px;
     padding: 10px;
-    padding-bottom: 90px;
+    padding-bottom: 10px;
   }
   
   h1, h2, h3 {
@@ -125,190 +125,255 @@ img {
   }
 }
 
-/* ===== REPRODUCTOR MUSICAL ===== */
-.music-player {
+/* ===== OVERLAY INICIAL ===== */
+.player-overlay {
   position: fixed;
-  bottom: 15px;
-  right: 15px;
-  background: rgba(0, 0, 0, 0.98);
-  border: 2px solid #ff1493;
-  border-radius: 12px;
-  padding: 15px;
-  box-shadow: 0 0 20px #ff1493, 0 0 40px #ff1493;
-  z-index: 9999;
-  font-family: monospace;
-  min-width: 280px;
-  max-width: 300px;
-  backdrop-filter: blur(10px);
-}
-
-.music-player.minimized {
-  min-width: auto;
-  padding: 8px 12px;
-}
-
-.player-header {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.95);
   display: flex;
-  justify-content: space-between;
   align-items: center;
-  margin-bottom: 10px;
+  justify-content: center;
+  z-index: 10000;
+  animation: glitchIn 0.5s ease-out;
 }
 
-.player-title {
-  color: #ff1493;
-  font-size: 13px;
-  text-shadow: 0 0 10px #ff1493;
-  font-weight: bold;
-}
-
-.minimize-btn {
-  background: none;
-  border: none;
-  color: #ff1493;
-  font-size: 16px;
-  cursor: pointer;
-  text-shadow: 0 0 5px #ff1493;
-  transition: all 0.3s;
-  padding: 0;
-  width: 20px;
-  height: 20px;
-}
-
-.minimize-btn:hover {
-  text-shadow: 0 0 15px #ff1493;
-  transform: scale(1.2);
-}
-
-.player-content {
-  display: block;
-}
-
-.player-content.hidden {
+.player-overlay.hidden {
   display: none;
 }
 
-.track-info {
+@keyframes glitchIn {
+  0% { opacity: 0; }
+  20% { opacity: 1; transform: translate(2px, 0); }
+  40% { transform: translate(-2px, 0); }
+  60% { transform: translate(2px, 0); }
+  80% { transform: translate(0, 0); }
+  100% { opacity: 1; transform: translate(0, 0); }
+}
+
+.player-welcome {
+  background: rgba(0, 0, 0, 0.98);
+  border: 3px solid #ff1493;
+  border-radius: 15px;
+  padding: 30px;
+  box-shadow: 0 0 30px #ff1493, 0 0 60px #ff1493;
+  text-align: center;
+  max-width: 350px;
+  animation: pulse 2s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { box-shadow: 0 0 30px #ff1493, 0 0 60px #ff1493; }
+  50% { box-shadow: 0 0 40px #ff1493, 0 0 80px #ff1493; }
+}
+
+.welcome-title {
+  color: #ff1493;
+  font-size: 20px;
+  text-shadow: 0 0 15px #ff1493;
+  font-weight: bold;
+  margin-bottom: 15px;
+  font-family: monospace;
+  letter-spacing: 2px;
+}
+
+.welcome-subtitle {
   color: #ff2777;
+  font-size: 13px;
+  margin-bottom: 20px;
+  font-family: monospace;
+}
+
+.play-start-btn {
+  background: #ff1493;
+  color: #000;
+  border: none;
+  padding: 12px 30px;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 8px;
+  cursor: pointer;
+  font-family: monospace;
+  box-shadow: 0 0 20px #ff1493;
+  transition: all 0.3s;
+}
+
+.play-start-btn:hover {
+  background: #fff;
+  box-shadow: 0 0 30px #ff1493, 0 0 50px #ff1493;
+  transform: scale(1.05);
+}
+
+/* ===== BARRA INFERIOR ===== */
+.music-bar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background: linear-gradient(180deg, transparent, rgba(0, 0, 0, 0.98));
+  backdrop-filter: blur(10px);
+  border-top: 2px solid #ff1493;
+  padding: 8px 15px;
+  z-index: 9999;
+  display: none;
+  box-shadow: 0 -5px 30px rgba(255, 20, 147, 0.3);
+}
+
+.music-bar.visible {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 15px;
+  animation: slideUp 0.5s ease-out;
+}
+
+@keyframes slideUp {
+  from { transform: translateY(100%); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+
+.bar-info {
+  flex: 1;
+  min-width: 0;
+}
+
+.bar-track {
+  color: #ff1493;
   font-size: 11px;
-  margin-bottom: 10px;
-  height: 28px;
+  text-shadow: 0 0 8px #ff1493;
+  font-weight: bold;
+  white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-  line-height: 1.3;
 }
 
-.controls {
+.bar-controls {
   display: flex;
-  justify-content: center;
-  gap: 12px;
-  margin-bottom: 10px;
+  gap: 8px;
+  align-items: center;
 }
 
-.control-btn {
+.bar-btn {
   background: none;
-  border: 2px solid #ff1493;
+  border: 1.5px solid #ff1493;
   color: #ff1493;
-  width: 38px;
-  height: 38px;
+  width: 32px;
+  height: 32px;
   border-radius: 50%;
   cursor: pointer;
-  font-size: 14px;
+  font-size: 12px;
   transition: all 0.3s;
-  box-shadow: 0 0 10px #ff1493;
+  box-shadow: 0 0 8px rgba(255, 20, 147, 0.5);
   display: flex;
   align-items: center;
   justify-content: center;
   padding: 0;
 }
 
-.control-btn:hover {
+.bar-btn:hover {
   background: #ff1493;
   color: #000;
-  box-shadow: 0 0 20px #ff1493;
+  box-shadow: 0 0 15px #ff1493;
   transform: scale(1.1);
 }
 
-.control-btn:active {
-  transform: scale(0.95);
-}
-
-.volume-control {
+.bar-volume {
   display: flex;
   align-items: center;
-  gap: 8px;
-  margin-top: 10px;
+  gap: 6px;
 }
 
-.volume-label {
-  color: #ff1493;
-  font-size: 10px;
-  text-shadow: 0 0 5px #ff1493;
-}
-
-.volume-slider {
-  flex: 1;
+.bar-volume-slider {
+  width: 80px;
   height: 3px;
   -webkit-appearance: none;
   appearance: none;
   background: #ff1493;
   outline: none;
   border-radius: 2px;
+  box-shadow: 0 0 8px rgba(255, 20, 147, 0.5);
+}
+
+.bar-volume-slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 10px;
+  height: 10px;
+  background: #ff1493;
+  cursor: pointer;
+  border-radius: 50%;
   box-shadow: 0 0 8px #ff1493;
 }
 
-.volume-slider::-webkit-slider-thumb {
-  -webkit-appearance: none;
-  appearance: none;
-  width: 12px;
-  height: 12px;
+.bar-volume-slider::-moz-range-thumb {
+  width: 10px;
+  height: 10px;
   background: #ff1493;
   cursor: pointer;
   border-radius: 50%;
-  box-shadow: 0 0 10px #ff1493;
-}
-
-.volume-slider::-moz-range-thumb {
-  width: 12px;
-  height: 12px;
-  background: #ff1493;
-  cursor: pointer;
-  border-radius: 50%;
-  box-shadow: 0 0 10px #ff1493;
+  box-shadow: 0 0 8px #ff1493;
   border: none;
 }
 
+.bar-expand {
+  background: none;
+  border: none;
+  color: #ff1493;
+  font-size: 14px;
+  cursor: pointer;
+  text-shadow: 0 0 8px #ff1493;
+  padding: 5px;
+  transition: all 0.3s;
+}
+
+.bar-expand:hover {
+  text-shadow: 0 0 15px #ff1493;
+  transform: scale(1.2);
+}
+
+/* MÓVIL */
 @media (max-width: 600px) {
-  .music-player {
-    bottom: 10px;
-    right: 10px;
-    left: 10px;
-    margin: 0 auto;
-    min-width: auto;
-    max-width: 95%;
-    padding: 10px;
+  .player-welcome {
+    max-width: 90%;
+    padding: 25px 20px;
   }
   
-  .player-title {
-    font-size: 11px;
+  .welcome-title {
+    font-size: 18px;
   }
   
-  .minimize-btn {
-    font-size: 14px;
-  }
-  
-  .control-btn {
-    width: 34px;
-    height: 34px;
+  .welcome-subtitle {
     font-size: 12px;
   }
   
-  .track-info {
-    font-size: 10px;
-    height: 26px;
+  .play-start-btn {
+    padding: 10px 25px;
+    font-size: 14px;
   }
   
-  .controls {
-    gap: 10px;
+  .music-bar {
+    padding: 6px 10px;
+    flex-wrap: wrap;
+  }
+  
+  .bar-track {
+    font-size: 10px;
+  }
+  
+  .bar-btn {
+    width: 28px;
+    height: 28px;
+    font-size: 11px;
+  }
+  
+  .bar-volume {
+    display: none;
+  }
+  
+  .bar-expand {
+    font-size: 12px;
   }
 }
   </style>
@@ -325,26 +390,30 @@ img {
 <body>
   {{ content }}
 
-  <!-- Reproductor Musical -->
-  <div class="music-player" id="musicPlayer">
-    <div class="player-header">
-      <span class="player-title">♪ SOUNDTRACK</span>
-      <button class="minimize-btn" id="minimizeBtn" title="Minimizar">−</button>
+  <!-- Overlay inicial -->
+  <div class="player-overlay" id="playerOverlay">
+    <div class="player-welcome">
+      <div class="welcome-title">♪ SOUNDTRACK ♪</div>
+      <div class="welcome-subtitle">Iniciar música de fondo</div>
+      <button class="play-start-btn" id="playStartBtn">▶ PLAY</button>
     </div>
-    <div class="player-content" id="playerContent">
-      <div class="track-info" id="trackInfo">
-        Click play para comenzar
-      </div>
-      <div class="controls">
-        <button class="control-btn" id="prevBtn" title="Anterior">⏮</button>
-        <button class="control-btn" id="playBtn" title="Play">▶</button>
-        <button class="control-btn" id="nextBtn" title="Siguiente">⏭</button>
-      </div>
-      <div class="volume-control">
-        <span class="volume-label">VOL</span>
-        <input type="range" class="volume-slider" id="volumeSlider" min="0" max="100" value="70">
-      </div>
+  </div>
+
+  <!-- Barra inferior -->
+  <div class="music-bar" id="musicBar">
+    <div class="bar-info">
+      <div class="bar-track" id="barTrack">♪ Cargando...</div>
     </div>
+    <div class="bar-controls">
+      <button class="bar-btn" id="barPrevBtn" title="Anterior">⏮</button>
+      <button class="bar-btn" id="barPlayBtn" title="Pause">⏸</button>
+      <button class="bar-btn" id="barNextBtn" title="Siguiente">⏭</button>
+    </div>
+    <div class="bar-volume">
+      <span style="color: #ff1493; font-size: 10px;">♪</span>
+      <input type="range" class="bar-volume-slider" id="barVolumeSlider" min="0" max="100" value="70">
+    </div>
+    <button class="bar-expand" id="barExpand" title="Cerrar">✕</button>
   </div>
 
   <script>
@@ -361,40 +430,49 @@ img {
     let isPlaying = false;
     const audio = new Audio();
     
-    const playBtn = document.getElementById('playBtn');
-    const prevBtn = document.getElementById('prevBtn');
-    const nextBtn = document.getElementById('nextBtn');
-    const trackInfo = document.getElementById('trackInfo');
-    const volumeSlider = document.getElementById('volumeSlider');
-    const minimizeBtn = document.getElementById('minimizeBtn');
-    const playerContent = document.getElementById('playerContent');
-    const musicPlayer = document.getElementById('musicPlayer');
+    const playerOverlay = document.getElementById('playerOverlay');
+    const playStartBtn = document.getElementById('playStartBtn');
+    const musicBar = document.getElementById('musicBar');
+    const barTrack = document.getElementById('barTrack');
+    const barPlayBtn = document.getElementById('barPlayBtn');
+    const barPrevBtn = document.getElementById('barPrevBtn');
+    const barNextBtn = document.getElementById('barNextBtn');
+    const barVolumeSlider = document.getElementById('barVolumeSlider');
+    const barExpand = document.getElementById('barExpand');
 
     // Cargar primer track
     audio.src = playlist[0].file;
     audio.volume = 0.7;
 
-    // Actualizar info del track
+    // Actualizar info
     function updateTrackInfo() {
-      trackInfo.textContent = `${currentTrack + 1}/${playlist.length} - ${playlist[currentTrack].name}`;
+      barTrack.textContent = `♪ ${currentTrack + 1}/${playlist.length} - ${playlist[currentTrack].name}`;
     }
 
+    // Botón inicial PLAY
+    playStartBtn.addEventListener('click', () => {
+      audio.play();
+      isPlaying = true;
+      playerOverlay.classList.add('hidden');
+      musicBar.classList.add('visible');
+      updateTrackInfo();
+    });
+
     // Play/Pause
-    playBtn.addEventListener('click', () => {
+    barPlayBtn.addEventListener('click', () => {
       if (isPlaying) {
         audio.pause();
-        playBtn.textContent = '▶';
+        barPlayBtn.textContent = '▶';
         isPlaying = false;
       } else {
         audio.play();
-        playBtn.textContent = '⏸';
+        barPlayBtn.textContent = '⏸';
         isPlaying = true;
-        updateTrackInfo();
       }
     });
 
     // Anterior
-    prevBtn.addEventListener('click', () => {
+    barPrevBtn.addEventListener('click', () => {
       currentTrack = (currentTrack - 1 + playlist.length) % playlist.length;
       audio.src = playlist[currentTrack].file;
       if (isPlaying) audio.play();
@@ -402,14 +480,14 @@ img {
     });
 
     // Siguiente
-    nextBtn.addEventListener('click', () => {
+    barNextBtn.addEventListener('click', () => {
       currentTrack = (currentTrack + 1) % playlist.length;
       audio.src = playlist[currentTrack].file;
       if (isPlaying) audio.play();
       updateTrackInfo();
     });
 
-    // Auto-next cuando termina
+    // Auto-next
     audio.addEventListener('ended', () => {
       currentTrack = (currentTrack + 1) % playlist.length;
       audio.src = playlist[currentTrack].file;
@@ -417,25 +495,18 @@ img {
       updateTrackInfo();
     });
 
-    // Control de volumen
-    volumeSlider.addEventListener('input', (e) => {
+    // Volumen
+    barVolumeSlider.addEventListener('input', (e) => {
       audio.volume = e.target.value / 100;
     });
 
-    // Minimizar/Maximizar
-    let isMinimized = false;
-    minimizeBtn.addEventListener('click', () => {
-      if (isMinimized) {
-        playerContent.classList.remove('hidden');
-        musicPlayer.classList.remove('minimized');
-        minimizeBtn.textContent = '−';
-        isMinimized = false;
-      } else {
-        playerContent.classList.add('hidden');
-        musicPlayer.classList.add('minimized');
-        minimizeBtn.textContent = '+';
-        isMinimized = true;
-      }
+    // Cerrar barra
+    barExpand.addEventListener('click', () => {
+      audio.pause();
+      isPlaying = false;
+      musicBar.classList.remove('visible');
+      playerOverlay.classList.remove('hidden');
+      barPlayBtn.textContent = '▶';
     });
 
     updateTrackInfo();
