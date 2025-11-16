@@ -50,8 +50,8 @@ Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagam
 
 <!-- Reproductor Musical -->
 <div class="music-player-home">
-  <span class="player-home-title">♪ soundtrack</span>
-  <span class="player-home-track" id="homeTrackInfo">click play</span>
+  <div class="player-home-title">♪ soundtrack</div>
+  <div class="player-home-track" id="homeTrackInfo">click play</div>
   <div class="player-home-controls">
     <button class="player-home-btn" id="homePrevBtn" title="Anterior">⏮</button>
     <button class="player-home-btn" id="homePlayBtn" title="Play">▶</button>
@@ -62,79 +62,3 @@ Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagam
     <input type="range" class="player-home-slider" id="homeVolumeSlider" min="0" max="100" value="70">
   </div>
 </div>
-
-<script>
-const homePlaylist = [
-  { name: "impenetrable", file: "https://medusahra.github.io/assets/music/impenetrable.mp3" },
-  { name: "rootkali", file: "https://medusahra.github.io/assets/music/rootkali.mp3" },
-  { name: "405.3", file: "https://medusahra.github.io/assets/music/405.3.mp3" },
-  { name: "409.1", file: "https://medusahra.github.io/assets/music/409.1.mp3" },
-  { name: "409.3", file: "https://medusahra.github.io/assets/music/409.3.mp3" },
-  { name: "Ninajirachi", file: "https://medusahra.github.io/assets/music/Ninajirachi.mp3" },
-  { name: "Univz", file: "https://medusahra.github.io/assets/music/Univz.mp3" },
-  { name: "clubbed to death", file: "https://medusahra.github.io/assets/music/clubbed-to-death.mp3" },
-  { name: "da3m0ns", file: "https://medusahra.github.io/assets/music/da3m0ns.mp3" },
-  { name: "distract enter", file: "https://medusahra.github.io/assets/music/distract-enter.mp3" },
-  { name: "lesdeux", file: "https://medusahra.github.io/assets/music/lesdeux.mp3" },
-  { name: "moth flame", file: "https://medusahra.github.io/assets/music/moth-flame.mp3" },
-  { name: "root kali", file: "https://medusahra.github.io/assets/music/root-kali.mp3" },
-  { name: "voodoo people", file: "https://medusahra.github.io/assets/music/voodoo-people.mp3" }
-];
-
-let homeCurrentTrack = 0;
-let homeIsPlaying = false;
-const homeAudio = new Audio();
-
-const homePlayBtn = document.getElementById('homePlayBtn');
-const homePrevBtn = document.getElementById('homePrevBtn');
-const homeNextBtn = document.getElementById('homeNextBtn');
-const homeTrackInfo = document.getElementById('homeTrackInfo');
-const homeVolumeSlider = document.getElementById('homeVolumeSlider');
-
-homeAudio.src = homePlaylist[0].file;
-homeAudio.volume = 0.7;
-
-function updateHomeTrackInfo() {
-  homeTrackInfo.textContent = `${homeCurrentTrack + 1}/${homePlaylist.length} - ${homePlaylist[homeCurrentTrack].name}`;
-}
-
-homePlayBtn.addEventListener('click', () => {
-  if (homeIsPlaying) {
-    homeAudio.pause();
-    homePlayBtn.textContent = '▶';
-    homeIsPlaying = false;
-  } else {
-    homeAudio.play();
-    homePlayBtn.textContent = '⏸';
-    homeIsPlaying = true;
-    updateHomeTrackInfo();
-  }
-});
-
-homePrevBtn.addEventListener('click', () => {
-  homeCurrentTrack = (homeCurrentTrack - 1 + homePlaylist.length) % homePlaylist.length;
-  homeAudio.src = homePlaylist[homeCurrentTrack].file;
-  if (homeIsPlaying) homeAudio.play();
-  updateHomeTrackInfo();
-});
-
-homeNextBtn.addEventListener('click', () => {
-  homeCurrentTrack = (homeCurrentTrack + 1) % homePlaylist.length;
-  homeAudio.src = homePlaylist[homeCurrentTrack].file;
-  if (homeIsPlaying) homeAudio.play();
-  updateHomeTrackInfo();
-});
-
-homeAudio.addEventListener('ended', () => {
-  homeCurrentTrack = (homeCurrentTrack + 1) % homePlaylist.length;
-  homeAudio.src = homePlaylist[homeCurrentTrack].file;
-  homeAudio.play();
-  updateHomeTrackInfo();
-});
-
-homeVolumeSlider.addEventListener('input', (e) => {
-  homeAudio.volume = e.target.value / 100;
-});
-
-updateHomeTrackInfo();
-</script>
