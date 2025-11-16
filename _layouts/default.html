@@ -136,18 +136,14 @@ img {
   background: rgba(0, 0, 0, 0.9);
   border: 2px solid #ff1493;
   border-radius: 0;
-  padding: 6px 12px;
+  padding: 10px 14px;
   margin: 20px auto;
-  width: fit-content;
-  max-width: 90%;
+  width: 180px;
   box-shadow: 
     0 0 20px rgba(255, 20, 147, 0.6),
     inset 0 0 10px rgba(255, 20, 147, 0.1);
   font-family: 'Courier New', monospace;
   animation: float-small 3s ease-in-out infinite;
-  display: flex;
-  align-items: center;
-  gap: 10px;
   clip-path: polygon(
     0 0,
     calc(100% - 8px) 0,
@@ -190,48 +186,50 @@ img {
 
 .player-home-title {
   color: #ff1493;
-  font-size: 9px;
+  font-size: 10px;
   text-shadow: 0 0 10px #ff1493, 0 0 20px #ff1493;
   font-weight: bold;
   letter-spacing: 2px;
   text-transform: uppercase;
-  white-space: nowrap;
+  text-align: center;
+  margin-bottom: 8px;
   animation: glitch-anim 5s ease-in-out infinite;
 }
 
 .player-home-track {
   color: #ff2777;
-  font-size: 8px;
+  font-size: 9px;
   text-shadow: 0 0 5px rgba(255, 39, 119, 0.6);
-  white-space: nowrap;
+  text-align: center;
   overflow: hidden;
   text-overflow: ellipsis;
-  max-width: 100px;
-  min-width: 70px;
+  white-space: nowrap;
   font-family: monospace;
+  margin-bottom: 10px;
 }
 
 .player-home-controls {
   display: flex;
-  gap: 5px;
+  gap: 8px;
+  justify-content: center;
+  margin-bottom: 10px;
 }
 
 .player-home-btn {
   background: rgba(0, 0, 0, 0.8);
   border: 2px solid #ff1493;
   color: #ff1493;
-  width: 26px;
-  height: 26px;
+  width: 30px;
+  height: 30px;
   border-radius: 0;
   cursor: pointer;
-  font-size: 10px;
+  font-size: 11px;
   transition: all 0.2s;
   box-shadow: 0 0 10px rgba(255, 20, 147, 0.4);
   display: flex;
   align-items: center;
   justify-content: center;
   padding: 0;
-  flex-shrink: 0;
   clip-path: polygon(
     20% 0%,
     80% 0%,
@@ -258,21 +256,22 @@ img {
 .player-home-volume {
   display: flex;
   align-items: center;
-  gap: 5px;
-  border-left: 2px solid rgba(255, 20, 147, 0.3);
-  padding-left: 8px;
+  gap: 6px;
+  justify-content: center;
+  padding-top: 8px;
+  border-top: 1px solid rgba(255, 20, 147, 0.3);
 }
 
 .player-home-volume-label {
   color: #ff1493;
-  font-size: 7px;
+  font-size: 8px;
   text-shadow: 0 0 8px rgba(255, 20, 147, 0.8);
   text-transform: uppercase;
   letter-spacing: 1px;
 }
 
 .player-home-slider {
-  width: 50px;
+  width: 90px;
   height: 2px;
   -webkit-appearance: none;
   appearance: none;
