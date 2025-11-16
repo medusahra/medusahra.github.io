@@ -50,8 +50,8 @@ Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagam
 
 <!-- Reproductor Musical -->
 <div class="music-player-home">
-  <div class="player-home-title">♪ soundtrack ♪</div>
-  <div class="player-home-track" id="homeTrackInfo">click play para comenzar</div>
+  <span class="player-home-title">♪ soundtrack</span>
+  <span class="player-home-track" id="homeTrackInfo">click play</span>
   <div class="player-home-controls">
     <button class="player-home-btn" id="homePrevBtn" title="Anterior">⏮</button>
     <button class="player-home-btn" id="homePlayBtn" title="Play">▶</button>
@@ -70,12 +70,15 @@ const homePlaylist = [
   { name: "405.3", file: "https://medusahra.github.io/assets/music/405.3.mp3" },
   { name: "409.1", file: "https://medusahra.github.io/assets/music/409.1.mp3" },
   { name: "409.3", file: "https://medusahra.github.io/assets/music/409.3.mp3" },
-  { name: "Grimes1", file: "https://medusahra.github.io/assets/music/Grimes1.mp3" },
-  { name: "Grimes2", file: "https://medusahra.github.io/assets/music/Grimes2.mp3" },
-  { name: "lesdeux", file: "https://medusahra.github.io/assets/music/lesdeux.mp3" },
   { name: "Ninajirachi", file: "https://medusahra.github.io/assets/music/Ninajirachi.mp3" },
   { name: "Univz", file: "https://medusahra.github.io/assets/music/Univz.mp3" },
-  { name: "clubbed", file: "https://medusahra.github.io/assets/music/clubbed.mp3" }
+  { name: "clubbed to death", file: "https://medusahra.github.io/assets/music/clubbed-to-death.mp3" },
+  { name: "da3m0ns", file: "https://medusahra.github.io/assets/music/da3m0ns.mp3" },
+  { name: "distract enter", file: "https://medusahra.github.io/assets/music/distract-enter.mp3" },
+  { name: "lesdeux", file: "https://medusahra.github.io/assets/music/lesdeux.mp3" },
+  { name: "moth flame", file: "https://medusahra.github.io/assets/music/moth-flame.mp3" },
+  { name: "root kali", file: "https://medusahra.github.io/assets/music/root-kali.mp3" },
+  { name: "voodoo people", file: "https://medusahra.github.io/assets/music/voodoo-people.mp3" }
 ];
 
 let homeCurrentTrack = 0;
