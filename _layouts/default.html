@@ -252,26 +252,38 @@ img {
 
 @media (max-width: 600px) {
   .music-player-home {
-    padding: 15px;
-    margin: 30px auto;
+    padding: 6px 10px;
+    gap: 8px;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 95%;
+    margin: 20px auto;
   }
   
   .player-home-title {
-    font-size: 13px;
+    font-size: 9px;
+    flex-basis: 100%;
+    text-align: center;
   }
   
   .player-home-track {
-    font-size: 10px;
+    font-size: 8px;
+    max-width: 100px;
+    min-width: 60px;
   }
   
   .player-home-btn {
-    width: 38px;
-    height: 38px;
-    font-size: 14px;
+    width: 26px;
+    height: 26px;
+    font-size: 10px;
+  }
+  
+  .player-home-volume {
+    padding-left: 8px;
   }
   
   .player-home-slider {
-    width: 150px;
+    width: 50px;
   }
 }
   </style>
