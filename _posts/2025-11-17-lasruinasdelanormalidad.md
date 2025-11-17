@@ -91,3 +91,17 @@ He caminado entre sombras y distorsiones, entre realidades que se superponen com
 
 
 <img src="/assets/gigimedusahra.jpg" alt="gigimedusahra" style="max-width: 90%; width: 400px; display: block; margin: 40px auto; filter: drop-shadow(0 0 30px #ff1493);">
+
+
+La cabeza de Medusa yace a mis pies, en un grito silenciado, su mirada petrificada en un reflejo que ya no puede devolver. La mitología la pintó como un monstruo, pero la verdad es que su única culpa fue ser transformada en aquello que los demás temían. Castigada por existir, por ser diferente, por poseer un poder que el mundo no podía aceptar. Pero Medusa no era un monstruo, era una fuerza. ¿Cuántas veces me han cortado la cabeza a mí, con el filo del capacitismo y prejuicio disfrazado de certeza?
+
+Pero claro, el problema no es el absurdo de este código social, sino mi incapacidad para seguirlo sin cuestionarlo. No es que el mundo esté construido sobre una red de ficciones convenientes, no. 
+Es que yo no sé “adaptarme”. Porque, al parecer, la comunicación no se trata de transmitir ideas de forma clara, sino de jugar a la adivinanza, de lanzar palabras con doble fondo y esperar que el otro decodifique el mensaje correcto sin ofenderse en el proceso. Un juego donde las reglas no se explican, pero se espera que todos las sepan.
+
+Y si no las sabes, si preguntas demasiado, si tomas en serio lo que se dice, el castigo es inmediato: eres rara, eres incómoda, eres un problema. Se ríen de tu literalidad, 
+te miran con condescendencia, como si fueras una niña que aún no entiende cómo funciona el mundo. Te dicen que la vida es así, que hay cosas que simplemente 
+se sobreentienden. Pero lo que realmente quieren decir es: finge como nosotros o quédate fuera.
+
+
+<img src="/assets/gigiandzero.jpg" alt="gigiandzero" style="max-width: 90%; width: 400px; display: block; margin: 40px auto; filter: drop-shadow(0 0 30px #ff1493);">
+
