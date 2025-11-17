@@ -29,8 +29,8 @@ Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagam
 </h1>
 
 ## literatura
-- **[whoami extendido >](/2025/11/14/whoami.html)**
 - **[archivo de textos >](/archive.html)**
+- **[whoami >](/2025/11/14/whoami.html)**
 - [descarga mi libro: weltschmerz >](/2025/11/11/weltschmerz.html)
 - **[existir desde la neurodivergencia >](/2025/11/13/neurodivergente.html)**
 - <a href="https://goadletter.substack.com/" target="_blank">goad letters en substack ></a>
