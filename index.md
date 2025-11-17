@@ -16,7 +16,9 @@ he levantado mi propio templo de código y deseo: un glitch rosa en el mapa.
 </h1>
 
 ## whoami
-- **[whoami >](2015-11-14-whoami.md)**
+<h1 style="line-height: 1.2;">
+**[whoami >](2015-11-14-whoami.html)**
+</h1>
 
 *filósofa · poeta  · escritora* <br>
 colombo lebanese 🇱🇧 hacker <br>
