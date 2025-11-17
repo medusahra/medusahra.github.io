@@ -24,10 +24,15 @@ Pero la verdad es que nunca se ha tratado de aceptación, ni de comprensión con
 a existir sin que nuestra existencia sea vista como un problema a resolver.
 
 *Neurotípico es un neologismo muy utilizado en el movimiento de la neurodiversidad como etiqueta para cualquier persona que tenga un neurotipo que se ajuste a la norma de patrones de pensamiento.
-(Wikipedia, 2025).* <br>
+(Wikipedia, 2025).*
+
+<div style="margin: 40px 0;"></div>
 
 *El término 'neurodivergente' se utiliza para describir a las personas cuyas funciones neurológicas difieren de lo que se considera típico o estándar. Esto incluye condiciones como el autismo, 
-el TDAH, la dislexia, la dispraxia y otras variaciones neurológicas.* <br>
+el TDAH, la dislexia, la dispraxia y otras variaciones neurológicas.* 
+
+<div style="margin: 40px 0;"></div>
+
 
 Y sin embargo, a pesar de esta evidente fragilidad de nuestra percepción, el mundo neurotípico insiste en que su versión de la realidad es la única válida. Su manera de procesar, comunicar y estructurar el mundo no es una entre muchas, sino la correcta, la estándar, la que define quién es funcional y quién no. 
 Como si el hecho de ser mayoría les diera el monopolio de la verdad. Como si el caos pudiera ser domado con normas sociales arbitrarias y reglas de etiqueta disfrazadas de sentido común. 
@@ -36,5 +41,10 @@ Pero el problema de esta ilusión colectiva es que deja fuera todo aquello que n
 Pero, ¿qué ocurre cuando alguien percibe la realidad de una manera que desafía esa narrativa dominante? Cuando su manera de procesar el mundo no encaja en los límites estrechos de lo considerado "normal"? 
 Lo que sigue no es un intento de comprensión, sino de corrección, de moldear a la fuerza lo que escapa a su control.
 
+La realidad, como la concebimos, es una ilusión fabricada por nuestra percepción limitada, una simulación que solo puede ser entendida como lo que no es. No existe una absoluta verdad objetiva ni una esencia incuestionable; lo que vemos es solo una fachada, un fragmento distorsionado de algo mucho más complejo. La mente humana, en su afán de ordenar el caos, crea narrativas que intentan encajar en un molde coherente, pero esas narrativas no son más que interpretaciones de una realidad que se resiste a ser comprendida.
+
+En un mundo así, la neurodivergencia no es simplemente una ruptura al status quo, sino una irrupción en los cimientos mismos de la estructura de la normalidad, una grieta que expone la contingencia subyacente de lo que entendemos por realidad. Lejos de ser una anomalía que debe ser corregida o asimilada, la neurodivergencia revela que nuestra forma estándar de interactuar con el mundo es, en última instancia, una construcción arbitraria, una interpretación forzada de una experiencia mucho más compleja y disonante.
+
+En esta fractura, la linealidad de la percepción se desintegra, dejando ver un horizonte donde lo "normal" se vuelve relativo, un lugar en el que la interacción con el mundo no está predeterminada por reglas preexistentes, sino que se redefine constantemente desde nuevas y desconocidas perspectivas.
 
 
