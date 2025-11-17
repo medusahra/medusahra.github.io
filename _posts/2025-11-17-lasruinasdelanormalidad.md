@@ -23,6 +23,8 @@ Y ya que hablamos de empatía mal entendida, vale la pena mencionar el (2) de Ab
 Pero la verdad es que nunca se ha tratado de aceptación, ni de comprensión conmovedora. Se trata de algo más simple y menos decorativo: respeto, equidad y el derecho básico 
 a existir sin que nuestra existencia sea vista como un problema a resolver.
 
+<div style="margin: 40px 0;"></div>
+
 *Neurotípico es un neologismo muy utilizado en el movimiento de la neurodiversidad como etiqueta para cualquier persona que tenga un neurotipo que se ajuste a la norma de patrones de pensamiento.
 (Wikipedia, 2025).*
 
