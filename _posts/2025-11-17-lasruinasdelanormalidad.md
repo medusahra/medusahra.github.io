@@ -47,4 +47,20 @@ En un mundo así, la neurodivergencia no es simplemente una ruptura al status qu
 
 En esta fractura, la linealidad de la percepción se desintegra, dejando ver un horizonte donde lo "normal" se vuelve relativo, un lugar en el que la interacción con el mundo no está predeterminada por reglas preexistentes, sino que se redefine constantemente desde nuevas y desconocidas perspectivas.
 
+La neurodivergencia, al desestabilizar los códigos establecidos de la percepción, abre una brecha en el lenguaje mismo, ese sistema que los neurotípicos emplean como medio para imponer-se al caos del mundo.
+
+El lenguaje, en su forma más convencional, no es solo un vehículo de comunicación, sino una estructura que impone una visión reduccionista de la realidad, una manera de ordenar lo incomprensible a través de un marco riguroso. Para los neurotípicos, la palabra se convierte en un mecanismo de control, un contrato tácito que determina lo que es y lo que no es, lo que debe ser entendido y lo que debe ser ignorado. Pero cuando esa experiencia se fragmenta, cuando las piezas de la realidad no encajan en sus patrones prefabricados, el lenguaje pierde su efectividad como herramienta de comprensión.
+
+
+
+<img src="/assets/gigicyber" alt="gigihome" style="max-width: 90%; width: 400px; display: block; margin: 40px auto; filter: drop-shadow(0 0 30px #ff1493);">
+
+
+Y, sin embargo, el problema nunca ha sido la percepción, sino la intolerancia hacia cualquier forma de existir que no encaje en el molde preaprobado. Se nos exige hablar su idioma, usar sus códigos, modular nuestras expresiones para no incomodar, como si nuestra forma de procesar el mundo fuera una anomalía que necesita corrección en lugar de una manifestación legítima de la existencia. La comunicación, para el neurotípico promedio, no es un intercambio, sino una prueba de adaptación: ¿Puedes imitar lo suficiente? ¿Puedes traducirte lo bastante bien para que no les resulte agotador intentar entenderte? Porque si no puedes, el problema eres tú. No el lenguaje, no la estructura, no la rigidez de un sistema diseñado solo para aquellos que encajan sin esfuerzo.
+
+Y es que, al final, lo que molesta no es la falta de comprensión, sino la incomodidad de enfrentarse a un mundo que no se pliega a sus expectativas.
+
+Para ellos, la diferencia solo es válida si es pintoresca, manejable, si puede ser traducida a términos que no desafíen la ilusión de que su manera de percibir y definir la realidad es la única correcta. Pero cuando la diferencia se rehúsa a ser empaquetada y digerida, cuando exige existir sin necesidad de ser justificada, entonces deja de ser fascinante y se convierte en un error que hay que corregir o, en el mejor de los casos, tolerar con una condescendencia vestida de inclusividad.
+
+En mi experiencia personal, como neurodivergente, el intento de articular el mundo a través de un lenguaje preestablecido se convierte en una contradicción constante, un juego de traducción que no termina de reflejar lo que se experimenta, habito un espacio donde las certezas que otros consideran universales son inalcanzables. Desde que tengo memoria, mi percepción del mundo ha sido la de un terreno en el que las cosas no se ajustan a los contornos que otros parecen ver con facilidad. No como un prisma roto sino como una forma distinta de refractar la luz. Desde un lugar donde lo que se percibe no se limita a los límites de lo tangible, sino que está impregnado de una profundidad más vasta, de significados que no siguen las reglas de lo comúnmente aceptado. Las imágenes, los sonidos y las sensaciones se entrelazan en formas que no siempre son visibles a los ojos de los demás, pero que, sin embargo, son tan reales como cualquier otro aspecto de la existencia.
 
