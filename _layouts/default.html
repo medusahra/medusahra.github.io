@@ -204,37 +204,6 @@ img {
 <body>
   {{ content }}
 
-  <!-- Botón Audio Flotante -->
-  <button class="audio-toggle-btn" id="audioToggle" data-tooltip="ambient sound">♪</button>
 
-  <!-- Audio de fondo -->
-  <audio id="bgAudio" loop>
-    <source src="/assets/music/impenetrable.mp3" type="audio/mpeg">
-  </audio>
-
-  <script>
-    const audioToggle = document.getElementById('audioToggle');
-    const bgAudio = document.getElementById('bgAudio');
-    let isPlaying = false;
-
-    // Volumen bajo para ser sutil
-    bgAudio.volume = 0.3;
-
-    audioToggle.addEventListener('click', () => {
-      if (isPlaying) {
-        bgAudio.pause();
-        audioToggle.textContent = '♪';
-        audioToggle.classList.remove('playing');
-        audioToggle.setAttribute('data-tooltip', 'ambient sound');
-        isPlaying = false;
-      } else {
-        bgAudio.play().catch(e => console.log('Autoplay blocked'));
-        audioToggle.textContent = '⏸';
-        audioToggle.classList.add('playing');
-        audioToggle.setAttribute('data-tooltip', 'stop sound');
-        isPlaying = true;
-      }
-    });
-  </script>
 </body>
 </html>
