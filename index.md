@@ -58,5 +58,5 @@ Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagam
 <!-- SoundCloud Player -->
 <div class="soundcloud-wrapper">
   <div class="soundcloud-title">♪ soundtrack ♪</div>
-  <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A1852537608&color=%23ff1493&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+  <iframe width="100%" height="170" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A1852537608&color=%23ff1493&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 </div>
