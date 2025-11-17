@@ -178,7 +178,7 @@ Pero no todo necesita un nombre, no todo debe ajustarse a las expectativas ajena
 de lo que percibo, por la belleza que descubro en lo que muchos ignoran. Y así, me permito vivir en esa libertad, en la certeza de que mi manera de experimentar el mundo no necesita justificación. Porque la verdadera esencia de la existencia es la libertad, entonces, no está en el conformismo ni en la adaptación forzada. Está en la valentía de ser, en la firmeza de sostener 
 la propia verdad sin miedo al juicio ajeno.
 
-Como dijo Nietzsche: *"Y aquellos que fueron vistos bailando fueron tomados por locos por quienes no podían escuchar la música".* 
+Como dijo Nietzsche: *Y aquellos que fueron vistos bailando fueron tomados por locos por quienes no podían escuchar la música.* 
 Quizás mi música es distinta, quizás mi danza desafía el ritmo del mundo, pero es en esa diferencia donde encuentro mi esencia. 
 Y eso, en sí mismo, es una forma de libertad inquebrantable.
 
