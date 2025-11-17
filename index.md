@@ -16,9 +16,6 @@ he levantado mi propio templo de código y deseo: un glitch rosa en el mapa.
 </h1>
 
 ## whoami
-<h1 style="line-height: 1.2;">
-[whoami >](/2025/11/14/whoami.html)
-</h1>
 
 *filósofa · poeta  · escritora* <br>
 colombo lebanese 🇱🇧 hacker <br>
@@ -32,6 +29,7 @@ Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagam
 </h1>
 
 ## literatura
+- **[whoami extendido >](/2025/11/14/whoami.html)**
 - **[archivo de textos >](/archive.html)**
 - [descarga mi libro: weltschmerz >](/2025/11/11/weltschmerz.html)
 - **[existir desde la neurodivergencia >](/2025/11/13/neurodivergente.html)**
