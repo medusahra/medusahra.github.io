@@ -16,6 +16,7 @@ he levantado mi propio templo de código y deseo: un glitch rosa en el mapa.
 </h1>
 
 ## whoami
+*filósofa · poeta  · escritora* <br>
 colombo lebanese 🇱🇧 hacker <br>
 enfocada en seguridad ofensiva <br>
 *fine & dandy honeypot*
