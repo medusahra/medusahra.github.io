@@ -53,7 +53,7 @@ El lenguaje, en su forma más convencional, no es solo un vehículo de comunicac
 
 
 
-<img src="/assets/gigicyber" alt="gigihome" style="max-width: 90%; width: 400px; display: block; margin: 40px auto; filter: drop-shadow(0 0 30px #ff1493);">
+<img src="/assets/gigicyber.jpeg" alt="gigihome" style="max-width: 90%; width: 400px; display: block; margin: 40px auto; filter: drop-shadow(0 0 30px #ff1493);">
 
 
 Y, sin embargo, el problema nunca ha sido la percepción, sino la intolerancia hacia cualquier forma de existir que no encaje en el molde preaprobado. Se nos exige hablar su idioma, usar sus códigos, modular nuestras expresiones para no incomodar, como si nuestra forma de procesar el mundo fuera una anomalía que necesita corrección en lugar de una manifestación legítima de la existencia. La comunicación, para el neurotípico promedio, no es un intercambio, sino una prueba de adaptación: ¿Puedes imitar lo suficiente? ¿Puedes traducirte lo bastante bien para que no les resulte agotador intentar entenderte? Porque si no puedes, el problema eres tú. No el lenguaje, no la estructura, no la rigidez de un sistema diseñado solo para aquellos que encajan sin esfuerzo.
