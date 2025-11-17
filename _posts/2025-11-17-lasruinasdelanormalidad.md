@@ -131,3 +131,68 @@ Porque si la única forma de encajar es vaciarme de sentido, prefiero quedarme a
 
 Lo irónico es que se atreven a llamarlo “empatía”. Como si disfrazar la verdad fuera un acto de bondad. Como si ocultar lo que piensan, lo que sienten, lo que realmente quieren decir, fuera un favor para los demás. Pero su empatía no es comprensión, es conveniencia. No es cuidado, es evasión. No quieren evitar herir, quieren evitar incomodarse con la reacción. Y cuando alguien como yo llega y dice lo que es, sin envoltorios ni distracciones, no ven honestidad, ven amenaza.
 
+
+<img src="/assets/gigig.jpg" alt="gigihackers" style="max-width: 90%; width: 400px; display: block; margin: 40px auto; filter: drop-shadow(0 0 30px #ff1493);">
+
+
+No dicen lo que piensan porque creen que la verdad es peligrosa, hiriente, inconveniente. Prefieren construir relaciones sobre ilusiones, donde lo importante no es la sinceridad, sino la armonía superficial. Me pregunto si alguna vez han sentido el peso de la verdad cruda en la lengua, si alguna vez han experimentado la libertad de hablar sin adornos, 
+sin la expectativa de ser aceptados por una mentira bien dicha.
+
+Tal vez por eso, una mujer como yo les parezca difícil de entender, no es que no quiera conectar, es que el puente entre su mundo y el mío está hecho de palabras demasiado ligeras, de promesas vacías, de una forma de relacionarse que para mí carece de sentido.
+
+Vivir con mis condiciones, ser quien soy en este vasto y complejo mundo, ha sido tanto un desafío como una revelación. Soy autista —diagnosticada desde los doce años—, tengo TDAH y un trastorno esquizoafectivo. Esto último significa que convivo con síntomas propios de la esquizofrenia, como alucinaciones, paranoia y delirios, pero también con los de un trastorno del estado de ánimo. 
+En mi caso, trastorno bipolar: un vaivén entre la euforia ligera de la hipomanía y los abismos de la depresión mayor. dos etiquetas que para muchos son sinónimo de incapacidad, rareza o peligro. 
+Dos palabras que, en la boca equivocada, se convierten en diagnósticos de exclusión. No porque definan mi existencia, sino porque el mundo prefiere definir lo que no entiende en términos de defecto. 
+Para ellos, no soy alguien con una forma distinta de procesar la realidad, sino alguien que debe ser corregida, ajustada, suavizada hasta encajar en su molde.
+
+La realidad, sin embargo, no se pliega a sus expectativas. Mi cerebro no funciona con sus reglas arbitrarias, no se amolda a su idea de lo que es correcto sentir o decir. Percibo el mundo de manera intensa, a veces brutalmente vívida, otras veces como una serie de capas superpuestas que luchan por ocupar el mismo espacio. La gente habla de la "realidad compartida" como si fuera una estructura sólida, inmutable, pero para mí, la realidad es fluida, resbaladiza, un lugar donde la certeza es un lujo del que otros disfrutan sin siquiera cuestionarlo. ¿Cómo podría encajar en un mundo 
+que exige interpretaciones únicas cuando mi mente es un caleidoscopio de percepciones en constante cambio?
+
+Pero el problema nunca es el mundo. No. El problema siempre es el otro, el que no encaja, el que no traduce su existencia en un lenguaje fácil de digerir. Si me cuesta entender su hardcoded deception, es "mi" déficit de comunicación. Si me cuesta sostener interacciones triviales sin sentirme drenada, es "mi" falta de habilidades sociales. Si digo lo que pienso sin edulcorarlo, 
+soy "demasiado" honesta, o cruel "demasiado" cruda. La carga de la adaptación, siempre, recae en quien perciben como el error en el sistema, nunca en ellos.
+
+Pero yo no soy un error. No soy un malfuncionamiento en la máquina bien engrasada de la normalidad. Soy una anomalía, sí, pero no una que deba ser corregida. Soy la prueba viviente 
+de que la percepción humana no es única, de que hay más formas de existir de las que les gustaría admitir. Y si eso les incomoda, que así sea. No nací para tranquilizar a nadie.
+
+La belleza de la existencia, en su forma más cruda y sin adornos, se me revela como un caleidoscopio de momentos intensos, donde lo extraño se entrelaza con lo sublime, y lo doloroso se convierte en aprendizaje y transformación. No ha sido sencillo. He caminado rodeada de miradas que juzgan sin conocer, de palabras que hieren más profundo que cualquier cuchillo, y del 
+desprecio de una sociedad que prefiere encasillar antes que comprender, refugiándose en la comodidad de sus prejuicios.
+
+
+Ser diferente no es una condena. Es ver más allá de lo evidente, desafiar las normas que otros aceptan sin cuestionar, encontrar belleza en lo que otros descartan y 
+saber que existen más formas de ser de las que nos enseñan. Ser diferente no me define ni limita. La forma en que experimento el mundo no es una sentencia sobre mi valor ni mis habilidades. 
+La sociedad prefiere encasillar lo que no entiende, etiquetar lo que se sale de su molde, pero yo no estoy aquí para cumplir sus expectativas. 
+Lo que mi forma de ser me ha enseñado es que la verdadera libertad no está en ser aceptado, sino en existir sin pedir permiso.
+
+<div style="margin: 40px 0;"></div>
+
+Ser diferente no es un error ni una falla en lo que se considera normal. Es, en muchos aspectos, una forma más auténtica de existir. Durante años, sentí que había algo en mí que debía corregirse, algo que no encajaba en la fluidez con la que los demás navegaban sus interacciones y expectativas mutuas. Con el tiempo, entendí que la diferencia no es una barrera, sino 
+un portal hacia perspectivas que otros ni siquiera alcanzan a imaginar.
+
+Los neurotípicos se sostienen en el andamiaje de lo predecible, a la comodidad de estructuras que les permiten interpretar a los demás con facilidad. Yo transito por otro camino, uno donde la comunicación no es un juego de señales tácitas, sino una revelación directa; donde el lenguaje no está velado por eufemismos, sino que resuena con la verdad de lo que realmente se siente. En este espacio de claridad, percibo la riqueza de la existencia de una manera que pocos comprenden: no como una serie de reglas fijas, sino como un campo abierto de significados y 
+símbolos que danzan en los bordes de lo visible.
+
+A lo largo de mi vida, he aprendido que no necesito la comprensión del mundo para que mi existencia sea válida. No tengo que probar mi valor adaptándome a normas que no me pertenecen ni pedir permiso para sentir y ver el mundo a mi manera. La verdadera libertad no está en encajar en una estructura que no fue hecha para mí, sino en saber que mi forma de ser es tan legítima como cualquier otra.
+
+La sociedad intenta encasillar lo que no comprende, darle nombres a lo que le parece incierto, como si definir algo fuera suficiente para entenderlo. 
+Pero no todo necesita un nombre, no todo debe ajustarse a las expectativas ajenas para tener significado. Mi existencia no se define por la mirada de los otros, sino por la inmensidad 
+de lo que percibo, por la belleza que descubro en lo que muchos ignoran. Y así, me permito vivir en esa libertad, en la certeza de que mi manera de experimentar el mundo no necesita justificación. Porque la verdadera esencia de la existencia es la libertad, entonces, no está en el conformismo ni en la adaptación forzada. Está en la valentía de ser, en la firmeza de sostener 
+la propia verdad sin miedo al juicio ajeno.
+
+Como dijo Nietzsche: *"Y aquellos que fueron vistos bailando fueron tomados por locos por quienes no podían escuchar la música".* 
+Quizás mi música es distinta, quizás mi danza desafía el ritmo del mundo, pero es en esa diferencia donde encuentro mi esencia. 
+Y eso, en sí mismo, es una forma de libertad inquebrantable.
+
+
+
+<img src="/assets/gigihack.jpg" alt="gigithehacker" style="max-width: 90%; width: 400px; display: block; margin: 40px auto; filter: drop-shadow(0 0 30px #ff1493);">
+
+
+<div style="margin: 40px 0;"></div>
+
+
+
+
+[< volver al inicio](/)
+
+
+
