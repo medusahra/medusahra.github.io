@@ -76,8 +76,10 @@ Cada palabra, cada frase, es una construcción que se esfuerza por comunicar lo 
 Yo tardé años en darme cuenta de esto, de que el lenguaje de la llamada “gente normal”, es decir, el lenguaje neurotípico, no es el mismo que el mío.
 
 No está diseñado para transmitir verdades profundas ni para expresar lo que realmente se piensa, sino para sostener una coreografía social bien ensayada. Su propósito no es la claridad, sino la comodidad; no es la honestidad, sino la armonía superficial. Es un lenguaje de humo y espejos, de sonrisas funcionales y silencios estratégicos, un artefacto de simulación donde lo que se dice rara vez tiene algo que ver con la realidad. Cada “te llamo luego” es un conjuro de dispersión, un mecanismo de escape disfrazado de intención. Cada “qué bueno verte” es una palmadita verbal que no significa absolutamente nada. Para ellos, la palabra no es un compromiso, sino un lubricante social que mantiene en marcha la maquinaria de lo aceptable.
+<div style="margin: 40px 0;"></div>
 
 Me pregunto cómo logran soportar tanta falsedad sin que se les deshaga la lengua en la boca.
+<div style="margin: 40px 0;"></div>
 
 Un neurotípico puede decir “nos vemos pronto” con la misma ligereza con la que uno pestañea, sin el menor interés en que eso ocurra jamás. Durante años, tomé esas palabras en serio, interpretándolas como lo que parecían ser: intenciones genuinas. Planifiqué, esperé, solo para descubrir que no eran más que emisiones de ruido diseñadas para cerrar conversaciones sin esfuerzo. Finalmente, entendí la verdad: no significaban nada. Eran fórmulas de cortesía, vacías y predecibles, pequeños trucos de prestidigitación verbal para fingir conexión sin asumir la carga de mantenerla. Así, la comunicación neurotípica se revela como lo que realmente es: una danza de espejos rotos, un simulacro donde las palabras no sirven para entenderse, sino para que todos finjan que lo han hecho. Dicen cosas que no sienten, hacen promesas que jamás piensan cumplir y, para colmo, esperan que una mágicamente adivine cuándo una frase es literal y cuándo es puro ruido de fondo. Ese es un código secreto que nunca adquirí, ni me interesa adquirir.
 
@@ -86,3 +88,6 @@ Un neurotípico puede decir “nos vemos pronto” con la misma ligereza con la 
 Mi manera de comunicarme es distinta. Si digo que haré algo, lo hago. Si hago una promesa, es porque tengo la intención de cumplirla. No juego con las palabras, no las vacío de significado para hacer sentir mejor a alguien o para evitar un momento incómodo. Me ha costado caro. La sinceridad en un mundo de NPCs es una amenaza, y la literalidad es vista como una falta de tacto. ‘Tienes que aprender a leer entre líneas’, me han dicho. Pero, ¿por qué? ¿Por qué el mundo funciona con líneas invisibles que algunos pueden leer y otros no?
 
 He caminado entre sombras y distorsiones, entre realidades que se superponen como reflejos rotos en un charco oscuro. No es que no sepa qué es real, es que la realidad, esa entidad tan segura para los demás, para mí es un espectro en constante mutación, existiendo en un borde afilado entre lo tangible y lo esquivo, entre lo que se acepta como cierto y lo que el mundo insiste en llamar delirio.
+
+
+<img src="/assets/gigimedusahra.jpg" alt="gigimedusahra" style="max-width: 90%; width: 400px; display: block; margin: 40px auto; filter: drop-shadow(0 0 30px #ff1493);">
