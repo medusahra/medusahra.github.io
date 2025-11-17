@@ -105,3 +105,29 @@ se sobreentienden. Pero lo que realmente quieren decir es: finge como nosotros o
 
 <img src="/assets/gigiandzero.jpg" alt="gigiandzero" style="max-width: 90%; width: 400px; display: block; margin: 40px auto; filter: drop-shadow(0 0 30px #ff1493);">
 
+
+A veces siento que estoy atrapada en una realidad paralela donde todos entienden algo que yo no. La comunicación, en este contexto, parece un acuerdo tácito, una danza invisible que mantiene la maquinaria social en movimiento. Me pregunto si alguna vez lograré descifrar ese código o si estoy destinada a ser la intrusa, la que pregunta de más, la que cree demasiado, 
+la que espera lo que nunca llega. La sociedad me resulta un teatro de sombras. Los neurotípicos, esos que parecen dominar el mundo, se mueven en una coreografía silenciosa, un lenguaje de gestos sobreentendidos, que yo no puedo —ni quiero— comprender. Hablan, pero rara vez expresan lo que realmente piensan o sienten. Viven en la falsedad sin culpa, sin ser 
+conscientes de su propia hipocresía, porque para ellos, la falsedad no es un defecto: es el pegamento que mantiene unida su civilización.
+<div style="margin: 40px 0;"></div>
+
+*Desde mi infancia, me he sentido como un ser de otra especie.*
+<div style="margin: 40px 0;"></div>
+
+<img src="/assets/gigi1988.jpg" alt="gigineurodivergenteenlaniñez" style="max-width: 90%; width: 400px; display: block; margin: 40px auto; filter: drop-shadow(0 0 30px #ff1493);">
+
+
+No porque no entienda el lenguaje, sino porque comprendo demasiado bien la distancia entre lo que se dice y lo que realmente significa. Me asombra la facilidad con la que la otredad navega en este 
+mar de medias verdades y falsedades completas, sin nunca parecer angustiados por la contradicción constante en la que viven. Es como si la mentira implícita fuera tan natural para ellos que no necesitan reconocerla, algo que está en el aire que respiran sin cuestionarlo.
+
+En el pasado, me esforzaba por encajar, por aprender a traducir sus códigos: miraba lo justo a los ojos para no incomodar, sonreía cuando el guion social lo exigía, modulaba mi voz para no parecer demasiado directa, tenía cuidado de no decir cosas fuera del contexto establecido, de no hablar demasiado bajo ni demasiado alto, ni con un tono de voz extraño. En otras ocasiones, intentaba 
+hablar lo menos posible. Pero ahora, ya no me interesa vivir según las frágiles burbujas de fantasía de los demás. He dejado de adaptarme a su realidad construida y sé que puedo destrozarla en 
+cualquier momento que considere apropiado, sin pedir permiso. Por supuesto, nada de eso cambia el hecho fundamental de que el mundo me parece profundamente falso.
+
+No soy distante, ni fría, ni carente de sentimientos. Simplemente no me interesa jugar a la farsa colectiva. No sé vivir entre líneas ni quiero aprender. 
+Porque si la única forma de encajar es vaciarme de sentido, prefiero quedarme al margen y conservarme intacta.
+
+*Los neurotípicos confunden diplomacia con humanidad.*
+
+Lo irónico es que se atreven a llamarlo “empatía”. Como si disfrazar la verdad fuera un acto de bondad. Como si ocultar lo que piensan, lo que sienten, lo que realmente quieren decir, fuera un favor para los demás. Pero su empatía no es comprensión, es conveniencia. No es cuidado, es evasión. No quieren evitar herir, quieren evitar incomodarse con la reacción. Y cuando alguien como yo llega y dice lo que es, sin envoltorios ni distracciones, no ven honestidad, ven amenaza.
+
