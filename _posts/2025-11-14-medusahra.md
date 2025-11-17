@@ -12,8 +12,7 @@ date: 2025-11-14
 *𝖒𝖊𝖉𝖚𝖘𝖆𝖍𝖗𝖆 —de Medusa, la mujer condenada que aprende a transformar el castigo en poder, y ṣaḥrāʼ صَحْرَاء, 
 el desierto como extensión viva de la conciencia y del espíritu— no es un nombre que elegí: es una fisura que me encontró. Un pliegue en la lengua donde algo quebrado empezó a resonar con más fuerza que todo lo entero. 
 Es un espacio de vibración espectral donde lo simbólico, lo visual, lo material y lo poético se cruzan sin jerarquía. Este lugar no es un archivo ni una galería: es una zona de persistencia, donde los restos 
-—objetos, imágenes, fragmentos, signos— no se interpretan, se permiten; aquí la existencia se dispersa como polvo de arena caliente sobre las piedras talladas del Levante, l
-o íntimo se transforma en clima, en lluvia, en cordillera, y lo que no tiene forma encuentra su lugar sin urgencia, sin centro, sin necesidad de explicación. 
+—objetos, imágenes, fragmentos, signos— no se interpretan, se permiten; aquí la existencia se dispersa como polvo de arena caliente sobre las piedras talladas del Levante, lo íntimo se transforma en clima, en lluvia, en cordillera, y lo que no tiene forma encuentra su lugar sin urgencia, sin centro, sin necesidad de explicación. 
 Habito el temblor entre dos ecos: uno de montaña y niebla, otro de arena y mar.*
 
 <div style="margin: 40px 0;"></div>
