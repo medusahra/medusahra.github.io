@@ -103,6 +103,73 @@ del USA Today con títulos como *«¿Cuándo debes pasar de Tinder a la vida rea
 <div style="margin: 20px 0;"></div>
 <img src="/assets/defcon1.jpg" alt="defcon1" style="max-width: 90%; width: 400px; display: block; margin: 40px auto; filter: drop-shadow(0 0 30px #ff1493);">
 <div style="margin: 10px 0;"></div>
+Ambos ejemplos son representativos de una forma más amplia de hablar de Internet y de situar lo offline y lo online como esferas separadas. El primer ejemplo habla de una interpretación 
+de la identidad en términos casi goffmanianos, pero lo hace con la implicación de que lo offline y lo online pueden ser analizados como identidades separadas en lugar de como partes de un todo.
+<div style="margin: 10px 0;"></div>
+El segundo posiciona retóricamente las interacciones a través de una aplicación como Tinder como relativamente poco importantes hasta que la interacción se mueve fuera de línea, momento en el que finalmente se vuelve consecuente. Para ser claros, estos son solo dos ejemplos, pero representan la forma en que las metáforas de *«lo real»* siguen dando forma a la manera en que la gente entiende las interacciones en línea. De hecho, la metáfora de la «vida real» está tan extendida que la frase incluso se ha ganado su propia abreviatura en el argot de Internet: *IRL*. Y, como señala Baym, la investigación académica sigue utilizando a menudo la palabra «real» para describir lo que ocurre cara a cara en comparación con lo que ocurre en los entornos mediados digitalmente (por ejemplo, Kothgassner et al.; Morina et al.).
+<div style="margin: 10px 0;"></div>
+La frase tiene tracción e, incluso en 2020, 21 y 22, esa tracción disminuye retóricamente la importancia de lo online con consecuencias significativas.
+El posicionamiento de lo offline como «más real» se inscribe en una larga historia de denigración de diversas formas de comunicación mediada.
+<div style="margin: 10px 0;"></div>
+Como argumentó John Durham Peters, los seres humanos se esfuerzan constantemente por conseguir una forma de comunicación «directa» que evite la mediación del lenguaje. Sin embargo, sin una conexión telepática directa, la comunicación cara a cara es supuestamente el medio más directo que tenemos.
+<div style="margin: 10px 0;"></div>
+Todo, desde la escritura de cartas hasta las más recientes formas de comunicación mediadas digitalmente, se considera a menudo inferior y más impuro. Pero Peters critica la idea de un tipo de comunicación como directa y sin mediación porque toda comunicación requiere mediación, ya sea el lenguaje verbal y los cuerpos, las imágenes en Instagram o el texto a través de los SMS. 
+No existe una comunicación pura, aunque el cara a cara se considere a menudo el estándar de oro.
+<div style="margin: 10px 0;"></div>
+
+No estoy argumentando que la comunicación cara a cara no tenga ventajas (y potencialmente desventajas) en comparación con la comunicación mediada digitalmente. Lo que sostengo es que el cara a cara no es más o menos real que las diversas formas de comunicación mediada digitalmente. El marco retórico de IRL frente a todo lo demás crea una jerarquía de interacción y comunicación que es teóricamente engañosa y a menudo perjudicial por múltiples razones. Por un lado, el hecho de que se considere que lo online es menos real es la clave de gran parte de la cultura del trolling online. 
+<div style="margin: 10px 0;"></div>
+La gente se comporta de un modo que nunca haría en contextos cara a cara porque sus acciones parecen carecer de consecuencias y estar alejadas de lo real. De hecho, la investigación sobre el anonimato en línea ha demostrado desde hace tiempo cómo algunas personas se disocian de sus acciones en línea, casi como si las realizara otra persona, y a menudo no reconocen las consecuencias de lo que publican (Christopherson).
+<div style="margin: 10px 0;"></div>
+Pero, como han demostrado numerosos ejemplos, las consecuencias de lo que la gente hace en línea son muy reales. Una amenaza de violación a través de Twitter es real. El porno de venganza publicado en Internet es real. Publicar fotos de desconocidos en Internet tiene consecuencias reales. Todo es real.
+<div style="margin: 10px 0;"></div>
+IRL es el marco lingüístico más obvio de lo digital como algo menos real, pero la idea también sobrevive en las principales metáforas de la tecnología. Quizá la más notable sea la «computación en la nube». La computación en nube es una metáfora que sitúa lo digital como algo etéreo, tan intangible como las nubes que flotan sobre nosotros. Implica metafóricamente que los datos digitales están ahí fuera, en algún lugar, almacenados en esa cosa que llamamos Internet. Pero, en términos más básicos, la computación en nube implica el almacenamiento de datos en un lugar y no en otro. 
+<div style="margin: 10px 0;"></div>
+Un archivo puede no estar almacenado en tu ordenador, pero existe en algún lugar. Quizás ese lugar sea una granja de servidores en Carolina del Norte o quizás una granja de servidores en Europa. En cualquier caso, la computación en nube, al igual que la IRL, es un lenguaje que desmaterializa lo digital.
+<div style="margin: 10px 0;"></div>
+Hace que lo digital sea menos real a través de la imagen de la nube, que imagina que los datos existen sin infraestructura física. La metáfora es otro ejemplo de lo 
+que IRL muestra con mayor crudeza: el lenguaje que la gente sigue utilizando tiene sus raíces en las primeras concepciones de Internet y cambia la forma en que entendemos lo digital de forma consecuente, a menudo negativa.
+<div style="margin: 10px 0;"></div>
+Lo real y sus descontentos
+Las consecuencias de nuestras elecciones lingüísticas son importantes. Por ejemplo, un concepto como el «slacktivism», que falsamente dicotomiza la acción en línea de la «organización real» para conseguir cosas. En realidad, la relación entre el activismo offline y online es mucho más complicada porque todo forma parte de un complicado conjunto de interacciones. 
+Y éste es sólo uno de los muchos ejemplos. Una ruptura a través de Facebook Messenger hiere un cuerpo físico. Una carta de tenencia externa que compongo digitalmente y envío a través del correo electrónico puede determinar dónde vive alguien físicamente.
+<div style="margin: 10px 0;"></div>
+*Todo es vida real.*
+<div style="margin: 10px 0;"></div>
+Y aunque una metáfora como la de la computación en la nube no sea tan tajante al oponer lo físico a lo digital, la desmaterialización de lo digital en el lenguaje que utilizamos tiene consecuencias.
+Los datos se almacenan en algún lugar, a menudo en granjas de servidores que utilizan enormes cantidades de energía. Los datos dependen de la fibra y otros cables para ir de un lugar a otro, y las infraestructuras físicas que permiten el acceso están lejos de estar distribuidas uniformemente (Halegoua y Lingel 4635). 
+<div style="margin: 10px 0;"></div>
+Y para dar un paso más, las leyes que determinan lo que las empresas y los gobiernos pueden hacer con los datos están parcialmente determinadas por la geografía; en un ejemplo especialmente crudo, Google planteó la idea de construir una «Armada Google» de barcos para almacenar datos y así evitar las regulaciones nacionales (Jaeger et al. n.p.). No hay una «nube» ahí fuera con nuestros datos; la retórica importa.
+<div style="margin: 20px 0;"></div>
+*Este artículo es un llamamiento a interrogar los términos aparentemente mundanos que utilizamos cuando hablamos de la vida en línea.* 
+El hecho de que creemos jerarquías que oponen lo digital a lo físico o desmaterializan lo digital a través del lenguaje es un marco sutil pero importante que podemos rechazar en nuestra investigación y enseñanza. Después de todo, ¿por qué íbamos a estudiar lo digital si no pensáramos que es «real»? Y como estudiosos podemos abogar por hacer visibles estas sutiles elecciones metafóricas.
+Este artículo es un llamamiento a interrogar los términos aparentemente mundanos que utilizamos cuando hablamos de la vida en línea. 
+<div style="margin: 10px 0;"></div>
+El hecho de que creemos jerarquías que oponen lo digital a lo físico o desmaterializan lo digital a través del lenguaje es un marco sutil pero importante que podemos rechazar en nuestra investigación y enseñanza. Después de todo, ¿por qué íbamos a estudiar lo digital si no pensáramos que es «real»? Y como estudiosos podemos abogar por hacer visibles estas sutiles elecciones metafóricas.
+<div style="margin: 10px 0;"></div>
+Por ejemplo, los cursos de medios digitales podrían incluir una sección sobre alfabetización infraestructural que enseñe a los estudiantes la materialidad de la computación en la nube y discuta temas como el uso de la energía y las regulaciones nacionales.
+<div style="margin: 10px 0;"></div>
+Los cursos pueden abordar el uso que hacen los estudiantes de la palabra «real» en sus escritos y debates para ayudarles a pensar en cómo lo digital y lo físico se combinan para formar lo que consideramos real. El trabajo de Cohn sobre narrativas de alfabetización digital en el aula es un excelente ejemplo de cómo podemos hacerlo. Como señala, al ayudar a los estudiantes a pensar en la realidad de lo digital mediante tareas y debates, podemos «ayudar a los estudiantes a convertirse en participantes activos, en lugar de detractores pasivos, de la tecnología que probablemente formará parte de sus vidas de lectura, escritura y trabajo en los próximos años».
+<div style="margin: 10px 0;"></div>
+Al fin y al cabo, tanto si la interacción se produce en línea como en persona, es real. De cara al futuro, podemos desempeñar un papel en la crítica y la remodelación de las metáforas que afectan a la forma en que la gente entiende nuestro mundo.
+<div style="margin: 20px 0;"></div>
+*Notas finales*
+<div style="margin: 20px 0;"></div>
+*Utilizo conscientemente «digital» en lugar de «virtual».*
+<div style="margin: 10px 0;"></div>
+-Los dos términos se utilizan a menudo indistintamente, pero potencialmente significan cosas muy diferentes.
+-Lo digital es sólo eso: digital.
+-Lo virtual, sin embargo, se adentra en los debates filosóficos y tiene un significado mucho más variado, siendo a menudo opuesto a lo real más que a lo físico. 
+<div style="margin: 10px 0;"></div>
+O, como dice Brian Massumi, *«Nada es más destructivo para el pensamiento de lo virtual que equipararlo con lo digital».*
+
+<div style="margin: 40px 0;"></div>
+
+
+[< volver al inicio](/)
+
+
+
 
 
 
