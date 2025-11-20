@@ -2,7 +2,6 @@
 layout: default
 title: "Weltschmerz"
 date: 2025-11-11
-pinned: true
 
 
 ---
