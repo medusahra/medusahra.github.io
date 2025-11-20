@@ -340,7 +340,7 @@ Y he aquí la paradoja final: cuanto más perfectamente un modelo reproduce a su
 sino el vértigo de saberse replicada con demasiada precisión.*
 
 <div style="margin: 40px 0;"></div>
-<img src="/assets/medusasello.png" alt="medusahrahacker" style="max-width: 90%; width: 400px; display: block; margin: 40px auto; filter: drop-shadow(0 0 30px #ff1493);">
+<img src="/assets/medusasello.png" alt="medusahrahacker" style="max-width: 60%; width: 200px; display: block; margin: 40px auto; filter: drop-shadow(0 0 30px #ff1493);">
 <div style="margin: 40px 0;"></div>
 
 
