@@ -1,34 +1,42 @@
 title: ♡ 𝖒𝖊𝖉𝖚𝖘𝖆𝖍𝖗𝖆 ♡
-description: "Hacker offsec, escritora de filosofía y crítica cultural. Weltschmerz - libro de poesía gratuito. Goad Letters newsletter."
+description: "Giovanna Chadid (Gigi) - Philosopher, poet, writer and hacker. Colombian-Lebanese offensive security researcher. Neuroqueer perspectives on technology, desire, and resistance."
 remote_theme: riggraz/no-style-please
-
 theme_config:
   appearance: "dark"
   back_home_text: "< inicio"
   date_format: "%Y-%m-%d"
-
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
-
 url: "https://medusahra.github.io"
 lang: es
+timezone: America/Bogota
 
 # Autor
 author:
-  name: Giovanna Gigi Chadid
+  name: Giovanna Chadid
   email: blackobjkt@protonmail.com
 
-# SEO
-tagline: "Hacker, offsec, filosofía, crítica cultural, poesía"
+# SEO mejorado
+tagline: "Philosopher, poet, writer & hacker | Offensive security researcher"
 
 social:
-  name: Gigi Chadid
+  name: Giovanna Chadid
   links:
+    - https://twitter.com/medusahra
     - https://github.com/medusahra
     - https://instagram.com/medusahra
-    - https://x.com/medusahra
+    - https://www.goodreads.com/author/show/52505402.Giovanna_Chadid
+    - https://soundcloud.com/malwaremedusa
+
+# Twitter card
+twitter:
+  username: medusahra
+  card: summary_large_image
+
+# Imagen para redes sociales
+logo: /assets/logo-small.png
 
 # CSS personalizado
 sass:
