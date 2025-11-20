@@ -2,6 +2,7 @@
 layout: default
 title: "La Rendición del Sujeto: IA, Espejo y Máquina de Deseo."
 date: 2025-11-15
+pinned: true
 
 ---
 
