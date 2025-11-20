@@ -31,7 +31,7 @@ Requiere atención sostenida, conocimiento previo, tolerancia a la complejidad y
 <div style="margin: 10px 0;"></div>
 
 *Está dirigido a especialistas, hackers y filósofos.*
-<div style="margin: 200px 0;"></div>
+<div style="margin: 20px 0;"></div>
 
 *I. Delirio y demora: el tiempo que no tenemos*
 <div style="margin: 10px 0;"></div>
