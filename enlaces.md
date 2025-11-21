@@ -11,7 +11,7 @@ title: "enlaces de interés"
 - 🔗 **<a href="https://smallbluelibrary.wordpress.com/2021/04/11/poesia-en-voz-de-sus-autoras-giovanna-chadid/" target="_blank">Giovanna Chadid - small blue library -  México</a>**
 - 🔗 **<a href="https://malwaremedusa.tumblr.com/" target="_blank">malware medusa · blog</a>**
 - 🔗 **<a href="https://www.semanticscholar.org/author/Giovanna-Chadid/146780905" target="_blank">Giovanna Chadid research featured on semantic scholar</a>**
-- 🔗 **<a href="https://www.seattlestar.net/author/giovchad/" target="_blank">Giovanna Chadid on the seattle star</a>**
+- 🔗 **<a href="https://www.seattlestar.net/2021/03/september/" target="_blank">Giovanna Chadid on the seattle star</a>**
 - 🔗 **<a href="https://core.ac.uk/display/229562174" target="_blank">Giovanna Chadid, featured on CORE (UK), the open access repository</a>**
 - 🔗 **<a href="https://gratetclusop.blogspot.com/2018/08/anti-poemas-libro-epub-giovanna-chadid.html" target="_blank">Giovanna Chadid on gratetclusop recommend</a>**
 - 🔗 **<a href="https://issuu.com/gris_libros-cartillas/docs/nch_e-book" target="_blank">Giovanna Chadid en un libro de arte becado por su Alma Mater - Universidad Nacional De Colombia</a>**
