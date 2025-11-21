@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Encriptador Glitch 🔐"
-date: 2025-11-22
+date: 2025-11-21
 ---
 
 <div style="max-width: 700px; margin: 0 auto;">
