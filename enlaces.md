@@ -7,7 +7,7 @@ title: "enlaces de interés"
 # enlaces de interés
 ## proyectos & colaboraciones
 - 🔗 **<a href="https://open.spotify.com/episode/0uytTOumP2Wn1w28y9jw3E?si=uu7dJu4pTmyrt2TLOms5yw" target="_blank">Giovanna Chadid spotify t1-ep3</a>**
-- 🔗 **<a href="https://https://open.spotify.com/episode/1wSiGLUvFXj1Ylnx4meTIb?si=3za-cNMjSoG31LSmSlwVWg" target="_blank">Giovanna Chadid - spotify fonoescritos</a>**
+- 🔗 **<a href="https://open.spotify.com/episode/1wSiGLUvFXj1Ylnx4meTIb" target="_blank">Giovanna Chadid - spotify fonoescritos</a>**
 - 🔗 **<a href="https://smallbluelibrary.wordpress.com/2021/04/11/poesia-en-voz-de-sus-autoras-giovanna-chadid/" target="_blank">Giovanna Chadid - small blue library -  México</a>**
 - 🔗 **<a href="https://malwaremedusa.tumblr.com/" target="_blank">malware medusa · blog</a>**
 - 🔗 **<a href="https://www.semanticscholar.org/author/Giovanna-Chadid/146780905" target="_blank">Giovanna Chadid research featured on semantic scholar</a>**
