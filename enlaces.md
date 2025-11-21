@@ -6,18 +6,17 @@ title: "enlaces de interés"
 <img src="/assets/Malware Medusa Banner Dark Army(1).png" alt="Malware Medusa Banner" style="max-width: 100%; display: block; margin: 30px auto; filter: drop-shadow(0 0 30px #ff1493);">
 # enlaces de interés
 ## proyectos & colaboraciones
-- 🔗 **<a href="https://open.spotify.com/episode/0uytTOumP2Wn1w28y9jw3E?si=uu7dJu4pTmyrt2TLOms5yw" target="_blank">Giovanna Chadid spotify t1-ep3</a>**
-- 🔗 **<a href="https://open.spotify.com/episode/1wSiGLUvFXj1Ylnx4meTIb?si=Eu5Ci1rrQj60bYDYD_VMAA" target="_blank">Giovanna Chadid - spotify fonoescritos</a>**
-- 🔗 **<a href="https://smallbluelibrary.wordpress.com/2021/04/11/poesia-en-voz-de-sus-autoras-giovanna-chadid/" target="_blank">Giovanna Chadid - small blue library -  México</a>**
+- 🔗 **<a href="https://open.spotify.com/episode/0uytTOumP2Wn1w28y9jw3E?si=uu7dJu4pTmyrt2TLOms5yw" target="_blank"> - spotify t1-ep3</a>**
+- 🔗 **<a href="https://open.spotify.com/episode/1wSiGLUvFXj1Ylnx4meTIb?si=Eu5Ci1rrQj60bYDYD_VMAA" target="_blank"> - spotify fonoescritos</a>**
+- 🔗 **<a href="https://smallbluelibrary.wordpress.com/2021/04/11/poesia-en-voz-de-sus-autoras-giovanna-chadid/" target="_blank"> - small blue library - México</a>**
 - 🔗 **<a href="https://malwaremedusa.tumblr.com/" target="_blank">malware medusa · blog</a>**
-- 🔗 **<a href="https://www.semanticscholar.org/author/Giovanna-Chadid/146780905" target="_blank">Giovanna Chadid research featured on semantic scholar</a>**
-- 🔗 **<a href="https://www.seattlestar.net/2021/03/september/" target="_blank">Giovanna Chadid on the seattle star</a>**
-- 🔗 **<a href="https://core.ac.uk/display/229562174" target="_blank">Giovanna Chadid, featured on CORE (UK), the open access repository</a>**
-- 🔗 **<a href="https://gratetclusop.blogspot.com/2018/08/anti-poemas-libro-epub-giovanna-chadid.html" target="_blank">Giovanna Chadid on gratetclusop recommend</a>**
-- 🔗 **<a href="https://issuu.com/gris_libros-cartillas/docs/nch_e-book" target="_blank">Giovanna Chadid en un libro de arte becado por su Alma Mater - Universidad Nacional De Colombia</a>**
-- 🔗 **<a href="https://santarabiapoetry.com/giovanna-simone-chadid-movimiento-sobre-los-escombros/" target="_blank">poesía de Giovanna Chadid en revista santa rabia - Perú</a>**
-- 🔗 **<a href="https://archive.org/download/httpssmallbluelibrary.com20210411poesia-en-voz-de-sus-autoras-giovanna-chadid" target="_blank">Giovanna Chadid - poesía en voz de su autora - México</a>**
+- - 🔗 **<a href="https://santarabiapoetry.com/giovanna-simone-chadid-movimiento-sobre-los-escombros/" target="_blank">poesía de Giovanna Chadid en revista santa rabia - Perú</a>**
 - 🔗 **<a href="https://juntaversos.wordpress.com/2015/02/13/ruido-material-giovanna-chadid/" target="_blank">revista digital juntaversos - México</a>**
+- 🔗 **<a href="https://www.semanticscholar.org/author/Giovanna-Chadid/146780905" target="_blank"> - research featured on semantic scholar</a>**
+- 🔗 **<a href="https://www.seattlestar.net/2021/03/september/" target="_blank">Giovanna Chadid on the seattle star</a>**
+- 🔗 **<a href="https://gratetclusop.blogspot.com/2018/08/anti-poemas-libro-epub-giovanna-chadid.html" target="_blank"> - gratetclusop recommend</a>**
+- 🔗 **<a href="https://www.scribd.com/document/57802040/Nueva-Herramientas-para-la-Creacion-en-las-Artes-Visuales" target="_blank">libro nuevas herramientas para la creación - Universidad Nacional De Colombia</a>**
+- 🔗 **<a href="https://archive.org/download/httpssmallbluelibrary.com20210411poesia-en-voz-de-sus-autoras-giovanna-chadid" target="_blank">Giovanna Chadid - poesía en voz de su autora - México</a>**
 - 🔗 **<a href="http://superdemokraticos.com/themen/miteinander/verseuchende-politik/index.html" target="_blank">Giovanna Chadid / superdemokratik- Germany</a>**
 - 🔗 **<a href="https://conexos.org/2013/02/10/cuerpo-y-otros-poemas/" target="_blank">revista digital conexos</a>**
 - 🔗 **<a href="https://www.quira-medios.com/giovanna-simone-ch%C3%A4did/" target="_blank">portal cultural de Bogotá</a>**
