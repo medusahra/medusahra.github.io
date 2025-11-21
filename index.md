@@ -39,6 +39,7 @@ Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagam
 ## cosas que hice cuando debería estar trabajando
 - ☣ **<a href="https://open.spotify.com/user/oer0flire345iy1g4vaifowzc/playlists" target="_blank">listen to my sick playlists</a>** ☣
 ## otros proyectos
+- 🔐 **[encriptador glitch >](/2025/11/21/encriptador-glitch.html)** · encrypt your secrets ·
 - 💎 **<a href="https://instagram.com/flabelum" target="_blank">flabelum</a>** · sacred objects for the body ·
 ## contacto
 - GitHub: <a href="https://github.com/medusahra" target="_blank">@medusahra</a>
