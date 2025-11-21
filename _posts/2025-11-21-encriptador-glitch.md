@@ -8,6 +8,10 @@ date: 2025-11-21
 
 <h1 style="text-align: center;">🔐 Encriptador Glitch 🔐</h1>
 
+<div id="loading-status" style="text-align: center; color: #ff1493; margin: 20px 0; font-weight: bold;">
+  ⏳ Cargando encriptador...
+</div>
+
 <p style="text-align: center; margin-bottom: 40px;">
 <em>cifra tus mensajes en el vacío digital</em>
 </p>
@@ -44,6 +48,7 @@ date: 2025-11-21
   <button onclick="encodeBase64()" class="cipher-btn" style="margin: 0 5px;">Codificar</button>
   <button onclick="decodeBase64()" class="cipher-btn">Decodificar</button>
 </div>
+
 <div style="background: rgba(255, 20, 147, 0.1); border: 2px solid #ff1493; border-radius: 8px; padding: 20px; margin: 20px 0;">
   <label style="display: block; margin-bottom: 10px; color: #ff1493; font-weight: bold;">resultado:</label>
   <textarea id="output-text" rows="4" readonly style="width: 100%; background: #000; color: #00ff00; border: 1px solid #ff1493; padding: 10px; font-family: monospace; font-size: 14px; border-radius: 4px;"></textarea>
@@ -93,52 +98,159 @@ date: 2025-11-21
     base64_encode,
     base64_decode
   } from '/assets/encriptador_glitch.js';
+
   let wasmModule;
 
   async function loadWasm() {
-    wasmModule = await init('/assets/encriptador_glitch_bg.wasm');
-    console.log('WASM loaded ✓');
+    try {
+      wasmModule = await init('/assets/encriptador_glitch_bg.wasm');
+      console.log('WASM loaded ✓');
+      document.getElementById('loading-status').innerHTML = '✅ Listo para encriptar';
+      document.getElementById('loading-status').style.color = '#00ff00';
+    } catch (error) {
+      console.error('Error loading WASM:', error);
+      document.getElementById('loading-status').innerHTML = '❌ Error al cargar. Recarga la página.';
+      document.getElementById('loading-status').style.color = '#ff0000';
+    }
   }
 
   loadWasm();
 
+  function checkWasmLoaded() {
+    if (!wasmModule) {
+      alert('⚠️ El encriptador aún está cargando. Espera un momento.');
+      return false;
+    }
+    return true;
+  }
+
   window.applyRot13 = function() {
-    const input = document.getElementById('input-text').value;
-    const output = rot13(input);
-    document.getElementById('output-text').value = output;
-    document.getElementById('caesar-controls').style.display = 'none';
+    if (!checkWasmLoaded()) return;
+    try {
+      const input = document.getElementById('input-text').value;
+      const output = rot13(input);
+      document.getElementById('output-text').value = output;
+      document.getElementById('caesar-controls').style.display = 'none';
+      document.getElementById('xor-controls').style.display = 'none';
+      document.getElementById('base64-controls').style.display = 'none';
+    } catch (error) {
+      alert('Error: ' + error.message);
+    }
   };
 
   window.applyReverse = function() {
-    const input = document.getElementById('input-text').value;
-    const output = reverse_text(input);
-    document.getElementById('output-text').value = output;
-    document.getElementById('caesar-controls').style.display = 'none';
+    if (!checkWasmLoaded()) return;
+    try {
+      const input = document.getElementById('input-text').value;
+      const output = reverse_text(input);
+      document.getElementById('output-text').value = output;
+      document.getElementById('caesar-controls').style.display = 'none';
+      document.getElementById('xor-controls').style.display = 'none';
+      document.getElementById('base64-controls').style.display = 'none';
+    } catch (error) {
+      alert('Error: ' + error.message);
+    }
   };
 
   window.applyGlitch = function() {
-    const input = document.getElementById('input-text').value;
-    const output = glitch_text(input);
-    document.getElementById('output-text').value = output;
-    document.getElementById('caesar-controls').style.display = 'none';
+    if (!checkWasmLoaded()) return;
+    try {
+      const input = document.getElementById('input-text').value;
+      const output = glitch_text(input);
+      document.getElementById('output-text').value = output;
+      document.getElementById('caesar-controls').style.display = 'none';
+      document.getElementById('xor-controls').style.display = 'none';
+      document.getElementById('base64-controls').style.display = 'none';
+    } catch (error) {
+      alert('Error: ' + error.message);
+    }
   };
 
   window.applyCaesar = function() {
+    if (!checkWasmLoaded()) return;
     document.getElementById('caesar-controls').style.display = 'block';
+    document.getElementById('xor-controls').style.display = 'none';
+    document.getElementById('base64-controls').style.display = 'none';
   };
 
   window.encryptCaesar = function() {
-    const input = document.getElementById('input-text').value;
-    const shift = parseInt(document.getElementById('caesar-shift').value);
-    const output = caesar_encrypt(input, shift);
-    document.getElementById('output-text').value = output;
+    if (!checkWasmLoaded()) return;
+    try {
+      const input = document.getElementById('input-text').value;
+      const shift = parseInt(document.getElementById('caesar-shift').value);
+      const output = caesar_encrypt(input, shift);
+      document.getElementById('output-text').value = output;
+    } catch (error) {
+      alert('Error: ' + error.message);
+    }
   };
 
   window.decryptCaesar = function() {
-    const input = document.getElementById('input-text').value;
-    const shift = parseInt(document.getElementById('caesar-shift').value);
-    const output = caesar_decrypt(input, shift);
-    document.getElementById('output-text').value = output;
+    if (!checkWasmLoaded()) return;
+    try {
+      const input = document.getElementById('input-text').value;
+      const shift = parseInt(document.getElementById('caesar-shift').value);
+      const output = caesar_decrypt(input, shift);
+      document.getElementById('output-text').value = output;
+    } catch (error) {
+      alert('Error: ' + error.message);
+    }
+  };
+
+  window.applyXOR = function() {
+    if (!checkWasmLoaded()) return;
+    document.getElementById('xor-controls').style.display = 'block';
+    document.getElementById('caesar-controls').style.display = 'none';
+    document.getElementById('base64-controls').style.display = 'none';
+  };
+
+  window.encryptXOR = function() {
+    if (!checkWasmLoaded()) return;
+    try {
+      const input = document.getElementById('input-text').value;
+      const key = document.getElementById('xor-key').value;
+      if (!key) {
+        alert('⚠️ Necesitas ingresar una clave');
+        return;
+      }
+      const output = xor_cipher(input, key);
+      document.getElementById('output-text').value = output;
+    } catch (error) {
+      alert('Error: ' + error.message);
+    }
+  };
+
+  window.decryptXOR = function() {
+    encryptXOR();
+  };
+
+  window.applyBase64 = function() {
+    if (!checkWasmLoaded()) return;
+    document.getElementById('base64-controls').style.display = 'block';
+    document.getElementById('caesar-controls').style.display = 'none';
+    document.getElementById('xor-controls').style.display = 'none';
+  };
+
+  window.encodeBase64 = function() {
+    if (!checkWasmLoaded()) return;
+    try {
+      const input = document.getElementById('input-text').value;
+      const output = base64_encode(input);
+      document.getElementById('output-text').value = output;
+    } catch (error) {
+      alert('Error: ' + error.message);
+    }
+  };
+
+  window.decodeBase64 = function() {
+    if (!checkWasmLoaded()) return;
+    try {
+      const input = document.getElementById('input-text').value;
+      const output = base64_decode(input);
+      document.getElementById('output-text').value = output;
+    } catch (error) {
+      alert('Error: ' + error.message);
+    }
   };
 
   window.copyToClipboard = function() {
@@ -147,44 +259,4 @@ date: 2025-11-21
     document.execCommand('copy');
     alert('¡Copiado! 🔐');
   };
-window.applyXOR = function() {
-    document.getElementById('xor-controls').style.display = 'block';
-    document.getElementById('caesar-controls').style.display = 'none';
-    document.getElementById('base64-controls').style.display = 'none';
-  };
-
-  window.encryptXOR = function() {
-    const input = document.getElementById('input-text').value;
-    const key = document.getElementById('xor-key').value;
-    if (!key) {
-      alert('⚠️ Necesitas ingresar una clave');
-      return;
-    }
-    const output = xor_cipher(input, key);
-    document.getElementById('output-text').value = output;
-  };
-
-  window.decryptXOR = function() {
-    encryptXOR(); // XOR es reversible
-  };
-
-  window.applyBase64 = function() {
-    document.getElementById('base64-controls').style.display = 'block';
-    document.getElementById('caesar-controls').style.display = 'none';
-    document.getElementById('xor-controls').style.display = 'none';
-  };
-
-  window.encodeBase64 = function() {
-    const input = document.getElementById('input-text').value;
-    const output = base64_encode(input);
-    document.getElementById('output-text').value = output;
-  };
-
-  window.decodeBase64 = function() {
-    const input = document.getElementById('input-text').value;
-    const output = base64_decode(input);
-    document.getElementById('output-text').value = output;
-  };
-
-
 </script>
