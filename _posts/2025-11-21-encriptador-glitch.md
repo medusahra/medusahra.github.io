@@ -6,6 +6,12 @@ date: 2025-11-21
 
 <div style="max-width: 700px; margin: 0 auto;">
 
+<div style="margin-bottom: 20px;">
+  <a href="/" style="color: #ff1493; text-decoration: none; font-size: 14px; display: inline-block; padding: 8px 15px; border: 1px solid #ff1493; border-radius: 4px; transition: all 0.3s;">
+    ← volver al home
+  </a>
+</div>
+
 <h1 style="text-align: center;">🔐 Encriptador Glitch 🔐</h1>
 
 <div id="loading-status" style="text-align: center; color: #ff1493; margin: 20px 0; font-weight: bold;">
