@@ -22,6 +22,8 @@ date: 2025-11-21
   <button onclick="applyReverse()" class="cipher-btn">Reversa</button>
   <button onclick="applyGlitch()" class="cipher-btn">Glitch</button>
   <button onclick="applyCaesar()" class="cipher-btn">Caesar</button>
+  <button onclick="applyXOR()" class="cipher-btn">XOR</button>
+  <button onclick="applyBase64()" class="cipher-btn">Base64</button>
 </div>
 
 <div id="caesar-controls" style="display: none; margin: 20px 0; background: rgba(255, 20, 147, 0.1); border: 2px solid #ff1493; border-radius: 8px; padding: 15px;">
@@ -31,6 +33,17 @@ date: 2025-11-21
   <button onclick="decryptCaesar()" class="cipher-btn">Desencriptar</button>
 </div>
 
+<div id="xor-controls" style="display: none; margin: 20px 0; background: rgba(255, 20, 147, 0.1); border: 2px solid #ff1493; border-radius: 8px; padding: 15px;">
+  <label style="color: #ff1493; font-weight: bold;">Clave secreta:</label>
+  <input type="text" id="xor-key" placeholder="tu clave aquí" style="width: 200px; background: #000; color: #ff2777; border: 1px solid #ff1493; padding: 5px; margin: 0 10px; font-family: monospace;">
+  <button onclick="encryptXOR()" class="cipher-btn" style="margin: 0 5px;">Encriptar</button>
+  <button onclick="decryptXOR()" class="cipher-btn">Desencriptar</button>
+</div>
+
+<div id="base64-controls" style="display: none; margin: 20px 0; background: rgba(255, 20, 147, 0.1); border: 2px solid #ff1493; border-radius: 8px; padding: 15px;">
+  <button onclick="encodeBase64()" class="cipher-btn" style="margin: 0 5px;">Codificar</button>
+  <button onclick="decodeBase64()" class="cipher-btn">Decodificar</button>
+</div>
 <div style="background: rgba(255, 20, 147, 0.1); border: 2px solid #ff1493; border-radius: 8px; padding: 20px; margin: 20px 0;">
   <label style="display: block; margin-bottom: 10px; color: #ff1493; font-weight: bold;">resultado:</label>
   <textarea id="output-text" rows="4" readonly style="width: 100%; background: #000; color: #00ff00; border: 1px solid #ff1493; padding: 10px; font-family: monospace; font-size: 14px; border-radius: 4px;"></textarea>
@@ -75,9 +88,11 @@ date: 2025-11-21
     caesar_decrypt, 
     rot13, 
     reverse_text, 
-    glitch_text 
+    glitch_text,
+    xor_cipher,
+    base64_encode,
+    base64_decode
   } from '/assets/encriptador_glitch.js';
-
   let wasmModule;
 
   async function loadWasm() {
@@ -132,4 +147,44 @@ date: 2025-11-21
     document.execCommand('copy');
     alert('¡Copiado! 🔐');
   };
+window.applyXOR = function() {
+    document.getElementById('xor-controls').style.display = 'block';
+    document.getElementById('caesar-controls').style.display = 'none';
+    document.getElementById('base64-controls').style.display = 'none';
+  };
+
+  window.encryptXOR = function() {
+    const input = document.getElementById('input-text').value;
+    const key = document.getElementById('xor-key').value;
+    if (!key) {
+      alert('⚠️ Necesitas ingresar una clave');
+      return;
+    }
+    const output = xor_cipher(input, key);
+    document.getElementById('output-text').value = output;
+  };
+
+  window.decryptXOR = function() {
+    encryptXOR(); // XOR es reversible
+  };
+
+  window.applyBase64 = function() {
+    document.getElementById('base64-controls').style.display = 'block';
+    document.getElementById('caesar-controls').style.display = 'none';
+    document.getElementById('xor-controls').style.display = 'none';
+  };
+
+  window.encodeBase64 = function() {
+    const input = document.getElementById('input-text').value;
+    const output = base64_encode(input);
+    document.getElementById('output-text').value = output;
+  };
+
+  window.decodeBase64 = function() {
+    const input = document.getElementById('input-text').value;
+    const output = base64_decode(input);
+    document.getElementById('output-text').value = output;
+  };
+
+
 </script>
