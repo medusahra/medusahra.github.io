@@ -10,7 +10,7 @@ title: "enlaces de interés"
 - 🔗 **<a href="https://open.spotify.com/episode/1wSiGLUvFXj1Ylnx4meTIb?si=Eu5Ci1rrQj60bYDYD_VMAA" target="_blank"> - spotify fonoescritos</a>**
 - 🔗 **<a href="https://smallbluelibrary.wordpress.com/2021/04/11/poesia-en-voz-de-sus-autoras-giovanna-chadid/" target="_blank"> - small blue library - México</a>**
 - 🔗 **<a href="https://malwaremedusa.tumblr.com/" target="_blank">malware medusa · blog</a>**
-- - 🔗 **<a href="https://santarabiapoetry.com/giovanna-simone-chadid-movimiento-sobre-los-escombros/" target="_blank">poesía de Giovanna Chadid en revista santa rabia - Perú</a>**
+- 🔗 **<a href="https://santarabiapoetry.com/giovanna-simone-chadid-movimiento-sobre-los-escombros/" target="_blank">poesía de Giovanna Chadid en revista santa rabia - Perú</a>**
 - 🔗 **<a href="https://juntaversos.wordpress.com/2015/02/13/ruido-material-giovanna-chadid/" target="_blank">revista digital juntaversos - México</a>**
 - 🔗 **<a href="https://www.semanticscholar.org/author/Giovanna-Chadid/146780905" target="_blank"> - research featured on semantic scholar</a>**
 - 🔗 **<a href="https://www.seattlestar.net/2021/03/september/" target="_blank">Giovanna Chadid on the seattle star</a>**
