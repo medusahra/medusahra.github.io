@@ -38,7 +38,7 @@ Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagam
 - **[enlaces de interés >](/enlaces.html)**
 ## cosas que hice cuando debería estar trabajando
 - ☣ **<a href="https://open.spotify.com/user/oer0flire345iy1g4vaifowzc/playlists" target="_blank">listen to my sick playlists</a>** ☣
-## netrunner artifacts 
+## medusahra netrunner artifacts 
 - 💜 **[ultraviolet hyper hex](/2025/11/21/ultraviolet.html)** 
 - 🔐 **[encriptador glitch](/2025/11/21/encriptador-glitch.html)**
 - 🪶 **[generador poético](/2025/11/21/generador-poemas.html)** 
