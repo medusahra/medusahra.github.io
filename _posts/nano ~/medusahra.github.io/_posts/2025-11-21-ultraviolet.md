@@ -1,11 +1,9 @@
 ---
-layout: none
 title: "ultraviolet"
 date: 2025-11-21
 ---
 
 {% raw %}
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
