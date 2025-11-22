@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: none
 title: "ultraviolet"
 date: 2025-11-21
 ---
