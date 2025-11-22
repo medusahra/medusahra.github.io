@@ -39,15 +39,13 @@ Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagam
 ## cosas que hice cuando debería estar trabajando
 - ☣ **<a href="https://open.spotify.com/user/oer0flire345iy1g4vaifowzc/playlists" target="_blank">listen to my sick playlists</a>** ☣
 ## experimentos
-<h1 style="line-height: 1.2;">
 *small acts of digital vandalism*
-</h1>
+
 - 🔐 **[encriptador glitch](/2025/11/21/encriptador-glitch.html)**
 - 🪶 **[generador poético](/2025/11/21/generador-poemas.html)** 
 ## flabelum 
-<h1 style="line-height: 1.2;">
  *objets sacrés*
-</h1>
+
 - 💎 **<a href="https://instagram.com/flabelum" target="_blank">flabelum</a>** · sacred objects for the body ·
 ## contacto
 - GitHub: <a href="https://github.com/medusahra" target="_blank">@medusahra</a>
