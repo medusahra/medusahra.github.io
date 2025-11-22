@@ -33,6 +33,7 @@ title: "enlaces de interés"
 - **<a href="https://hackerscurator.com/" target="_blank">Hackers Curator</a>**
 - **<a href="http://www.phrack.org/" target="_blank">Phrack</a>**
 - **<a href="https://bloerp.de/code/tempel/hackers/hackersFinal.c.html" target="_blank">Bloerp \ Hackers code95</a>**
+- **<a href="https://soulbound.game/" target="_blank">soulbound</a>**
 ---
 <div style="text-align: center; margin: 40px 0; font-size: 1.3em; color: #ff1493; text-shadow: 0 0 10px #ff1493; font-family: monospace;">
 ▌║█║▌│║▌│║▌║▌█║ Looks like you've reached the end ▌│║▌║▌│║║▌█║▌║█
