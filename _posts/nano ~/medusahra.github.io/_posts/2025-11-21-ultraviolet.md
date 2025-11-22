@@ -4,6 +4,8 @@ title: "ultraviolet"
 date: 2025-11-21
 ---
 
+{% raw %}
+<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -200,13 +202,6 @@ date: 2025-11-21
       border-radius: 4px;
     }
     
-    .gradient-violet {
-      background: linear-gradient(180deg, #9d4edd, #c77dff, #e0aaff, #c77dff, #9d4edd);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      background-clip: text;
-    }
-    
     .actions {
       display: flex;
       gap: 10px;
@@ -400,8 +395,6 @@ date: 2025-11-21
       const charset = charsets[document.getElementById('charsetSelect').value];
       const colorMode = document.getElementById('colorMode').value;
       
-      console.log('Modo seleccionado:', colorMode);
-      
       const canvas = document.createElement('canvas');
       const ctx = canvas.getContext('2d');
       
@@ -511,3 +504,4 @@ date: 2025-11-21
   </script>
 </body>
 </html>
+{% endraw %}
