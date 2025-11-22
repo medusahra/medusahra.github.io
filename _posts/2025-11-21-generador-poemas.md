@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Generador Poético 🪶"
+title: "Generador Poetico"
 date: 2025-11-21
 ---
 
