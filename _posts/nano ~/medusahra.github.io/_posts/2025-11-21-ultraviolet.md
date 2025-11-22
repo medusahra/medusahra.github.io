@@ -1,4 +1,9 @@
-<!DOCTYPE html>
+---
+layout: default
+title: "ultraviolet"
+date: 2025-11-21
+---
+
 <html lang="es">
 <head>
   <meta charset="UTF-8">
