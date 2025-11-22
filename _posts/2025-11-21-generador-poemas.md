@@ -25,9 +25,9 @@ date: 2025-11-21
     → cómo funciona
   </p>
   <p style="margin-bottom: 10px;">
-    Este generador usa <strong>cadenas de Markov</strong> para analizar patrones en mis poemas
-    y crear nuevas combinaciones. Cada poema generado es único: fragmentos de mis textos 
-    se reorganizan algorítmicamente creando nuevas constelaciones de sentido.
+    Este generador usa <strong>cadenas de Markov</strong> para analizar patrones en poemas
+    y crear nuevas combinaciones. El corpus incluye fragmentos de mis textos junto con poemas 
+    de dominio público (Lorca, Vallejo, Storni, Neruda) creando constelaciones algorítmicas únicas.
   </p>
   <p style="font-size: 11px; color: #ff2777; font-style: italic;">
     // generador algorítmico · JavaScript · by medusahra
@@ -102,7 +102,7 @@ a:hover {
 </style>
 
 <script>
-// Corpus de poemas de medusahra
+// Corpus expandido: poemas propios + dominio público
 const corpus = `
 Traigo la historia de un libro roto
 de sus páginas manchadas de amarillo
@@ -196,6 +196,77 @@ las tinieblas son su nuevo dios
 visible e invisible
 El más allá está aquí mismo coexistiendo
 dentro de las grietas
+
+Verde que te quiero verde
+verde viento verdes ramas
+El barco sobre la mar
+y el caballo en la montaña
+Con la sombra en la cintura
+ella sueña en su baranda
+verde carne pelo verde
+con ojos de fría plata
+Verde que te quiero verde
+Bajo la luna gitana
+las cosas la están mirando
+y ella no puede mirarlas
+
+La aurora de Nueva York tiene
+cuatro columnas de cieno
+y un huracán de negras palomas
+que chapotean las aguas podridas
+La aurora de Nueva York gime
+por las inmensas escaleras
+buscando entre las aristas
+nardos de angustia dibujada
+
+Me moriré en París con aguacero
+un día del cual tengo ya el recuerdo
+Me moriré en París y no me corro
+tal vez un jueves como es hoy de otoño
+Jueves será porque hoy jueves que proso
+estos versos los húmeros me he puesto
+a la mala y jamás como hoy me he vuelto
+con todo mi camino a verme solo
+César Vallejo ha muerto le pegaban
+todos sin que él les haga nada
+le daban duro con un palo y duro
+también con una soga
+
+Peso ancestral
+Tú me dijiste no lloró tu padre
+tú me dijiste no lloró tu abuelo
+no han llorado los hombres de mi raza
+eran de acero
+Así diciendo te brotó una lágrima
+y me cayó en la boca más veneno
+yo no he bebido nunca en otro vaso
+así pequeño
+Débil mujer pobre mujer que entiende
+dolor de siglos conocí al beberlo
+Oh el alma mía soportar no puede
+todo su peso
+
+Voy a dormir nodriza mía acuéstame
+Ponme una lámpara a la cabecera
+una constelación la que te guste
+todas son buenas bájame las manos
+Me las han visto y ya no me las quiero
+y déjame sola oyes romper los brotes
+te acuna un pie celeste desde arriba
+y un pájaro te traza unos compases
+
+La noche está estrellada
+y tiritan azules los astros a lo lejos
+El viento de la noche gira en el cielo y canta
+Puedo escribir los versos más tristes esta noche
+Escribir por ejemplo la noche está estrellada
+y tiritan azules los astros a lo lejos
+El viento de la noche gira en el cielo y canta
+
+Cuerpo de mujer blancas colinas muslos blancos
+te pareces al mundo en tu actitud de entrega
+Mi cuerpo de labriego salvaje te socava
+y hace saltar el hijo del fondo de la tierra
 `;
 
 // Construir cadenas de Markov
