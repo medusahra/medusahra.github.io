@@ -343,148 +343,149 @@ date: 2025-11-21
     </div>
   </div>
   
-  <script>
-    let currentImage = null;
-    let asciiText = '';
-    
-    const charsets = {
-      standard: ' .:-=+*#%@',
-      dense: ' ░▒▓█',
-      minimal: ' ·▪▫■',
-      emoji: ' ·✦✧★☆',
-      custom: ' ◊◈◇◆',
-      binary: ' 01',
-      at: ' ·@@@',
-      glitch: ' ▓▒░01@#'
-    };
-    
-    const imageInput = document.getElementById('imageInput');
-    const imagePreview = document.getElementById('imagePreview');
-    const noImage = document.getElementById('noImage');
-    const asciiOutput = document.getElementById('asciiOutput');
-    const generateBtn = document.getElementById('generateBtn');
-    const copyBtn = document.getElementById('copyBtn');
-    const downloadBtn = document.getElementById('downloadBtn');
-    const widthSlider = document.getElementById('widthSlider');
-    const widthValue = document.getElementById('widthValue');
-    
-    widthSlider.addEventListener('input', (e) => {
-      widthValue.textContent = e.target.value;
-    });
-    
-    imageInput.addEventListener('change', (e) => {
-      const file = e.target.files[0];
-      if (file) {
-        const reader = new FileReader();
-        reader.onload = (event) => {
-          const img = new Image();
-          img.onload = () => {
-            currentImage = img;
-            imagePreview.src = event.target.result;
-            imagePreview.style.display = 'block';
-            noImage.style.display = 'none';
-            generateBtn.disabled = false;
-          };
-          img.src = event.target.result;
+ <script>
+  let currentImage = null;
+  let asciiText = '';
+  
+  const charsets = {
+    standard: ' .:-=+*#%@',
+    dense: ' ░▒▓█',
+    minimal: ' ·▪▫■',
+    emoji: ' ·✦✧★☆',
+    custom: ' ◊◈◇◆',
+    binary: ' 01',
+    at: ' ·@@@',
+    glitch: ' ▓▒░01@#'
+  };
+  
+  const imageInput = document.getElementById('imageInput');
+  const imagePreview = document.getElementById('imagePreview');
+  const noImage = document.getElementById('noImage');
+  const asciiOutput = document.getElementById('asciiOutput');
+  const generateBtn = document.getElementById('generateBtn');
+  const copyBtn = document.getElementById('copyBtn');
+  const downloadBtn = document.getElementById('downloadBtn');
+  const widthSlider = document.getElementById('widthSlider');
+  const widthValue = document.getElementById('widthValue');
+  
+  widthSlider.addEventListener('input', (e) => {
+    widthValue.textContent = e.target.value;
+  });
+  
+  imageInput.addEventListener('change', (e) => {
+    const file = e.target.files[0];
+    if (file) {
+      const reader = new FileReader();
+      reader.onload = (event) => {
+        const img = new Image();
+        img.onload = () => {
+          currentImage = img;
+          imagePreview.src = event.target.result;
+          imagePreview.style.display = 'block';
+          noImage.style.display = 'none';
+          generateBtn.disabled = false;
         };
-        reader.readAsDataURL(file);
-      }
-    });
+        img.src = event.target.result;
+      };
+      reader.readAsDataURL(file);
+    }
+  });
+  
+  generateBtn.addEventListener('click', generateASCII);
+  
+  function generateASCII() {
+    if (!currentImage) return;
     
-    generateBtn.addEventListener('click', generateASCII);
+    const width = parseInt(widthSlider.value);
+    const charset = charsets[document.getElementById('charsetSelect').value];
+    const colorMode = document.getElementById('colorMode').value;
     
-    function generateASCII() {
-      if (!currentImage) return;
-      
-      const width = parseInt(widthSlider.value);
-      const charset = charsets[document.getElementById('charsetSelect').value];
-      const colorMode = document.getElementById('colorMode').value;
-      
-      const canvas = document.createElement('canvas');
-      const ctx = canvas.getContext('2d');
-      
-      const aspectRatio = currentImage.height / currentImage.width;
-      const height = Math.floor(width * aspectRatio * 0.5);
-      
-      canvas.width = width;
-      canvas.height = height;
-      
-      ctx.drawImage(currentImage, 0, 0, width, height);
-      const imageData = ctx.getImageData(0, 0, width, height);
-      
-      let ascii = '';
-      
-      for (let y = 0; y < height; y++) {
-        for (let x = 0; x < width; x++) {
-          const i = (y * width + x) * 4;
-          const r = imageData.data[i];
-          const g = imageData.data[i + 1];
-          const b = imageData.data[i + 2];
-          
-          const brightness = (r + g + b) / 3;
-          const charIndex = Math.floor((brightness / 255) * (charset.length - 1));
-          const char = charset[charIndex];
-          
-          if (colorMode === 'medusahra') {
-            // medusahra signature: rosa neón glitch con glow intenso
-            const pinkIntensity = Math.floor(brightness);
-            const glowStrength = brightness > 200 ? '0 0 15px #ff1493, 0 0 25px #ff1493' : '0 0 8px #ff1493, 0 0 12px #ff1493';
-            ascii += `<span style="color: rgb(255, ${Math.floor(pinkIntensity * 0.3)}, ${Math.floor(pinkIntensity * 0.6)}); text-shadow: ${glowStrength}">${char}</span>`;
-          } else if (colorMode === 'gradient') {
-            const hue = 270 + (y / height) * 60;
-            ascii += `<span style="color: hsl(${hue}, 80%, ${50 + brightness/10}%)">${char}</span>`;
-          } else if (colorMode === 'monochrome') {
-            ascii += `<span style="color: #c77dff">${char}</span>`;
-          } else if (colorMode === 'matrix') {
-            const greenShade = Math.floor(100 + (brightness / 255) * 155);
-            ascii += `<span style="color: rgb(0, ${greenShade}, 0); text-shadow: 0 0 5px rgba(0, 255, 0, 0.5)">${char}</span>`;
-          } else if (colorMode === 'matrix-rain') {
-            const greenIntensity = Math.floor(brightness);
-            const glow = brightness > 200 ? '0 0 10px rgba(0, 255, 0, 0.8)' : '0 0 3px rgba(0, 255, 0, 0.3)';
-            ascii += `<span style="color: rgb(0, ${greenIntensity}, 0); text-shadow: ${glow}">${char}</span>`;
-          } else if (colorMode === 'gameboy') {
-            // Game Boy Camera: 4 tonos de verde oliva
-            const palette = ['#0f380f', '#306230', '#8bac0f', '#9bbc0f'];
-            const paletteIndex = Math.floor((brightness / 255) * 3);
-            ascii += `<span style="color: ${palette[paletteIndex]}">${char}</span>`;
-          } else if (colorMode === 'polaroid') {
-            // Polaroid: tonos sepia/vintage
-            const warmth = Math.floor(brightness * 0.9);
-            ascii += `<span style="color: rgb(${warmth + 40}, ${warmth}, ${warmth - 20})">${char}</span>`;
-          } else if (colorMode === 'vaporwave') {
-            // Vaporwave: cyan/magenta/rosa
-            const vaporColors = brightness > 170 ? '#ff71ce' : brightness > 85 ? '#01cdfe' : '#05ffa1';
-            ascii += `<span style="color: ${vaporColors}; text-shadow: 0 0 8px ${vaporColors}">${char}</span>`;
-          } else {
-            const inverted = 255 - brightness;
-            ascii += `<span style="color: hsl(270, 80%, ${inverted/3}%)">${char}</span>`;
-          }
+    const canvas = document.createElement('canvas');
+    const ctx = canvas.getContext('2d');
+    
+    const aspectRatio = currentImage.height / currentImage.width;
+    const height = Math.floor(width * aspectRatio * 0.5);
+    
+    canvas.width = width;
+    canvas.height = height;
+    
+    ctx.drawImage(currentImage, 0, 0, width, height);
+    const imageData = ctx.getImageData(0, 0, width, height);
+    
+    let ascii = '';
+    
+    for (let y = 0; y < height; y++) {
+      for (let x = 0; x < width; x++) {
+        const i = (y * width + x) * 4;
+        const r = imageData.data[i];
+        const g = imageData.data[i + 1];
+        const b = imageData.data[i + 2];
+        
+        const brightness = (r + g + b) / 3;
+        const charIndex = Math.floor((brightness / 255) * (charset.length - 1));
+        const char = charset[charIndex];
+        
+        if (colorMode === 'medusahra') {
+          // medusahra signature: rosa neón glitch con glow intenso
+          const pinkIntensity = Math.floor(brightness);
+          const glowStrength = brightness > 200 ? '0 0 15px #ff1493, 0 0 25px #ff1493' : '0 0 8px #ff1493, 0 0 12px #ff1493';
+          ascii += `<span style="color: rgb(255, ${Math.floor(pinkIntensity * 0.3)}, ${Math.floor(pinkIntensity * 0.6)}); text-shadow: ${glowStrength}">${char}</span>`;
+        } else if (colorMode === 'gradient') {
+          const hue = 270 + (y / height) * 60;
+          ascii += `<span style="color: hsl(${hue}, 80%, ${50 + brightness/10}%)">${char}</span>`;
+        } else if (colorMode === 'monochrome') {
+          ascii += `<span style="color: #c77dff">${char}</span>`;
+        } else if (colorMode === 'inverted') {
+          const inverted = 255 - brightness;
+          ascii += `<span style="color: hsl(270, 80%, ${inverted/3}%)">${char}</span>`;
+        } else if (colorMode === 'matrix') {
+          const greenShade = Math.floor(100 + (brightness / 255) * 155);
+          ascii += `<span style="color: rgb(0, ${greenShade}, 0); text-shadow: 0 0 5px rgba(0, 255, 0, 0.5)">${char}</span>`;
+        } else if (colorMode === 'matrix-rain') {
+          const greenIntensity = Math.floor(brightness);
+          const glow = brightness > 200 ? '0 0 10px rgba(0, 255, 0, 0.8)' : '0 0 3px rgba(0, 255, 0, 0.3)';
+          ascii += `<span style="color: rgb(0, ${greenIntensity}, 0); text-shadow: ${glow}">${char}</span>`;
+        } else if (colorMode === 'gameboy') {
+          // Game Boy Camera: 4 tonos de verde oliva
+          const palette = ['#0f380f', '#306230', '#8bac0f', '#9bbc0f'];
+          const paletteIndex = Math.floor((brightness / 255) * 3);
+          ascii += `<span style="color: ${palette[paletteIndex]}">${char}</span>`;
+        } else if (colorMode === 'polaroid') {
+          // Polaroid: tonos sepia/vintage
+          const warmth = Math.floor(brightness * 0.9);
+          ascii += `<span style="color: rgb(${warmth + 40}, ${warmth}, ${warmth - 20})">${char}</span>`;
+        } else if (colorMode === 'vaporwave') {
+          // Vaporwave: cyan/magenta/rosa
+          const vaporColors = brightness > 170 ? '#ff71ce' : brightness > 85 ? '#01cdfe' : '#05ffa1';
+          ascii += `<span style="color: ${vaporColors}; text-shadow: 0 0 8px ${vaporColors}">${char}</span>`;
+        } else {
+          // Fallback por si hay algún modo no definido
+          ascii += `<span style="color: #c77dff">${char}</span>`;
         }
-        ascii += '\n';
       }
-      
-      asciiOutput.innerHTML = ascii;
-      asciiText = asciiOutput.innerText;
-      
-      copyBtn.disabled = false;
-      downloadBtn.disabled = false;
+      ascii += '\n';
     }
     
-    copyBtn.addEventListener('click', () => {
-      navigator.clipboard.writeText(asciiText).then(() => {
-        alert('¡ASCII copiado al portapapeles! 💜');
-      });
-    });
+    asciiOutput.innerHTML = ascii;
+    asciiText = asciiOutput.innerText;
     
-    downloadBtn.addEventListener('click', () => {
-      const blob = new Blob([asciiText], { type: 'text/plain' });
-      const url = URL.createObjectURL(blob);
-      const a = document.createElement('a');
-      a.href = url;
-      a.download = 'ultraviolet-ascii.txt';
-      a.click();
-      URL.revokeObjectURL(url);
+    copyBtn.disabled = false;
+    downloadBtn.disabled = false;
+  }
+  
+  copyBtn.addEventListener('click', () => {
+    navigator.clipboard.writeText(asciiText).then(() => {
+      alert('¡ASCII copiado al portapapeles! 💜');
     });
-  </script>
-</body>
-</html>
+  });
+  
+  downloadBtn.addEventListener('click', () => {
+    const blob = new Blob([asciiText], { type: 'text/plain' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = 'ultraviolet-ascii.txt';
+    a.click();
+    URL.revokeObjectURL(url);
+  });
+</script>
