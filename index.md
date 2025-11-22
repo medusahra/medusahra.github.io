@@ -4,7 +4,7 @@ layout: home
 <img src="/assets/logo-small.png" alt="Logo" class="logo-home" style="max-width: 200px; display: block; margin: 80px auto 20px; filter: drop-shadow(0 0 20px #ff1493);">
  
 <h1 style="line-height: 1.2;">
-hola soy 𝕲𝖎𝖌𝖎 𝕮𝖍𝖆𝖉𝖎𝖉 ⚔️👺⚔️ <br>
+𝕲𝖎𝖌𝖎 𝕮𝖍𝖆𝖉𝖎𝖉 ⚔️👺⚔️ <br>
 AKA ♡ 𝖒𝖊𝖉𝖚𝖘𝖆𝖍𝖗𝖆
 </h1>
 
@@ -17,7 +17,7 @@ he levantado mi propio templo de código y deseo: un glitch rosa en el mapa.
 
 ## whoami
 
-*filósofa · poeta  · escritora* <br>
+*filósofa · poeta · escritora · tech* <br>
 colombo lebanese 🇱🇧 hacker <br>
 enfocada en seguridad ofensiva <br>
 *fine & dandy honeypot*
