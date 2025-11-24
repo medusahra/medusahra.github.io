@@ -9,7 +9,10 @@ date: 2025-11-23
 # 🔐 Password Vault
 
 Gestor de contraseñas que construí en Ruby usando cifrado militar-grade AES-256. Arquitectura offline-first: sin cloud, sin telemetría, control total sobre tus secretos.
-Construí este password manager en Ruby porque necesitaba algo que pudiera auditar completamente. Implementé cifrado AES-256-CBC con PBKDF2 key derivation, usando la biblioteca OpenSSL de Ruby. La arquitectura es simple: zero-knowledge, offline-first, sin dependencias externas. Elegí Ruby por su stdlib robusta para criptografía y porque quería demostrar que no necesitas frameworks complejos para manejar secretos de forma segura.
+Construí este password manager en Ruby porque necesitaba algo que pudiera auditar completamente. 
+<div style="margin: 10px 0;"></div>
+Implementé cifrado AES-256-CBC con PBKDF2 key derivation, usando la biblioteca OpenSSL de Ruby. La arquitectura es simple: zero-knowledge, offline-first, sin dependencias externas. 
+Elegí Ruby por su stdlib robusta para criptografía y porque quería demostrar que no necesitas frameworks complejos para manejar secretos de forma segura.
 
 
 <img src="/assets/vault.png" alt="passwordmanager" style="max-width: 90%; width: 400px; display: block; margin: 40px auto; filter: drop-shadow(0 0 30px #ff1493);">
@@ -74,7 +77,8 @@ ruby vault.rb
 ## → instalación
 ```bash
 # Clonar
-git clone https://github.com/medusahra/password-vault.git
+git clone
+https://github.com/medusahra/password-vault.git
 cd password-vault
 
 # Instalar dependencia
