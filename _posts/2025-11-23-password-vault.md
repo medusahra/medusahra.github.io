@@ -6,7 +6,12 @@ date: 2025-11-23
 
 # 🔐 Password Vault
 
-Un gestor de contraseñas encriptado construido en Ruby con cifrado AES-256. Inspirado en la seguridad paranoica de Mr. Robot, pero funcionalmente útil.
+Gestor de contraseñas que construí en Ruby usando cifrado militar-grade AES-256. Arquitectura offline-first: sin cloud, sin telemetría, control total sobre tus secretos.
+Construí este password manager en Ruby porque necesitaba algo que pudiera auditar completamente. Implementé cifrado AES-256-CBC con PBKDF2 key derivation, usando la biblioteca OpenSSL de Ruby. La arquitectura es simple: zero-knowledge, offline-first, sin dependencias externas. Elegí Ruby por su stdlib robusta para criptografía y porque quería demostrar que no necesitas frameworks complejos para manejar secretos de forma segura.
+
+
+<img src="/assets/vault.png" alt="passwordmanager" style="max-width: 90%; width: 400px; display: block; margin: 40px auto; filter: drop-shadow(0 0 30px #ff1493);">
+
 
 ## → el problema
 
