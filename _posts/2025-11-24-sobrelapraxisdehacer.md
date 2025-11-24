@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "sobre la praxis de hacer"
+title: "Sobre la praxis de hacer"
 date: 2025-11-24
 pinned: true
 ---
