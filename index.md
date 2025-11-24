@@ -19,7 +19,7 @@ he levantado mi propio templo de código y deseo: un glitch rosa en el mapa.
 *filósofa · poeta · escritora · <br>
  hacker (offsec)* <br>
 colombo lebanese 🇨🇴 🇱🇧 <br>
-exploit dev enfocada en seguridad ofensiva *fine & dandy honeypot ☻* 
+exploit dev enfocada en seguridad ofensiva *fine & dandy honeypot ☻* <br>
 todo tiene fisuras: sistemas, cuerpos e infraestructuras de la materialidad y del deseo, a esas grietas me asomo. ♡
 Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagamente lujuriosos.
 
