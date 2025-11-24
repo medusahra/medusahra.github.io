@@ -20,7 +20,7 @@ he levantado mi propio templo de código y deseo: un glitch rosa en el mapa.
 colombo lebanese 🇨🇴 🇱🇧 <br>
 exploit dev enfocada en seguridad ofensiva <br>
 *fine & dandy honeypot ☻* 
-todo tiene fisuras: sistemas, cuerpos e infraestructuras materiales y del deseo, a esas grietas me asomo. ♡
+todo tiene fisuras: sistemas, cuerpos e infraestructuras de la materialidad y del deseo, a esas grietas me asomo. ♡
 Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagamente lujuriosos.
 
 <h1 style="line-height: 1.2;">
