@@ -2,6 +2,9 @@
 layout: default
 title: "notes"
 ---
+<div style="margin: 40px 0;"></div>
+[< volver](/)
+<div style="margin: 40px 0;"></div>
 
 <style>
   .fire-container {
@@ -141,3 +144,6 @@ title: "notes"
     <a href="https://x.com/medusahra" style="color: #ff1493;">x/twitter</a>
   </p>
 </div>
+<div style="margin: 40px 0;"></div>
+[< volver](/)
+<div style="margin: 40px 0;"></div>
