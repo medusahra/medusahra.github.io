@@ -49,7 +49,7 @@ Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagam
 - Email: <a href="mailto:blackobjkt@protonmail.com">blackobjkt@protonmail.com</a>
 - Instagram: <a href="https://www.instagram.com/medusahra/" target="_blank">@medusahra</a>
 - X: <a href="https://x.com/medusahra" target="_blank">@medusahra</a>
-- Guestbook notes **[deja un mensaje>](/notes.html)**
+- Guestbook notes **[deja un mensaje](/notes.html)**
 ## apoya mi trabajo
 - ☕ <a href="https://ko-fi.com/chadidgiovanna" target="_blank">ko-fi</a>
 - 💸 <a href="https://www.paypal.com/paypalme/medusahra" target="_blank">paypal</a>
