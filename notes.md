@@ -141,7 +141,7 @@ title: "notes"
   <p>
     <em>Contacto directo:</em> 
     <a href="mailto:blackobjkt@protonmail.com" style="color: #ff1493;">email</a> · 
-    <a href="https://x.com/medusahra" style="color: #ff1493;">x/twitter</a>
+    <a href="https://x.com/medusahra" style="color: #ff1493;">x</a>
   </p>
 </div>
 <div style="margin: 40px 0;"></div>
