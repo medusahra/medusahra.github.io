@@ -69,7 +69,7 @@ Journaling como ritual vacío, píldoras como parche farmacológico, libros moti
 Un año después: misma habitación, misma luz tóxica, mismo loop. Porque el problema nunca fue la mente aislada sino la mente-en-situación, embodied, enredada con su entorno material.
 <div style="margin: 10px 0;"></div>
 La solución es simple: alterar la geometría del espacio. 
-b<div style="margin: 30px 0;"></div> 
+<div style="margin: 30px 0;"></div> 
 Abrir ventanas es instalar nuevos flujos de aire, de luz, de información sensorial. Tirar basura es liberar espacio negativo, crear vacío donde antes había clausura. 
 Agregar un objeto bello—una planta, una lámpara que emite luz cálida, un poster que te excita visualmente—es hackear tu propio sistema límbico, crear anclas de deseo en el espacio físico.
 Salir, caminar, dejar que el cuerpo se mueva y la mente derive sin propósito. 
