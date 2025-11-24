@@ -11,9 +11,6 @@ AKA ♡ 𝖒𝖊𝖉𝖚𝖘𝖆𝖍𝖗𝖆
 Bienvenidxxs a mi sitio web 🏴‍☠️
 
 he levantado mi propio templo de código y deseo: un glitch rosa en el mapa.
-<h1 style="line-height: 1.2;">
-𝔫𝔬𝔫 𝔞𝔡 𝔩𝔲𝔠𝔢𝔪 𝔰𝔢𝔡 𝔦𝔫 𝔦𝔫𝔠𝔢𝔫𝔡𝔦𝔲𝔪
-</h1>
 
 ## whoami
 
@@ -23,10 +20,6 @@ enfocada en seguridad ofensiva <br>
 *fine & dandy honeypot ☻* 
 todo tiene fisuras: sistemas, cuerpos e infraestructuras del deseo, a esas grietas me asomo. ♡
 Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagamente lujuriosos.
-
-<h1 style="line-height: 1.2;">
-𝑁𝑒𝑢𝑟𝑜𝑞𝑢𝑒𝑒𝑟 𝐻𝑒𝑟𝑒𝑠𝑖𝑒𝑠 
-</h1>
 
 ## literatura
 - **[archivo de textos >](/archive.html)**
