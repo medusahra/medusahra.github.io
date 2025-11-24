@@ -4,6 +4,8 @@ title: "password vault"
 date: 2025-11-23
 ---
 
+[< volver](/)
+
 # 🔐 Password Vault
 
 Gestor de contraseñas que construí en Ruby usando cifrado militar-grade AES-256. Arquitectura offline-first: sin cloud, sin telemetría, control total sobre tus secretos.
@@ -122,13 +124,20 @@ Y de paso, tener un vault que puedas auditar línea por línea.
 *"The only system you can truly trust is one you can read and understand."*
 
 ---
+<div style="margin: 20px 0;"></div>
 
 **Código:** [github.com/medusahra/password-vault](https://github.com/medusahra/password-vault)
 
 **Stack:** Ruby · OpenSSL · AES-256-CBC
 
 **Inspiración:** OWASP security principles, cypherpunk ethics, offline-first security
-
+<div style="margin: 10px 0;"></div>
 ---
 
-*non ad lucem, sed in incendium
+<div style="margin: 40px 0;"></div>
+
+
+
+
+[< volver al inicio](/)
+
