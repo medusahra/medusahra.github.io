@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "La Singularidad Reflexiva: Derivas Identitarias en la Topología Probabilística de Modelos Generativos."
-date: 2025-11-20
+date: 2025-11-25
 pinned: true
 ---
 
