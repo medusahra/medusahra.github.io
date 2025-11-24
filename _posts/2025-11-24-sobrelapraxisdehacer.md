@@ -109,7 +109,7 @@ Hacer que fluya hacia lugares útiles, hacia otros cuerpos que también están i
 <div style="margin: 40px 0;"></div>
 
 
-<img src="/assets/medusahraholo1s.png" alt="medusahraholographic" style="max-width: 90%; width: 400px; display: block; margin: 40px auto; filter: drop-shadow(0 0 30px #ff1493);">
+<img src="/assets/medusahraholo1s.png" alt="medusahraholographic" style="max-width: 70%; width: 200px; display: block; margin: 40px auto; filter: drop-shadow(0 0 30px #ff1493);">
 
 
 <div style="margin: 40px 0;"></div>
