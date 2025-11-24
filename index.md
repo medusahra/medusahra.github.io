@@ -23,6 +23,10 @@ enfocada en seguridad ofensiva <br>
 todo tiene fisuras: sistemas, cuerpos e infraestructuras del deseo, a esas grietas me asomo. ♡
 Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagamente lujuriosos.
 
+<h1 style="line-height: 1.2;">
+𝑁𝑒𝑢𝑟𝑜𝑞𝑢𝑒𝑒𝑟 𝐻𝑒𝑟𝑒𝑠𝑖𝑒𝑠 
+</h1>
+
 ## literatura
 - **[archivo de textos >](/archive.html)**
 - **[whoami >](/2025/11/14/whoami.html)**
