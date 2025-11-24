@@ -3,7 +3,7 @@ layout: default
 title: "password vault"
 date: 2025-11-23
 ---
-
+<div style="margin: 40px 0;"></div>
 [< volver](/)
 
 # 🔐 Password Vault
