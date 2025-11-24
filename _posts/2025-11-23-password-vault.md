@@ -5,7 +5,7 @@ date: 2025-11-23
 ---
 <div style="margin: 40px 0;"></div>
 [< volver](/)
-
+<div style="margin: 40px 0;"></div>
 # 🔐 Password Vault
 
 Gestor de contraseñas que construí en Ruby usando cifrado militar-grade AES-256. Arquitectura offline-first: sin cloud, sin telemetría, control total sobre tus secretos.
