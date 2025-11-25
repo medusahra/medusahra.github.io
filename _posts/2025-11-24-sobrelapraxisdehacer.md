@@ -12,13 +12,14 @@ pinned: true
 *I. La economía libidinal del scroll*
 <div style="margin: 20px 0;"></div>
 Es fácil sucumbir a la ansiedad del scroll infinito, pero esta facilidad no es accidental sino arquitectónica. 
-El feed como dispositivo de gubernamentalidad neoliberal que opera mediante la exhibición perpetua del hacer-ajeno: cuerpos en constante demostración de productividad, sujetos que performan su acumulación de logros como quien deposita evidencia en un juicio permanente contra la propia inercia. Lo que se genera no es solo FOMO—ese término domesticado por la psicología pop—sino una ilusión óptica de aceleración generalizada donde todos avanzan simultáneamente mientras una permanece cristalizada en la posición del testigo, del espectador inmóvil que asiste al gran teatro de la productividad tardocapitalista sin jamás subir al escenario.
+El feed como dispositivo de gubernamentalidad neoliberal que opera mediante la exhibición perpetua del hacer-ajeno: cuerpos en constante demostración de productividad, sujetos que performan su acumulación de logros como quien deposita evidencia en un juicio permanente contra la propia inercia. Lo que se genera no es solo *FOMO* ese término domesticado por la psicología pop—sino una ilusión óptica de aceleración generalizada donde todos avanzan simultáneamente mientras una permanece cristalizada en la posición del testigo, del espectador inmóvil que asiste al gran teatro de la productividad tardocapitalista sin jamás subir al escenario.
 <div style="margin: 10px 0;"></div>
 *Pero hay que preguntarse: ¿qué tipo de paralización es esta?*
 <div style="margin: 10px 0;"></div>
 ¿Es acaso resistencia inconsciente? ¿Negativa a entrar en el juego de la exhibición constante? ¿O es, más bien, la forma más refinada de sumisión: la que ni siquiera puede articular su deseo propio porque está demasiado ocupada consumiendo el deseo realizado de los otros?
 <div style="margin: 30px 0;"></div>
 *II. El fetiche de la complejidad*
+<div style="margin: 20px 0;"></div>
 La mayoría del terror que nos paraliza frente a los objetos de conocimiento proviene de lo que podríamos llamar el fetiche de la complejidad: esa arquitectura intimidante que las cosas complejas despliegan cuando se las observa desde la distancia segura de la no-práctica. 
 Las ecuaciones suspendidas en el espacio blanco de un paper académico como jeroglíficos de una civilización inalcanzable. 
 El código que se despliega en la pantalla del programador experto como sintaxis de un lenguaje prohibido. 
@@ -30,9 +31,9 @@ Pero existe un secreto que la academia, la industria tech y todo régimen expert
 <div style="margin: 30px 0;"></div>
 *III. Terry Davis y el oscurantismo académico*
 <div style="margin: 20px 0;"></div>
-Un idiota admira la complejidad, un genio admira la simplicidad, un físico intenta hacerlo simple. 
+*Un idiota admira la complejidad, un genio admira la simplicidad, un físico intenta hacerlo simple. 
 Para un idiota, mientras más complicado sea algo, más lo va a admirar. Si haces algo tan clusterfücked que nadie puede entenderlo, van a pensar que eres un dios porque 
-lo hiciste tan complicado que nadie puede comprenderlo. Así es como escriben journals en la academia: intentan hacerlo tan complicado que la gente piense que eres un genio.
+lo hiciste tan complicado que nadie puede comprenderlo. Así es como escriben journals en la academia: intentan hacerlo tan complicado que la gente piense que eres un genio.*
 <div style="margin: 10px 0;"></div>
 *Terry Davis* genio esquizofrénico, programador visionario que construyó un sistema operativo completo para hablar con Dios, mártir del código divino—formuló aquí una crítica epistemológica que la filosofía académica raramente se atreve a articular con esta brutalidad.
 <div style="margin: 10px 0;"></div>
@@ -91,7 +92,7 @@ La pregunta del niño interior funciona como test de autenticidad existencial no
 Confrontarse con esa mirada todavía no contaminada de cinismo es ejercicio doloroso porque revela con precisión quirúrgica la distancia entre el deseo originario y la deriva actual. Muestra exactamente dónde se aceptaron los términos del contrato social, dónde se negoció el deseo a cambio de seguridad económica, dónde se eligió la supervivencia por sobre la intensidad. Pero ese dolor es diagnóstico puro, información precisa sobre los puntos donde el camino se torció.
 <div style="margin: 30px 0;"></div>
 *VIII. Cuando el problema migra a lo visceral*
-<div style="margin: 10px 0;"></div>
+<div style="margin: 20px 0;"></div>
 Hay momentos donde la paralización no responde a ninguna de estas intervenciones. 
 Donde cambiar el entorno, alterar la rutina, modificar los inputs sensoriales no alcanza para romper el loop. En ese punto el problema migró a capas más profundas, más viscerales, donde ya no se trata de motivación ni de configuración espacial sino de química cerebral alterada.
 <div style="margin: 10px 0;"></div>
