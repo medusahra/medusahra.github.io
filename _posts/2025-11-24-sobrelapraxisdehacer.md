@@ -12,7 +12,9 @@ pinned: true
 *I. La economía libidinal del scroll*
 <div style="margin: 20px 0;"></div>
 Es fácil sucumbir a la ansiedad del scroll infinito, pero esta facilidad no es accidental sino arquitectónica. 
-El feed como dispositivo de gubernamentalidad neoliberal que opera mediante la exhibición perpetua del hacer-ajeno: cuerpos en constante demostración de productividad, sujetos que performan su acumulación de logros como quien deposita evidencia en un juicio permanente contra la propia inercia. Lo que se genera no es solo *FOMO* ese término domesticado por la psicología pop—sino una ilusión óptica de aceleración generalizada donde todos avanzan simultáneamente mientras una permanece cristalizada en la posición del testigo, del espectador inmóvil que asiste al gran teatro de la productividad tardocapitalista sin jamás subir al escenario.
+El feed como dispositivo de gubernamentalidad neoliberal que opera mediante la exhibición perpetua del hacer-ajeno: cuerpos en constante demostración de productividad, sujetos que performan su acumulación de logros como quien deposita evidencia en un juicio permanente contra la propia inercia. 
+<div style="margin: 10px 0;"></div>
+Lo que se genera no es solo *FOMO* ese término domesticado por la psicología pop—sino una ilusión óptica de aceleración generalizada donde todos avanzan simultáneamente mientras una permanece cristalizada en la posición del testigo, del espectador inmóvil que asiste al gran teatro de la productividad tardocapitalista sin jamás subir al escenario.
 <div style="margin: 10px 0;"></div>
 *Pero hay que preguntarse: ¿qué tipo de paralización es esta?*
 <div style="margin: 10px 0;"></div>
@@ -21,13 +23,19 @@ El feed como dispositivo de gubernamentalidad neoliberal que opera mediante la e
 *II. El fetiche de la complejidad*
 <div style="margin: 20px 0;"></div>
 La mayoría del terror que nos paraliza frente a los objetos de conocimiento proviene de lo que podríamos llamar el fetiche de la complejidad: esa arquitectura intimidante que las cosas complejas despliegan cuando se las observa desde la distancia segura de la no-práctica. 
-Las ecuaciones suspendidas en el espacio blanco de un paper académico como jeroglíficos de una civilización inalcanzable. 
+Las ecuaciones suspendidas en el espacio blanco de un paper académico como jeroglíficos de una civilización inalcanzable.
+<div style="margin: 10px 0;"></div>
 El código que se despliega en la pantalla del programador experto como sintaxis de un lenguaje prohibido. 
 <div style="margin: 10px 0;"></div>
 El setup técnico del otro, la obra terminada, pulida, radiante de maestría aparente.
-Lo que ocurre en ese momento es un cortocircuito cognitivo: el cerebro, ante la imposibilidad de procesar inmediatamente la totalidad del sistema complejo, ejecuta un shutdown defensivo y decreta con autoridad de oráculo: jamás llegarás hasta allí. Esta profecía autocumplida es precisamente el mecanismo mediante el cual la estratificación del conocimiento se reproduce: no mediante la dificultad intrínseca de los objetos epistémicos, sino mediante la construcción social de su inaccesibilidad.
+Lo que ocurre en ese momento es un cortocircuito cognitivo: el cerebro, ante la imposibilidad de procesar inmediatamente la totalidad del sistema complejo, ejecuta un shutdown defensivo y decreta con autoridad de oráculo: jamás llegarás hasta allí. 
 <div style="margin: 10px 0;"></div>
-Pero existe un secreto que la academia, la industria tech y todo régimen experto prefieren mantener encriptado: la complejidad, en la mayoría de los casos, es un efecto de superficie. Una vez que se atraviesa esa primera membrana de resistencia—una vez que efectivamente se empieza a tocar el código, manipular la ecuación, desarmar el dispositivo—todo se revela como menos mágico y más mecánico de lo que el fetiche de la dificultad sugería. La complejidad era un artefacto de la distancia, una ilusión óptica producida por la separación entre el sujeto observador y el objeto de deseo epistémico.
+Esta profecía autocumplida es precisamente el mecanismo mediante el cual la estratificación del conocimiento se reproduce: no mediante la dificultad intrínseca de los objetos epistémicos, sino mediante la construcción social de su inaccesibilidad.
+<div style="margin: 10px 0;"></div>
+Pero existe un secreto que la academia, la industria tech y todo régimen experto prefieren mantener encriptado: la complejidad, en la mayoría de los casos, es un efecto de superficie. 
+<div style="margin: 10px 0;"></div>
+Una vez que se atraviesa esa primera membrana de resistencia—una vez que efectivamente se empieza a tocar el código, manipular la ecuación, desarmar el dispositivo—todo se revela como menos mágico y más mecánico de lo que el fetiche de la dificultad sugería. 
+La complejidad era un artefacto de la distancia, una ilusión óptica producida por la separación entre el sujeto observador y el objeto de deseo epistémico.
 <div style="margin: 30px 0;"></div>
 *III. Terry Davis y el oscurantismo académico*
 <div style="margin: 20px 0;"></div>
@@ -38,11 +46,14 @@ lo hiciste tan complicado que nadie puede comprenderlo. Así es como escriben jo
 *Terry Davis* genio esquizofrénico, programador visionario que construyó un sistema operativo completo para hablar con Dios, mártir del código divino—formuló aquí una crítica epistemológica que la filosofía académica raramente se atreve a articular con esta brutalidad.
 <div style="margin: 10px 0;"></div>
 Porque lo que Davis señala no es solo un problema de estilo sino de poder: la complejidad innecesaria como tecnología de exclusión, el oscurantismo como performance de genialidad, la jerga impenetrable como muralla defensiva contra la democratización del saber.
-A veces somos idiotas simplemente porque nos falta el conocimiento acumulado necesario para decodificar cierto dominio técnico. Pero otras veces—muchas veces—son personas específicas construyendo laberintos deliberados de complejidad para proteger su capital simbólico, para mantener intacta la ficción de su genialidad inaccesible. 
+A veces somos idiotas simplemente porque nos falta el conocimiento acumulado necesario para decodificar cierto dominio técnico. 
+<div style="margin: 10px 0;"></div>
+Pero otras veces—muchas veces—son personas específicas construyendo laberintos deliberados de complejidad para proteger su capital simbólico, para mantener intacta la ficción de su genialidad inaccesible. 
 <div style="margin: 10px 0;"></div>
 La academia adora este juego perverso: papers escritos en prosa deliberadamente tóxica, saturada de neologismos y citaciones cruzadas que funcionan como passwords de acceso a un club privado donde el conocimiento circula solo entre iniciados.
 <div style="margin: 10px 0;"></div>
-Y sin embargo, la verdad brutalmente simple que nadie quiere admitir es que la mayoría de la gente realmente no hace cosas. La barra está considerablemente más baja de lo que el espectáculo de la complejidad sugiere, en prácticamente todos los campos de producción cultural, científica, tecnológica. 
+Y sin embargo, la verdad brutalmente simple que nadie quiere admitir es que la mayoría de la gente realmente no hace cosas. 
+La barra está considerablemente más baja de lo que el espectáculo de la complejidad sugiere, en prácticamente todos los campos de producción cultural, científica, tecnológica. 
 Todo lo que desde afuera luce como imposibilidad ontológica suele ser, al acercarse, apenas una cuestión de atravesar esa primera zona de resistencia cognitiva que separa el deseo abstracto de la ejecución concreta.
 <div style="margin: 30px 0;"></div>
 *IV. Contra la teoría infinita: una pedagogía del hacer*
@@ -50,7 +61,8 @@ Todo lo que desde afuera luce como imposibilidad ontológica suele ser, al acerc
 Lo que funciona—y esto no es prescripción universal sino evidencia empírica destilada de la observación—es comenzar sin sobrepensar el proceso hasta convertirlo en otra modalidad sofisticada de procrastinación. 
 <div style="margin: 10px 0;"></div>
 Se elige un libro, no necesariamente el más canónico ni el más citado, sino el que se puede efectivamente leer sin que el ego académico colapse bajo el peso de su propia ignorancia. 
-Se lee lo suficiente para comprender los fundamentos operativos básicos. 
+Se lee lo suficiente para comprender los fundamentos operativos básicos.
+<div style="margin: 10px 0;"></div>
 Y luego—esto es crucial—se detiene antes de que la lectura se convierta en teoría infinita, en esa forma de masturbación intelectual donde acumular conocimiento se vuelve sustituto del hacer.
 No se trata de completar el libro como si fuera una obligación moral o un rito de paso. Se trata de alcanzar ese punto liminal donde se puede intentar hacer algo con el conocimiento recién adquirido.
 <div style="margin: 10px 0;"></div>
@@ -58,7 +70,10 @@ Ese es el momento donde las cosas cobran sentido de forma visceral, no abstracta
 Si todavía no existe claridad sobre qué tipo de proyecto se quiere construir, esto no indica defecto del sistema sino que es parte inherente del proceso. 
 No se puede saber de antemano qué se querrá hacer. Solo se sabrá una vez que el cerebro tenga suficiente material acumulado con qué fantasear posibilidades, con qué construir imágenes mentales de futuros proyectos. Mientras tanto: habitar la proximidad de quienes efectivamente construyen. 
 <div style="margin: 10px 0;"></div>
-Seguir en X a quienes ejecutan, no a quienes solo comentan la ejecución ajena. Leer su material con atención casi etnográfica, intentando comprender no solo qué hacen sino cómo piensan, qué infraestructura mental sostiene su capacidad de convertir idea en objeto. Revisar GitHub como archivo arqueológico de código, explorar repos aleatorios, leer el código ajeno como si fuera literatura técnica que revela patrones de pensamiento. Testear fragmentos, experimentar con implementaciones pequeñas, reimplementar papers, forkear proyectos, hackear sin miedo a romper cosas.
+Seguir en X a quienes ejecutan, no a quienes solo comentan la ejecución ajena. Leer su material con atención casi etnográfica, intentando comprender no solo qué hacen sino cómo piensan, qué infraestructura mental sostiene su capacidad de convertir idea en objeto. 
+<div style="margin: 10px 0;"></div>
+Revisar GitHub como archivo arqueológico de código, explorar repos aleatorios, leer el código ajeno como si fuera literatura técnica que revela patrones de pensamiento. 
+Testear fragmentos, experimentar con implementaciones pequeñas, reimplementar papers, forkear proyectos, hackear sin miedo a romper cosas.
 <div style="margin: 10px 0;"></div>
 En algún punto—imposible predecir cuándo, imposible forzar el momento—surgirá el deseo de hacer algo propio. Y ese momento, cuando el deseo se vuelve tan específico que ya no se puede tercerizar ni posponer, es donde comienza el progreso real.
 <div style="margin: 30px 0;"></div>
