@@ -1,4 +1,8 @@
-<!DOCTYPE html>
+---
+layout: none
+---
+
+{% raw %}
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -419,30 +423,23 @@
           
           switch(colorMode) {
             case 'medusahra':
-              // Corregido: usa brightness normalizado (0-1) para calcular intensidad
-              const intensity = brightness / 255;
-              const pink = Math.floor(255 * intensity);
-              const magenta = Math.floor(150 * intensity);
-              const violet = Math.floor(180 * intensity);
-              const glowStrength = intensity > 0.7 ? '0 0 15px #ff1493, 0 0 25px #c77dff' : '0 0 8px #9d4edd';
-              colorStyle = `color: rgb(${pink}, ${magenta}, ${violet}); text-shadow: ${glowStrength}`;
+              const pinkIntensity = Math.floor(brightness);
+              const glowStrength = brightness > 200 ? '0 0 15px #ff1493, 0 0 25px #ff1493' : '0 0 8px #ff1493, 0 0 12px #ff1493';
+              colorStyle = `color: rgb(255, ${Math.floor(pinkIntensity * 0.3)}, ${Math.floor(pinkIntensity * 0.6)}); text-shadow: ${glowStrength}`;
               break;
               
             case 'gradient':
               const hue = 270 + (y / height) * 60;
-              const lightness = 30 + (brightness / 255) * 50;
-              colorStyle = `color: hsl(${hue}, 80%, ${lightness}%); text-shadow: 0 0 5px hsl(${hue}, 80%, ${lightness}%)`;
+              colorStyle = `color: hsl(${hue}, 80%, ${50 + brightness/10}%)`;
               break;
               
             case 'monochrome':
-              const violetIntensity = 50 + (brightness / 255) * 50;
-              colorStyle = `color: hsl(280, 70%, ${violetIntensity}%)`;
+              colorStyle = `color: #c77dff`;
               break;
               
             case 'inverted':
               const inverted = 255 - brightness;
-              const invertedLight = 30 + (inverted / 255) * 50;
-              colorStyle = `color: hsl(270, 80%, ${invertedLight}%)`;
+              colorStyle = `color: hsl(270, 80%, ${inverted/3}%)`;
               break;
               
             case 'matrix':
@@ -464,10 +461,7 @@
               
             case 'polaroid':
               const warmth = Math.floor(brightness * 0.9);
-              const warmR = Math.min(255, warmth + 40);
-              const warmG = warmth;
-              const warmB = Math.max(0, warmth - 20);
-              colorStyle = `color: rgb(${warmR}, ${warmG}, ${warmB}); filter: contrast(0.9) saturate(1.2)`;
+              colorStyle = `color: rgb(${warmth + 40}, ${warmth}, ${warmth - 20})`;
               break;
               
             case 'vaporwave':
@@ -508,6 +502,7 @@
       URL.revokeObjectURL(url);
     });
     
+    // Descarga como PNG
     downloadImgBtn.addEventListener('click', () => {
       const asciiDiv = document.getElementById('asciiOutput');
       const canvas = document.createElement('canvas');
@@ -569,3 +564,4 @@
   </script>
 </body>
 </html>
+{% endraw %}
