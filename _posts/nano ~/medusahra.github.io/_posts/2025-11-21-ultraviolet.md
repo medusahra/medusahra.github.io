@@ -1,4 +1,8 @@
-<!DOCTYPE html>
+---
+layout: none
+---
+
+{% raw %}
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -52,6 +56,7 @@
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
       background-clip: text;
+      text-shadow: 0 0 30px rgba(157, 78, 221, 0.8);
       margin-bottom: 10px;
       letter-spacing: 3px;
     }
@@ -183,10 +188,9 @@
     }
     
     #asciiOutput {
-      font-family: 'MS Gothic', 'Courier New', monospace;
-      font-size: 5px;
-      line-height: 0.65;
-      letter-spacing: -0.5px;
+      font-family: 'Courier New', monospace;
+      font-size: 8px;
+      line-height: 1;
       white-space: pre;
       overflow: auto;
       max-height: 600px;
@@ -266,21 +270,21 @@
     <div class="controls">
       <div class="control-group">
         <label>Densidad / Resolution</label>
-        <input type="range" id="widthSlider" min="100" max="300" value="200">
-        <div class="value-display">Ancho: <span id="widthValue">200</span> chars</div>
+        <input type="range" id="widthSlider" min="50" max="200" value="100">
+        <div class="value-display">Ancho: <span id="widthValue">100</span> chars</div>
       </div>
       
       <div class="control-group">
         <label>Character Set</label>
         <select id="charsetSelect">
-          <option value="hiragana">Hiragana Japanese (Best)</option>
-          <option value="blocks">Block Characters</option>
-          <option value="braille">Braille Dots</option>
-          <option value="dense">Dense Blocks</option>
           <option value="standard">Standard ASCII</option>
+          <option value="dense">Dense Block</option>
           <option value="minimal">Minimal</option>
-          <option value="binary">Binary (01)</option>
-          <option value="symbols">Symbols</option>
+          <option value="emoji">Emoji Glitch</option>
+          <option value="custom">Custom Symbols</option>
+          <option value="binary">Binary (01010101)</option>
+          <option value="at">At Signs (@@@@@)</option>
+          <option value="glitch">Glitch Mix</option>
         </select>
       </div>
       
@@ -327,48 +331,48 @@
         // algoritmo de conversión píxel a ASCII · JavaScript · Canvas API
       </p>
       <p style="font-size: 10px; color: #9d4edd; margin-top: 5px;">
-        coded with JavaScript by <a href="https://github.com/medusahra" target="_blank" style="color: #e0aaff; text-decoration: none; text-shadow: 0 0 8px #e0aaff;">medusahra</a>
+        coded with JavaScript by <a href="https://github.com/medusahra" target="_blank" style="color: #e0aaff; text-decoration: none; text-shadow: 0 0 8px #e0aaff; transition: all 0.3s;">medusahra</a>
       </p>
     </div>
   </div>
   
   <script>
-    var currentImage = null;
-    var asciiText = '';
+    let currentImage = null;
+    let asciiText = '';
     
-    var charsets = {
-      hiragana: ' ぁあぃいぅうぇえぉおかがきぎくぐけげこごさざしじすずせぜそぞただちぢっつづてでとどなにぬねのはばぱひびぴふぶぷへべぺほぼぽまみむめもゃやゅゆょよらりるれろゎわゐゑをんゔゕゖ',
-      blocks: ' ░▒▓█',
-      standard: ' .:-=+*@',
-      dense: ' ▁▂▃▄▅▆▇█',
-      minimal: ' .oO@',
+    const charsets = {
+      standard: ' .:-=+*#%@',
+      dense: ' ░▒▓█',
+      minimal: ' ·▪▫■',
+      emoji: ' ·✦✧★☆',
+      custom: ' ◊◈◇◆',
       binary: ' 01',
-      symbols: ' ·+*@',
-      braille: ' ⠀⠁⠂⠃⠄⠅⠆⠇⠈⠉⠊⠋⠌⠍⠎⠏'
+      at: ' ·@@@',
+      glitch: ' ▓▒░01@#'
     };
     
-    var imageInput = document.getElementById('imageInput');
-    var imagePreview = document.getElementById('imagePreview');
-    var noImage = document.getElementById('noImage');
-    var asciiOutput = document.getElementById('asciiOutput');
-    var generateBtn = document.getElementById('generateBtn');
-    var copyBtn = document.getElementById('copyBtn');
-    var downloadBtn = document.getElementById('downloadBtn');
-    var downloadImgBtn = document.getElementById('downloadImgBtn');
-    var widthSlider = document.getElementById('widthSlider');
-    var widthValue = document.getElementById('widthValue');
+    const imageInput = document.getElementById('imageInput');
+    const imagePreview = document.getElementById('imagePreview');
+    const noImage = document.getElementById('noImage');
+    const asciiOutput = document.getElementById('asciiOutput');
+    const generateBtn = document.getElementById('generateBtn');
+    const copyBtn = document.getElementById('copyBtn');
+    const downloadBtn = document.getElementById('downloadBtn');
+    const downloadImgBtn = document.getElementById('downloadImgBtn');
+    const widthSlider = document.getElementById('widthSlider');
+    const widthValue = document.getElementById('widthValue');
     
-    widthSlider.addEventListener('input', function(e) {
+    widthSlider.addEventListener('input', (e) => {
       widthValue.textContent = e.target.value;
     });
     
-    imageInput.addEventListener('change', function(e) {
-      var file = e.target.files[0];
+    imageInput.addEventListener('change', (e) => {
+      const file = e.target.files[0];
       if (file) {
-        var reader = new FileReader();
-        reader.onload = function(event) {
-          var img = new Image();
-          img.onload = function() {
+        const reader = new FileReader();
+        reader.onload = (event) => {
+          const img = new Image();
+          img.onload = () => {
             currentImage = img;
             imagePreview.src = event.target.result;
             imagePreview.style.display = 'block';
@@ -386,92 +390,90 @@
     function generateASCII() {
       if (!currentImage) return;
       
-      var width = parseInt(widthSlider.value);
-      var selectedCharset = document.getElementById('charsetSelect').value;
-      var charset = charsets[selectedCharset];
-      var colorMode = document.getElementById('colorMode').value;
+      const width = parseInt(widthSlider.value);
+      const charset = charsets[document.getElementById('charsetSelect').value];
+      const colorMode = document.getElementById('colorMode').value;
       
-      var canvas = document.createElement('canvas');
-      var ctx = canvas.getContext('2d');
+      const canvas = document.createElement('canvas');
+      const ctx = canvas.getContext('2d');
       
-      var aspectMultiplier;
-      if (selectedCharset === 'hiragana') {
-        aspectMultiplier = 0.9;
-      } else if (selectedCharset === 'blocks' || selectedCharset === 'dense') {
-        aspectMultiplier = 0.5;
-      } else if (selectedCharset === 'braille') {
-        aspectMultiplier = 0.4;
-      } else {
-        aspectMultiplier = 0.55;
-      }
-      
-      var aspectRatio = currentImage.height / currentImage.width;
-      var height = Math.floor(width * aspectRatio * aspectMultiplier);
+      const aspectRatio = currentImage.height / currentImage.width;
+      const height = Math.floor(width * aspectRatio * 0.5);
       
       canvas.width = width;
       canvas.height = height;
       
       ctx.drawImage(currentImage, 0, 0, width, height);
-      var imageData = ctx.getImageData(0, 0, width, height);
+      const imageData = ctx.getImageData(0, 0, width, height);
       
-      var ascii = '';
+      let ascii = '';
       
-      for (var y = 0; y < height; y++) {
-        for (var x = 0; x < width; x++) {
-          var i = (y * width + x) * 4;
-          var r = imageData.data[i];
-          var g = imageData.data[i + 1];
-          var b = imageData.data[i + 2];
+      for (let y = 0; y < height; y++) {
+        for (let x = 0; x < width; x++) {
+          const i = (y * width + x) * 4;
+          const r = imageData.data[i];
+          const g = imageData.data[i + 1];
+          const b = imageData.data[i + 2];
           
-          var brightness = (r + g + b) / 3;
-          var charIndex = Math.floor((brightness / 255) * (charset.length - 1));
-          var char = charset[charIndex];
+          const brightness = (r + g + b) / 3;
+          const charIndex = Math.floor((brightness / 255) * (charset.length - 1));
+          const char = charset[charIndex];
           
-          var colorStyle = '';
+          let colorStyle = '';
           
-          if (colorMode === 'medusahra') {
-            var intensity = brightness / 255;
-            var pink = Math.floor(255 * intensity);
-            var magenta = Math.floor(150 * intensity);
-            var violet = Math.floor(180 * intensity);
-            var glowStrength = intensity > 0.7 ? '0 0 15px #ff1493, 0 0 25px #c77dff' : '0 0 8px #9d4edd';
-            colorStyle = 'color: rgb(' + pink + ', ' + magenta + ', ' + violet + '); text-shadow: ' + glowStrength;
-          } else if (colorMode === 'gradient') {
-            var hue = 270 + (y / height) * 60;
-            var lightness = 30 + (brightness / 255) * 50;
-            colorStyle = 'color: hsl(' + hue + ', 80%, ' + lightness + '%); text-shadow: 0 0 5px hsl(' + hue + ', 80%, ' + lightness + '%)';
-          } else if (colorMode === 'monochrome') {
-            var violetIntensity = 50 + (brightness / 255) * 50;
-            colorStyle = 'color: hsl(280, 70%, ' + violetIntensity + '%)';
-          } else if (colorMode === 'inverted') {
-            var inverted = 255 - brightness;
-            var invertedLight = 30 + (inverted / 255) * 50;
-            colorStyle = 'color: hsl(270, 80%, ' + invertedLight + '%)';
-          } else if (colorMode === 'matrix') {
-            var greenShade = Math.floor(100 + (brightness / 255) * 155);
-            colorStyle = 'color: rgb(0, ' + greenShade + ', 0); text-shadow: 0 0 5px rgba(0, 255, 0, 0.5)';
-          } else if (colorMode === 'matrix-rain') {
-            var greenIntensity = Math.floor(brightness);
-            var glow = brightness > 200 ? '0 0 10px rgba(0, 255, 0, 0.8)' : '0 0 3px rgba(0, 255, 0, 0.3)';
-            colorStyle = 'color: rgb(0, ' + greenIntensity + ', 0); text-shadow: ' + glow;
-          } else if (colorMode === 'gameboy') {
-            var palette = ['#0f380f', '#306230', '#8bac0f', '#9bbc0f'];
-            var paletteIndex = Math.floor((brightness / 255) * 3);
-            colorStyle = 'color: ' + palette[paletteIndex];
-          } else if (colorMode === 'polaroid') {
-            var warmth = Math.floor(brightness * 0.9);
-            var warmR = Math.min(255, warmth + 40);
-            var warmG = warmth;
-            var warmB = Math.max(0, warmth - 20);
-            colorStyle = 'color: rgb(' + warmR + ', ' + warmG + ', ' + warmB + ')';
-          } else if (colorMode === 'vaporwave') {
-            var vaporColors = brightness > 170 ? '#ff71ce' : brightness > 85 ? '#01cdfe' : '#05ffa1';
-            colorStyle = 'color: ' + vaporColors + '; text-shadow: 0 0 8px ' + vaporColors;
-          } else {
-            colorStyle = 'color: #c77dff';
+          switch(colorMode) {
+            case 'medusahra':
+              const pinkIntensity = Math.floor(brightness);
+              const glowStrength = brightness > 200 ? '0 0 15px #ff1493, 0 0 25px #ff1493' : '0 0 8px #ff1493, 0 0 12px #ff1493';
+              colorStyle = `color: rgb(255, ${Math.floor(pinkIntensity * 0.3)}, ${Math.floor(pinkIntensity * 0.6)}); text-shadow: ${glowStrength}`;
+              break;
+              
+            case 'gradient':
+              const hue = 270 + (y / height) * 60;
+              colorStyle = `color: hsl(${hue}, 80%, ${50 + brightness/10}%)`;
+              break;
+              
+            case 'monochrome':
+              colorStyle = `color: #c77dff`;
+              break;
+              
+            case 'inverted':
+              const inverted = 255 - brightness;
+              colorStyle = `color: hsl(270, 80%, ${inverted/3}%)`;
+              break;
+              
+            case 'matrix':
+              const greenShade = Math.floor(100 + (brightness / 255) * 155);
+              colorStyle = `color: rgb(0, ${greenShade}, 0); text-shadow: 0 0 5px rgba(0, 255, 0, 0.5)`;
+              break;
+              
+            case 'matrix-rain':
+              const greenIntensity = Math.floor(brightness);
+              const glow = brightness > 200 ? '0 0 10px rgba(0, 255, 0, 0.8)' : '0 0 3px rgba(0, 255, 0, 0.3)';
+              colorStyle = `color: rgb(0, ${greenIntensity}, 0); text-shadow: ${glow}`;
+              break;
+              
+            case 'gameboy':
+              const palette = ['#0f380f', '#306230', '#8bac0f', '#9bbc0f'];
+              const paletteIndex = Math.floor((brightness / 255) * 3);
+              colorStyle = `color: ${palette[paletteIndex]}`;
+              break;
+              
+            case 'polaroid':
+              const warmth = Math.floor(brightness * 0.9);
+              colorStyle = `color: rgb(${warmth + 40}, ${warmth}, ${warmth - 20})`;
+              break;
+              
+            case 'vaporwave':
+              const vaporColors = brightness > 170 ? '#ff71ce' : brightness > 85 ? '#01cdfe' : '#05ffa1';
+              colorStyle = `color: ${vaporColors}; text-shadow: 0 0 8px ${vaporColors}`;
+              break;
+              
+            default:
+              colorStyle = `color: #c77dff`;
           }
           
-          ascii += '<span style="' + colorStyle + '">' + char + '</span>';
+          ascii += `<span style="${colorStyle}">${char}</span>`;
         }
         ascii += '\n';
       }
@@ -484,37 +486,34 @@
       downloadImgBtn.disabled = false;
     }
     
-    copyBtn.addEventListener('click', function() {
-      navigator.clipboard.writeText(asciiText).then(function() {
+    copyBtn.addEventListener('click', () => {
+      navigator.clipboard.writeText(asciiText).then(() => {
         alert('¡ASCII copiado al portapapeles! 💜');
       });
     });
     
-    downloadBtn.addEventListener('click', function() {
-      var blob = new Blob([asciiText], { type: 'text/plain' });
-      var url = URL.createObjectURL(blob);
-      var a = document.createElement('a');
+    downloadBtn.addEventListener('click', () => {
+      const blob = new Blob([asciiText], { type: 'text/plain' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
       a.href = url;
       a.download = 'ultraviolet-ascii.txt';
       a.click();
       URL.revokeObjectURL(url);
     });
     
-    downloadImgBtn.addEventListener('click', function() {
-      var canvas = document.createElement('canvas');
-      var ctx = canvas.getContext('2d');
+    // Descarga como PNG
+    downloadImgBtn.addEventListener('click', () => {
+      const asciiDiv = document.getElementById('asciiOutput');
+      const canvas = document.createElement('canvas');
+      const ctx = canvas.getContext('2d');
       
-      var fontSize = 5;
-      var lineHeight = 5;
-      var padding = 20;
+      const fontSize = 8;
+      const lineHeight = 8;
+      const padding = 20;
       
-      var lines = asciiOutput.innerText.split('\n');
-      var maxLineLength = 0;
-      for (var i = 0; i < lines.length; i++) {
-        if (lines[i].length > maxLineLength) {
-          maxLineLength = lines[i].length;
-        }
-      }
+      const lines = asciiOutput.innerText.split('\n');
+      const maxLineLength = Math.max(...lines.map(l => l.length));
       
       canvas.width = maxLineLength * fontSize * 0.6 + padding * 2;
       canvas.height = lines.length * lineHeight + padding * 2;
@@ -522,25 +521,23 @@
       ctx.fillStyle = '#000000';
       ctx.fillRect(0, 0, canvas.width, canvas.height);
       
-      ctx.font = fontSize + 'px "Courier New", monospace';
+      ctx.font = `${fontSize}px "Courier New", monospace`;
       ctx.textBaseline = 'top';
       
-      var spans = asciiOutput.querySelectorAll('span');
-      var currentLine = 0;
-      var currentX = padding;
-      var charCount = 0;
+      const spans = asciiDiv.querySelectorAll('span');
+      let currentLine = 0;
+      let currentX = padding;
+      let charCount = 0;
       
-      for (var i = 0; i < spans.length; i++) {
-        var span = spans[i];
-        var char = span.textContent;
+      spans.forEach(span => {
+        const char = span.textContent;
         
         if (char === '\n' || char === '') {
           currentLine++;
           currentX = padding;
-          charCount = 0;
         } else {
-          var computedStyle = window.getComputedStyle(span);
-          var color = computedStyle.color;
+          const computedStyle = window.getComputedStyle(span);
+          const color = computedStyle.color;
           
           ctx.fillStyle = color;
           ctx.fillText(char, currentX, padding + currentLine * lineHeight);
@@ -553,11 +550,11 @@
             charCount = 0;
           }
         }
-      }
+      });
       
-      canvas.toBlob(function(blob) {
-        var url = URL.createObjectURL(blob);
-        var a = document.createElement('a');
+      canvas.toBlob(blob => {
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
         a.href = url;
         a.download = 'ultraviolet-ascii.png';
         a.click();
@@ -567,3 +564,4 @@
   </script>
 </body>
 </html>
+{% endraw %}
