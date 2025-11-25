@@ -1,7 +1,4 @@
----
-title: "ultraviolet"
----
-{% raw %}
+<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -422,23 +419,30 @@ title: "ultraviolet"
           
           switch(colorMode) {
             case 'medusahra':
-              const pinkIntensity = Math.floor(brightness);
-              const glowStrength = brightness > 200 ? '0 0 15px #ff1493, 0 0 25px #ff1493' : '0 0 8px #ff1493, 0 0 12px #ff1493';
-              colorStyle = `color: rgb(255, ${Math.floor(pinkIntensity * 0.3)}, ${Math.floor(pinkIntensity * 0.6)}); text-shadow: ${glowStrength}`;
+              // Corregido: usa brightness normalizado (0-1) para calcular intensidad
+              const intensity = brightness / 255;
+              const pink = Math.floor(255 * intensity);
+              const magenta = Math.floor(150 * intensity);
+              const violet = Math.floor(180 * intensity);
+              const glowStrength = intensity > 0.7 ? '0 0 15px #ff1493, 0 0 25px #c77dff' : '0 0 8px #9d4edd';
+              colorStyle = `color: rgb(${pink}, ${magenta}, ${violet}); text-shadow: ${glowStrength}`;
               break;
               
             case 'gradient':
               const hue = 270 + (y / height) * 60;
-              colorStyle = `color: hsl(${hue}, 80%, ${50 + brightness/10}%)`;
+              const lightness = 30 + (brightness / 255) * 50;
+              colorStyle = `color: hsl(${hue}, 80%, ${lightness}%); text-shadow: 0 0 5px hsl(${hue}, 80%, ${lightness}%)`;
               break;
               
             case 'monochrome':
-              colorStyle = `color: #c77dff`;
+              const violetIntensity = 50 + (brightness / 255) * 50;
+              colorStyle = `color: hsl(280, 70%, ${violetIntensity}%)`;
               break;
               
             case 'inverted':
               const inverted = 255 - brightness;
-              colorStyle = `color: hsl(270, 80%, ${inverted/3}%)`;
+              const invertedLight = 30 + (inverted / 255) * 50;
+              colorStyle = `color: hsl(270, 80%, ${invertedLight}%)`;
               break;
               
             case 'matrix':
@@ -460,7 +464,10 @@ title: "ultraviolet"
               
             case 'polaroid':
               const warmth = Math.floor(brightness * 0.9);
-              colorStyle = `color: rgb(${warmth + 40}, ${warmth}, ${warmth - 20})`;
+              const warmR = Math.min(255, warmth + 40);
+              const warmG = warmth;
+              const warmB = Math.max(0, warmth - 20);
+              colorStyle = `color: rgb(${warmR}, ${warmG}, ${warmB}); filter: contrast(0.9) saturate(1.2)`;
               break;
               
             case 'vaporwave':
@@ -501,7 +508,6 @@ title: "ultraviolet"
       URL.revokeObjectURL(url);
     });
     
-    // Descarga como PNG
     downloadImgBtn.addEventListener('click', () => {
       const asciiDiv = document.getElementById('asciiOutput');
       const canvas = document.createElement('canvas');
@@ -563,4 +569,3 @@ title: "ultraviolet"
   </script>
 </body>
 </html>
-{% endraw %}
