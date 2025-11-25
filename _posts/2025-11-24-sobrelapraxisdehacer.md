@@ -21,12 +21,12 @@ que se despliega como jeroglífico, el setup
 ajeno, la obra de otro. El cerebro ejecuta un shutdown automático y decreta: jamás se llegará hasta allí. Pero una vez que se da el primer paso, una vez que algo efectivamente comienza, nunca es tan 
 complicado. Simplemente parecía serlo. La complejidad era un efecto de superficie, un artefacto de la lejanía.
 <div style="margin: 40px 0;"></div>
-"Un idiota admira la complejidad, un genio admira la simplicidad, un físico intenta hacerlo simple. Para un idiota, mientras más complicado sea algo, más lo va a admirar. 
+*Un idiota admira la complejidad, un genio admira la simplicidad, un físico intenta hacerlo simple. Para un idiota, mientras más complicado sea algo, más lo va a admirar. 
 Si se hace algo tan *clusterfücked* que no puede entenderlo, va a pensar que se es un dios porque se hizo tan complicado que nadie puede comprenderlo. 
-Así es como escriben journals en la academia, intentan hacerlo tan complicado que la gente piense que se es un genio." 
-<div style="margin: 10px 0;"></div>
-— Terry Davis
-<div style="margin: 10px 0;"></div>
+Así es como escriben journals en la academia, intentan hacerlo tan complicado que la gente piense que se es un genio.* 
+<div style="margin: 20px 0;"></div>
+*Terry Davis*
+<div style="margin: 20px 0;"></div>
 Esta cita de Terry Davis resuena. A veces simplemente se es un idiota porque falta conocimiento acumulado. 
 A veces son ciertas personas construyendo laberintos de complejidad para que se piense que son inteligentes. El oscurantismo como performance de genialidad.
 La verdad silenciosa,es que la mayoría de la gente realmente no hace cosas. 
