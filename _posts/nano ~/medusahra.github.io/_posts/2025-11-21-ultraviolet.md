@@ -1,10 +1,9 @@
 ---
-layout: none
 title: "ultraviolet"
 date: 2025-11-21
 ---
-
 {% raw %}
+<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -325,6 +324,7 @@ date: 2025-11-21
       <button id="generateBtn" disabled>⚡ Generar ASCII</button>
       <button id="copyBtn" disabled>📋 Copiar</button>
       <button id="downloadBtn" disabled>💾 Descargar .txt</button>
+      <button id="downloadImgBtn" disabled>🖼️ Descargar PNG</button>
     </div>
     
     <div style="text-align: center; margin-top: 30px; padding: 20px; border-top: 1px solid #9d4edd;">
@@ -359,6 +359,7 @@ date: 2025-11-21
     const generateBtn = document.getElementById('generateBtn');
     const copyBtn = document.getElementById('copyBtn');
     const downloadBtn = document.getElementById('downloadBtn');
+    const downloadImgBtn = document.getElementById('downloadImgBtn');
     const widthSlider = document.getElementById('widthSlider');
     const widthValue = document.getElementById('widthValue');
     
@@ -483,6 +484,7 @@ date: 2025-11-21
       
       copyBtn.disabled = false;
       downloadBtn.disabled = false;
+      downloadImgBtn.disabled = false;
     }
     
     copyBtn.addEventListener('click', () => {
@@ -499,6 +501,66 @@ date: 2025-11-21
       a.download = 'ultraviolet-ascii.txt';
       a.click();
       URL.revokeObjectURL(url);
+    });
+    
+    // Descarga como PNG
+    downloadImgBtn.addEventListener('click', () => {
+      const asciiDiv = document.getElementById('asciiOutput');
+      const canvas = document.createElement('canvas');
+      const ctx = canvas.getContext('2d');
+      
+      const fontSize = 8;
+      const lineHeight = 8;
+      const padding = 20;
+      
+      const lines = asciiOutput.innerText.split('\n');
+      const maxLineLength = Math.max(...lines.map(l => l.length));
+      
+      canvas.width = maxLineLength * fontSize * 0.6 + padding * 2;
+      canvas.height = lines.length * lineHeight + padding * 2;
+      
+      ctx.fillStyle = '#000000';
+      ctx.fillRect(0, 0, canvas.width, canvas.height);
+      
+      ctx.font = `${fontSize}px "Courier New", monospace`;
+      ctx.textBaseline = 'top';
+      
+      const spans = asciiDiv.querySelectorAll('span');
+      let currentLine = 0;
+      let currentX = padding;
+      let charCount = 0;
+      
+      spans.forEach(span => {
+        const char = span.textContent;
+        
+        if (char === '\n' || char === '') {
+          currentLine++;
+          currentX = padding;
+        } else {
+          const computedStyle = window.getComputedStyle(span);
+          const color = computedStyle.color;
+          
+          ctx.fillStyle = color;
+          ctx.fillText(char, currentX, padding + currentLine * lineHeight);
+          currentX += fontSize * 0.6;
+          charCount++;
+          
+          if (charCount >= maxLineLength) {
+            currentLine++;
+            currentX = padding;
+            charCount = 0;
+          }
+        }
+      });
+      
+      canvas.toBlob(blob => {
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = 'ultraviolet-ascii.png';
+        a.click();
+        URL.revokeObjectURL(url);
+      });
     });
   </script>
 </body>
