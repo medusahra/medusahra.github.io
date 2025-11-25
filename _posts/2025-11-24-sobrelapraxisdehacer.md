@@ -31,10 +31,10 @@ Pero existe un secreto que la academia, la industria tech y todo régimen expert
 <div style="margin: 30px 0;"></div>
 *III. Terry Davis y el oscurantismo académico*
 <div style="margin: 20px 0;"></div>
-*Un idiota admira la complejidad, un genio admira la simplicidad, un físico intenta hacerlo simple. 
+Un idiota admira la complejidad, un genio admira la simplicidad, un físico intenta hacerlo simple. 
 Para un idiota, mientras más complicado sea algo, más lo va a admirar. Si haces algo tan clusterfücked que nadie puede entenderlo, van a pensar que eres un dios porque 
-lo hiciste tan complicado que nadie puede comprenderlo. Así es como escriben journals en la academia: intentan hacerlo tan complicado que la gente piense que eres un genio.*
-<div style="margin: 10px 0;"></div>
+lo hiciste tan complicado que nadie puede comprenderlo. Así es como escriben journals en la academia: intentan hacerlo tan complicado que la gente piense que eres un genio.
+<div style="margin: 20px 0;"></div>
 *Terry Davis* genio esquizofrénico, programador visionario que construyó un sistema operativo completo para hablar con Dios, mártir del código divino—formuló aquí una crítica epistemológica que la filosofía académica raramente se atreve a articular con esta brutalidad.
 <div style="margin: 10px 0;"></div>
 Porque lo que Davis señala no es solo un problema de estilo sino de poder: la complejidad innecesaria como tecnología de exclusión, el oscurantismo como performance de genialidad, la jerga impenetrable como muralla defensiva contra la democratización del saber.
