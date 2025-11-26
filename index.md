@@ -41,7 +41,7 @@ Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagam
 - ☣ **<a href="https://open.spotify.com/user/oer0flire345iy1g4vaifowzc/playlists" target="_blank">listen to my sick playlists</a>** ☣
 ## blackbox utilities
 - 🔒 **[password vault](/2025/11/23/password-vault.html)**
-🔮 <a href="https://medusahra.github.io/ultraviolet-engine/">ultraviolet engine</a>
+- 🔮 <a href="https://medusahra.github.io/ultraviolet-engine/">ultraviolet engine</a>
 - 💜 **[ultraviolet hyper hex](/2025/11/21/ultraviolet.html)** 
 - 🔐 **[encriptador glitch](/2025/11/21/encriptador-glitch.html)**
 - 🪶 **[generador poético](/2025/11/21/generador-poemas.html)** 
