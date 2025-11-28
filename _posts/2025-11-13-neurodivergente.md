@@ -63,9 +63,9 @@ Mi cerebro es extremadamente bueno para mantenerse enfocado en una sola cosa, es
 
 *Mi cerebro habita el mundo de una manera particular.* 
 <div style="margin: 20px 0;"></div>
-Soy una mujer autista, diagnosticada a los nueve años, cosa que no hizo ninguna difrencia en mi vida; hasta mi segundo diágnostico en el dos mil dieciocho, después de mi segundo intento de suicidio.
+Soy una mujer autista, diagnosticada a los nueve años, cosa que no hizo ninguna diferencia en mi vida; hasta mi segundo diágnostico en el dos mil dieciocho, después de mi segundo intento de suicidio.
 <div style="margin: 10px 0;"></div>
-tengo TDAH y vivo con ideación suicida constante, para mí, una de las partes más difíciles con las que convivo a diario; mérito de un trastorno esquizoafectivo que he tenido desde que tengo uso de razón. Esto último significa que convivo con síntomas propios de la esquizofrenia, como alucinaciones visuales y auditivas, 
+tengo Tdah, estrés postraumático y vivo con ideación suicida constante, para mí, una de las partes más difíciles con las que convivo a diario; mérito de un trastorno esquizoafectivo que he tenido desde que tengo uso de razón. Esto último significa que convivo con síntomas propios de la esquizofrenia, como alucinaciones visuales y auditivas, 
 paranoia y delirio de persecución, sobre todo cuando paso por mucho estrés, pero también con los de un trastorno del estado de ánimo. 
 En mi caso, un vaivén entre la corta y ligera euforia de la hipomanía y los abismos de la depresión mayor.
 <div style="margin: 10px 0;"></div>
