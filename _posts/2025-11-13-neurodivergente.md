@@ -70,7 +70,27 @@ paranoia y delirio de persecución, sobre todo cuando paso por mucho estrés, pe
 En mi caso, un vaivén entre la corta y ligera euforia de la hipomanía y los abismos de la depresión mayor.
 <div style="margin: 10px 0;"></div>
 Medianamente controlados con medicación por algunos años. Por supuesto esto no quita que mi percepción de la realidad a veces no coincida con la de los demás. 
-Oh, ¿te sorprende? ¿Pensaste que solo era rarita, excéntrica? Qué ternura. Supongo que era momento de revelarlo, pues no cometí ningún crímen como para tener que esconderlo, aunque en mi realidad no cambia nada. Siempre he sido así, con una mente que opera en una frecuencia distinta, analizando el mundo con una profundidad casi absurda, lo que me permite captar detalles que otros ignoran, analizar el mundo con perspicacia y, al mismo tiempo, desconectarme por completo de lo que muchos consideran esencial.
+Oh, ¿te sorprende? ¿Pensaste que solo era rarita, excéntrica? Qué ternura. Supongo que era momento de revelarlo, pues no cometí ningún crímen como para tener que esconderlo, aunque en mi realidad no cambia nada. 
+<div style="margin: 10px 0;"></div>
+Lo que los demás procesan como *ella es rara pero cool, debe ser autismo leve, no se le nota* es en realidad el resultado de un rendering en tiempo real: cada sonrisa, cada respuesta verbal, cada interacción es un output de múltiples variables procesadas en paralelo. El problema de una interfaz tan pulida es que nadie sospecha la cantidad de RAM que consume mantenerla activa.
+<div style="margin: 10px 0;"></div>
+*Leve*, pronuncian con ese alivio palpable. *Leve* como el procesamiento en la nube, invisible hasta que el servidor falla. *Leve* como el trabajo emocional, inexistente hasta que dejas de hacerlo. *Leve* es el eufemismo que la cultura reserva para *has optimizado tu autismo para mi conveniencia*. Es el adjetivo que recibe quien dominó el arte de la disociación funcional: estar físicamente presente mientras tu conciencia ejecuta subrrutinas de supervivencia en segundo plano.
+<div style="margin: 10px 0;"></div>
+Entre la gente no estoy calmada ni estoy tranquila; estoy ejecutando un modo seguro donde las funciones no esenciales —como registrar que tengo hambre, sed, o necesidad de ir al baño— quedan suspendidas para conservar toda la energía.
+<div style="margin: 10px 0;"></div>
+Por eso en lo posible intento ser mi yo más auténtica, porque mientras más competente parezco, más cargas me depositan, entre más "flexible" me muestro, menos comprenden mis límites reales. 
+Mientras más aguanto con una sonrisa, más asumen que puedo ser el contenedor de las ansiedades y la basura ajenas, aunque yo misma esté desbordándome en privado. 
+La máscara no solo esconde el autismo; crea un estándar de funcionamiento que es, por definición, insostenible.
+<div style="margin: 10px 0;"></div>
+No tengo una teoría elegante sobre si vivir siendo autista junto con mis otras condiciones se vuelve más llevadero con el tiempo. 
+Pero tengo esto: ahora tengo las palabras exactas que definen de alguna manera mi experiencia humana. 
+<div style="margin: 10px 0;"></div>
+Tengo una comunidad de personas cuyas neurologías reconozco como parientes de la mía. Y tengo, sobre todo, y hace ya bastante, la decisión deliberada de dejar de ser cómoda. 
+Y siete años desde el diagnóstico completo he aprendido que *leve* nunca fue una descripción de mi experiencia interna sino de tu comodidad al presenciarla desde afuera. 
+Y esa comodidad ya no es mi responsabilidad.
+<div style="margin: 10px 0;"></div>
+Yo siempre he sido así, una mente que opera en una frecuencia distinta, analizando el mundo con una profundidad casi absurda, lo que me permite captar detalles que otros ignoran, analizar 
+el mundo con perspicacia y, al mismo tiempo, desconectarme por completo de lo que muchos consideran esencial.
 <div style="margin: 20px 0;"></div>
 ### Su mundo (neurotípico)
 <div style="margin: 20px 0;"></div>
