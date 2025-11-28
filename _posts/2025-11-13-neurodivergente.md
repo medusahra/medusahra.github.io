@@ -81,7 +81,8 @@ Lo que los demás procesan como *ella es rara pero cool, debe ser autismo leve, 
 <div style="margin: 10px 0;"></div>
 Entre la gente no estoy calmada ni estoy tranquila; estoy ejecutando un modo seguro donde las funciones no esenciales —como registrar que tengo hambre, sed, o necesidad de ir al baño— quedan suspendidas para conservar toda la energía.
 <div style="margin: 10px 0;"></div>
-Por eso en lo posible intento ser mi yo más auténtica, porque mientras más competente parezco, más cargas me depositan, entre más "flexible" me muestro, menos comprenden mis límites reales. 
+Por eso en lo posible intento ser mi yo más auténtica, porque mientras más competente parezco, más cargas me depositan, entre más "flexible" me muestro, menos comprenden mis límites reales.
+<div style="margin: 10px 0;"></div>
 Mientras más aguanto con una sonrisa, más asumen que puedo ser el contenedor de las ansiedades y la basura ajenas, aunque yo misma esté desbordándome en privado. 
 La máscara no solo esconde el autismo; crea un estándar de funcionamiento que es, por definición, insostenible.
 <div style="margin: 10px 0;"></div>
