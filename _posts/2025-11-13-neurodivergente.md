@@ -9,7 +9,7 @@ date: 2025-11-13
 
 # Encuentro el mundo neurotípico superficial y artificial
 
-## *Existir desde la neurodivergencia*
+*Existir desde la neurodivergencia*
 
 <div style="margin: 40px 0;"></div>
 
@@ -39,7 +39,10 @@ Me incomodan las miradas cómplices de la gente cuando me creen ingenua y rara p
 Mientras tanto, observo sus patrones de comportamiento, y la pésima comunicación que usan, para intentar entender qué logran con esas formas tan vacías y anestesiadas de conectar con los demás. 
 Me pregunto por qué, aunque fracasen, siguen intentándolo de la misma manera. Tal vez yo también soy víctima de empecinarme en mirar lo mismo una y otra vez, igual que esos otros hacen lo mismo con su comportamiento y comunicación a pesar de saber que terminará de la misma manera... ¿o no? 
 <div style="margin: 10px 0;"></div>
-La gente es incómoda, fatídica, prejuiciosa, aburrida y sobre todo, predecible... lo que los hace tiernos la mayor parte del tiempo. Quizá yo también sea tierna y fatídica. 
+La gente es incómoda, fatídica, prejuiciosa, aburrida y sobre todo, predecible... lo que los hace tiernos la mayor parte del tiempo. 
+<div style="margin: 10px 0;"></div>
+Quizá yo también sea tierna y fatídica.
+<div style="margin: 10px 0;"></div>
 Me agradan los patrones que se repiten y varían en bucle dentro de su misma repetición, conservando su esencia viva mientras dan un breve espacio a lo nuevo, cargado de posibles nuevos resultados 
 llenos de más vida. Soy completamente ajena a las cosas que otras personas planifican y a su manera suave y plana de ejecutar y justificar su existencia.
 
