@@ -50,9 +50,7 @@ llenos de más vida. Soy completamente ajena a las cosas que otras personas plan
 
 
 Cuanto más cansada estoy, más fuerte es esta sensación de estar perdida, vacía y desamparada dentro de mí y en el mundo, y a menudo estoy cansada, debido a las impresiones, las expectativas y el intento inútil de encajar y navegar en un mundo cada vez más agresivo, cerrado, inestable, caótico, consumista y superficial. A esto se suma toda una vida tratando de ser neurotípica, de intentar ajustarme a esa norma impuesta por un montón de gente inerte, lo que ha creado una constante incertidumbre y estrés por tratar de estar alerta para poder manejar la vida.
-
-<div style="margin: 40px 0;"></div>
-
+<div style="margin: 10px 0;"></div>
 Es difícil reaprender y cuidar de un sistema nervioso estresado tantos años después, ya que el piloto automático de simplemente intentar sobrevivir en el mundo de los demás se ha convertido en una parte integral de mí. Realmente solo me siento segura cuando sé exactamente qué hacer en el momento y puedo sumergirme en una concentración total, como cuando escribo poesía, ensayo, escribo alguna tésis que nadie leerá, analizo software malicioso o creo joyería (una forma de meditación). Ese hiperfoco me saca de un mundo lleno de demandas absurdas y me lleva a un estado de flujo donde vuelvo a sentirme segura.
 <div style="margin: 10px 0;"></div>
 Mi cerebro es extremadamente bueno para mantenerse enfocado en una sola cosa, especialmente si es algo que me interesa, pero le cuesta cambiar de foco. Relacionarme y formar parte del mundo exterior, así como atravesar la vida cotidiana con todas las tareas que implica, requiere cambiar constantemente de enfoque. Eso me agota mentalmente como físicamente y, como consecuencia, me siento estresada, vacía, perdida, cansada y adolorida. No conozco otra forma de sobrellevarlo más que intentar estructurar mi vida diaria y reducir las exigencias que me impongo. Permitirme estar más presente en los momentos que favorecen el flujo, la creación y el hiperfoco.
