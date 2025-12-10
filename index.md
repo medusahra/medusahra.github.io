@@ -15,18 +15,17 @@ he levantado mi propio templo de código y deseo: un glitch rosa en el mapa.
 𝔫𝔬𝔫 𝔞𝔡 𝔩𝔲𝔠𝔢𝔪 𝔰𝔢𝔡 𝔦𝔫 𝔦𝔫𝔠𝔢𝔫𝔡𝔦𝔲𝔪
 </h1>
 ## whoami
-
-*filósofa · poeta · escritora · <br>
- hacker (offsec)* 
- <br>
+*filósofa · poeta · escritora*<br>
+*hacker (offsec)*<br>
+<br>
 colombo lebanese 🇨🇴 🇱🇧 <br>
-<br> 
+<br>
 exploit dev enfocada en seguridad ofensiva *☻ fine & dandy honeypot ☻* <br>
 todo tiene fisuras: sistemas, cuerpos e infraestructuras de la materia y del deseo, a esas grietas me asomo. ♡
 Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagamente lujuriosos.
 
 <h1 style="line-height: 1.2;">
-𝕹𝖊𝖚𝖗𝖔𝖖𝖚𝖊𝖊𝖗 𝕳𝖊𝖗𝖊𝖘𝖎𝖊𝖘
+𝒩ℯ𝓊𝓇ℴ𝓆𝓊ℯℯ𝓇 ℋℯ𝓇ℯ𝓈𝒾ℯ𝓈
 </h1>
 
 ## literatura
