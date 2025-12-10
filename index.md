@@ -17,7 +17,8 @@ he levantado mi propio templo de código y deseo: un glitch rosa en el mapa.
 ## whoami
 
 *filósofa · poeta · escritora · <br>
- hacker (offsec)* <br>
+ hacker (offsec)* 
+ <br>
 colombo lebanese 🇨🇴 🇱🇧 <br>
 <br> 
 exploit dev enfocada en seguridad ofensiva *☻ fine & dandy honeypot ☻* <br>
