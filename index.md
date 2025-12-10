@@ -17,10 +17,10 @@ he levantado mi propio templo de código y deseo: un glitch rosa en el mapa.
 ## whoami
 
 *filósofa · poeta · escritora · <br>
- hacker (offsec)*
- <br>
-
+ hacker (offsec)* <br>
+ <h1 style="line-height: 1.2;">
 colombo lebanese 🇨🇴 🇱🇧 <br>
+  </h1>
 exploit dev enfocada en seguridad ofensiva *☻ fine & dandy honeypot ☻* <br>
 todo tiene fisuras: sistemas, cuerpos e infraestructuras de la materia y del deseo, a esas grietas me asomo. ♡
 Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagamente lujuriosos.
