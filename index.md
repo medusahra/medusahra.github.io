@@ -25,7 +25,7 @@ todo tiene fisuras: sistemas, cuerpos e infraestructuras de la materia y del des
 Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagamente lujuriosos.
 
 <h1 style="line-height: 1.2;">
-𝒩ℯ𝓊𝓇ℴ𝓆𝓊ℯℯ𝓇 ℋℯ𝓇ℯ𝓈𝒾ℯ𝓈
+𝔑𝔢𝔲𝔯𝔬𝔮𝔲𝔢𝔢𝔯 ℌ𝔢𝔯𝔢𝔰𝔦𝔢𝔰
 </h1>
 
 ## literatura
