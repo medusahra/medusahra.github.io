@@ -48,7 +48,7 @@
   background-color: #000000 !important;
   color: #ff2777 !important;
   font-family: monospace;
-  font-size: 16px;
+  font-size: 17px;
   line-height: 1.4;
   padding: 15px;
   max-width: 800px;
@@ -122,17 +122,68 @@ img {
       margin-left: 20px;
     }
     
-  /* Responsive para móvil */
-@media (max-width: 600px) {
+/* ===== OPTIMIZACIÓN ESPECÍFICA PARA iOS/IPHONE ===== */
+@media screen and (max-width: 600px) and (-webkit-min-device-pixel-ratio: 2) {
   body {
-    font-size: 14px;
-    padding: 10px;
+    font-size: 16px;
+    padding: 16px;
+    line-height: 1.7;
+    /* Suavizado perfecto para Retina */
+    -webkit-font-smoothing: subpixel-antialiased;
   }
   
   h1, h2, h3 {
-    font-size: 1.3em;
+    font-size: 1.4em;
+    margin: 16px 0;
+    /* Optimizado para pantallas Retina */
+    letter-spacing: 0.5px;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    /* Previene glitches en Safari iOS */
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+  
+  .logo-home {
+    max-width: 240px;
+  }
+  
+  /* Tap área iOS (mínimo 44x44px según Apple HIG) */
+  a {
+    padding: 4px 0;
+    min-height: 44px;
+    display: inline-block;
+  }
+  
+  /* Elimina el zoom al hacer tap en inputs (por si agregas forms) */
+  input, select, textarea {
+    font-size: 16px;
+  }
+  
+  /* Scroll suave en iOS */
+  body {
+    -webkit-overflow-scrolling: touch;
+    overflow-scrolling: touch;
   }
 }
+
+/* ===== PARA TABLETS (iPads y Android tablets) ===== */
+@media screen and (min-width: 601px) and (max-width: 1024px) {
+  body {
+    font-size: 17px;
+    padding: 25px;
+    max-width: 700px;
+  }
+  
+  h1, h2, h3 {
+    font-size: 1.6em;
+  }
+}
+
+
 
 /* ===== SOUNDCLOUD WRAPPER CYBERPUNK ===== */
 @keyframes glow-pulse {
