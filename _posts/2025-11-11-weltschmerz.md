@@ -12,8 +12,8 @@ date: 2025-11-11
 # Weltschmerz
 <img src="/assets/weltschmerz-cover.jpg" alt="Portada Weltschmerz" style="max-width: 90%; width: 400px; display: block; margin: 30px auto; filter: drop-shadow(0 0 30px #ff1493);">
 ## un libro para los que no temen mirar hacia el abismo
-Descubre *Weltschmerz*, mi más reciente libro de poesía. Un libro libre, un libro que no encontrarás en librerías, un libro gratuito, digital, para todos. Un libro para compartir, para dar, disponible para quienes escuchan el murmullo bajo la superficie y no temen mirar hacia el abismo.
----
+Descubre *Weltschmerz*, mi más reciente libro de poesía. Un libro libre, un libro que no encontrarás en librerías, un libro gratuito, un libro digital, un libro para todos. Un libro para compartir, un libro para dar, disponible para quienes escuchan el murmullo bajo la superficie y no temen mirar hacia el abismo.
+<div style="margin: 20px 0;"></div>
 ### sobre el libro
 <div style="margin: 20px 0;"></div>
 Estoy lanzando al agujero de gusano que es el internet mi libro de poesía *Weltschmerz*.
@@ -31,7 +31,9 @@ Así es la poesía: no está amarrada a exigencias externas, ni a la lógica del
 Este libro no busca llegar a todos; busca llegar a quienes resuenen con él. 
 <div style="margin: 10px 0;"></div>
 Creo que las palabras encuentran su propio camino, así como las personas encuentran las historias que necesitan leer en el momento justo.
-No hay una gran editorial detrás de Weltschmerz, ni tampoco habrá un lanzamiento oficial con luces, ponqué y escenario. Decidí gestionarlo yo misma porque creo en el poder de lo pequeño, lo cercano y lo auténtico.
+No hay una gran editorial detrás de Weltschmerz, ni tampoco habrá un lanzamiento oficial con luces, ponqué y escenario. 
+<div style="margin: 10px 0;"></div>
+Decidí gestionarlo yo misma porque creo en el poder de lo pequeño, lo cercano y lo auténtico.
 <img src="/assets/coverbook2.jpeg" alt="Autor" style="max-width: 90%; width: 350px; display: block; margin: 40px auto; filter: drop-shadow(0 0 20px #ff1493);">
 Mi escritura, como mi vida, se nutre de la resistencia frente a un sistema que parece consumirlo todo, incluso el arte. Publicarlo de manera independiente es, en última instancia, un acto de coherencia con mi visión del mundo: una donde las voces no tienen que gritar para ser escuchadas.
 <div style="margin: 10px 0;"></div>
