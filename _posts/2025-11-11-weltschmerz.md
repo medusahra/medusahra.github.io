@@ -79,6 +79,8 @@ Al final del libro encontrarás formas de hacerlo. Todo gesto será recibido con
 
 *En este viaje de polvo estelar y ecos de lo subterráneo, cada gesto se convierte en un verso compartido, una chispa en la oscuridad.*
 *Gracias por acompañar este murmullante ritual de creación y resistencia.*
+
+<div style="margin: 10px 0;"></div>
 *Para quienes habitan en la grieta entre el deseo y su imposibilidad*
 
 <div style="margin: 40px 0;"></div>
