@@ -81,7 +81,6 @@ Al final del libro encontrarás formas de hacerlo. Todo gesto será recibido con
 
 <div style="margin: 40px 0;"></div>
 
-
-
 ---
+<div style="margin: 40px 0;"></div>
 [< volver al inicio](/)
