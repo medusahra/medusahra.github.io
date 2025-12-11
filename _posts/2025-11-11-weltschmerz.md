@@ -49,6 +49,13 @@ Al final del libro encontrarás formas de hacerlo. Todo gesto será recibido con
 ---
 # descarga el libro aquí
 
+<style>
+@keyframes pulse {
+  0%, 100% { box-shadow: 0 0 10px #ff2777, 0 0 20px #ff2777; }
+  50% { box-shadow: 0 0 20px #ff2777, 0 0 40px #ff2777; }
+}
+</style>
+
 <div style="text-align: center; margin: 60px 0;">
   <a href="https://drive.google.com/drive/folders/1PmajCjLHaCD2x08vmiq0Vp6zFdcNXuMU?usp=sharing" target="_blank" style="
     display: inline-block;
@@ -67,12 +74,6 @@ Al final del libro encontrarás formas de hacerlo. Todo gesto será recibido con
     ⬇ Descargar Weltschmerz Gratuitamente ⬇
   </a>
 </div>
-
-@keyframes pulse {
-  0%, 100% { box-shadow: 0 0 20px #ff1493, 0 0 40px #ff1493; }
-  50% { box-shadow: 0 0 30px #ff1493, 0 0 60px #ff1493, 0 0 90px #ff1493; }
-}
-</style>
 
 <div style="margin: 40px 0;"></div>
 
