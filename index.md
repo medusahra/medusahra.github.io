@@ -21,7 +21,7 @@ he levantado mi propio templo de código y deseo: un glitch rosa en el mapa.
 colombo lebanese 🇨🇴 🇱🇧 <br>
 <br>
 exploit dev enfocada en seguridad ofensiva *☻ fine & dandy honeypot ☻* <br>
-todo tiene fisuras: sistemas, cuerpos e infraestructuras de la materia y del deseo, a esas grietas me asomo. ♡
+todo tiene fisuras: sistemas, cuerpos e infraestructuras, de la materia y del deseo, a esas grietas me asomo. ♡
 Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagamente lujuriosos.
 
 <h1 style="line-height: 1.2;">
@@ -53,7 +53,7 @@ Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagam
 - Instagram: <a href="https://www.instagram.com/medusahra/" target="_blank">@medusahra</a>
 - X: <a href="https://x.com/medusahra" target="_blank">@medusahra</a>
 - Guestbook notes: **[deja un mensaje](/notes.html)**
-## apoya mi trabajo
+## apoya mi trabajo ♡
 - ☕ <a href="https://ko-fi.com/chadidgiovanna" target="_blank">ko-fi</a>
 - 💸 <a href="https://www.paypal.com/paypalme/medusahra" target="_blank">paypal</a>
 - 💳 <a href="https://link.mercadopago.com.co/medusahra" target="_blank">mercadopago</a>
