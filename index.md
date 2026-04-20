@@ -54,9 +54,12 @@ Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagam
 - X: <a href="https://x.com/medusahra" target="_blank">@medusahra</a>
 - Guestbook notes: **[deja un mensaje](/notes.html)**
 ## apoya mi trabajo ♡
-- ☕ <a href="https://ko-fi.com/chadidgiovanna" target="_blank">ko-fi</a>
-- 💸 <a href="https://www.paypal.com/paypalme/medusahra" target="_blank">paypal</a>
+- 💳 <a href="https://checkout.nequi.wompi.co/method" target="_blank">Wompi</a>
 - 💳 <a href="https://link.mercadopago.com.co/medusahra" target="_blank">mercadopago</a>
+- 💳 <a href="https://www.paypal.com/paypalme/medusahra" target="_blank">paypal</a>
+- 💳 <a href="https://ko-fi.com/chadidgiovanna" target="_blank">ko-fi</a>
+
+
 <div style="text-align: center; margin-top: 80px; margin-bottom: 40px;">
 <em>𝔫𝔬𝔫 𝔞𝔡 𝔩𝔲𝔠𝔢𝔪, 𝔰𝔢𝔡 𝔦𝔫 𝔦𝔫𝔠𝔢𝔫𝔡𝔦𝔲𝔪</em>
 </div>
