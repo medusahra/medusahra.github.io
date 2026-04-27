@@ -4,7 +4,7 @@ layout: home
 <img src="/assets/logo-small.png" alt="Logo" class="logo-home" style="max-width: 200px; display: block; margin: 80px auto 20px; filter: drop-shadow(0 0 20px #ff1493);">
  
 <h1 style="line-height: 1.2;">
-𝕲𝖎𝖔𝖛𝖆𝖓𝖓𝖆 𝕮𝖍𝖆𝖉𝖎𝖉 🦖 <br>
+𝕲𝖎𝖔𝖛𝖆𝖓𝖓𝖆 𝕮𝖍𝖆𝖉𝖎𝖉 🌈🦄 <br>
 AKA ♡ 𝖒𝖊𝖉𝖚𝖘𝖆𝖍𝖗𝖆
 </h1>
 
@@ -15,7 +15,7 @@ he levantado mi propio templo de código y deseo: un glitch rosa en el mapa.
 𝔫𝔬𝔫 𝔞𝔡 𝔩𝔲𝔠𝔢𝔪 𝔰𝔢𝔡 𝔦𝔫 𝔦𝔫𝔠𝔢𝔫𝔡𝔦𝔲𝔪
 </h1>
 ## whoami
-*filósofa · poeta · escritora*<br>
+*filósofa · poeta · ensayista*<br>
 *hacker (offsec) pentester*<br>
 <br>
 colombo lebanese 🇨🇴 🇱🇧 <br>
@@ -29,8 +29,8 @@ Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagam
 </h1>
 
 ## literatura
-- **[archivo de textos >](/archive.html)**
 - **[whoami >](/2025/11/14/whoami.html)**
+- **[archivo de textos >](/archive.html)**
 - [descarga mi libro: weltschmerz >](/2025/11/11/weltschmerz.html)
 - **[sobre la praxis de hacer >](/2025/11/24/sobrelapraxisdehacer.html)**
 - **[existir desde la neurodivergencia >](/2025/11/13/neurodivergente.html)**
@@ -54,7 +54,7 @@ Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagam
 - X: <a href="https://x.com/medusahra" target="_blank">@medusahra</a>
 - Guestbook notes: **[deja un mensaje](/notes.html)**
 ## apoya mi trabajo ♡
-- 💳 <a href="https://checkout.nequi.wompi.co/method" target="_blank">Wompi</a>
+- 💳 <a href="https://checkout.nequi.wompi.co/method" target="_blank">wompi</a>
 - 💳 <a href="https://link.mercadopago.com.co/medusahra" target="_blank">mercadopago</a>
 - 💳 <a href="https://www.paypal.com/paypalme/medusahra" target="_blank">paypal</a>
 - 💳 <a href="https://ko-fi.com/chadidgiovanna" target="_blank">ko-fi</a>
