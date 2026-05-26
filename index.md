@@ -4,7 +4,7 @@ layout: home
 <img src="/assets/logo-small.png" alt="Logo" class="logo-home" style="max-width: 200px; display: block; margin: 80px auto 20px; filter: drop-shadow(0 0 20px #ff1493);">
  
 <h1 style="line-height: 1.2;">
-𝕲𝖎𝖔𝖛𝖆𝖓𝖓𝖆 𝕮𝖍𝖆𝖉𝖎𝖉 🌈🏴‍☠️🦄 <br>
+𝕲𝖎𝖔𝖛𝖆𝖓𝖓𝖆 𝕮𝖍𝖆𝖉𝖎𝖉 🔌🏴‍☠️🌈🦄 <br>
 AKA ♡ 𝖒𝖊𝖉𝖚𝖘𝖆𝖍𝖗𝖆
 </h1>
 
@@ -46,7 +46,7 @@ Escribo ensayo filosófico, crítica cultural y poemas quasi-ensayísticos vagam
 - 🔐 **[encriptador glitch](/2025/11/21/encriptador-glitch.html)**
 - 🪶 **[generador poético](/2025/11/21/generador-poemas.html)** 
 ## flabelum ⌬ silver objects
-- 💎 **<a href="https://instagram.com/flabelum" target="_blank">flabelum</a>** · sacred objects for the body · Descubre mi Joyería ·
+- 💎 **<a href="https://instagram.com/flabelum" target="_blank">flabelum</a>** · sacred objects for the body · descubre mi joyería ·
 ## contacto
 - GitHub: <a href="https://github.com/medusahra" target="_blank">@medusahra</a>
 - Email: <a href="mailto:blackobjkt@protonmail.com">blackobjkt@protonmail.com</a>
