@@ -22,7 +22,7 @@ colombo lebanese 🇨🇴 🇱🇧 <br>
 <br>
 exploit dev enfocada en seguridad ofensiva *☻ fine & dandy honeypot ☻* <br>
 todo tiene fisuras: sistemas, cuerpos e infraestructuras, de la materia y del deseo, a esas grietas me asomo. ♡
-Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagamente lujuriosos.
+Escribo ensayo filosófico, crítica cultural y poemas quasi-ensayísticos vagamente lujuriosos.
 
 <h1 style="line-height: 1.2;">
 𝔑𝔢𝔲𝔯𝔬𝔮𝔲𝔢𝔢𝔯 ℌ𝔢𝔯𝔢𝔰𝔦𝔢𝔰
@@ -45,15 +45,15 @@ Escribo filosofía, ensayo, crítica cultural y poemas quasi-ensayísticos vagam
 - 💜 **[ultraviolet hyper hex](/2025/11/21/ultraviolet.html)** 
 - 🔐 **[encriptador glitch](/2025/11/21/encriptador-glitch.html)**
 - 🪶 **[generador poético](/2025/11/21/generador-poemas.html)** 
-## flabelum · jewelry 
-- 💎 **<a href="https://instagram.com/flabelum" target="_blank">flabelum</a>** · sacred objects for the body ·
+## flabelum ⌬ silver objects
+- 💎 **<a href="https://instagram.com/flabelum" target="_blank">flabelum</a>** · sacred objects for the body · Descubre mi Joyería ·
 ## contacto
 - GitHub: <a href="https://github.com/medusahra" target="_blank">@medusahra</a>
 - Email: <a href="mailto:blackobjkt@protonmail.com">blackobjkt@protonmail.com</a>
 - Instagram: <a href="https://www.instagram.com/medusahra/" target="_blank">@medusahra</a>
 - X: <a href="https://x.com/medusahra" target="_blank">@medusahra</a>
 - Guestbook notes: **[deja un mensaje](/notes.html)**
-## apoya mi trabajo ♡
+## ♡ si te interesa lo que hago apoya mi trabajo ♡
 - 💳 <a href="https://checkout.nequi.wompi.co/method" target="_blank">wompi</a>
 - 💳 <a href="https://link.mercadopago.com.co/medusahra" target="_blank">mercadopago</a>
 - 💳 <a href="https://www.paypal.com/paypalme/medusahra" target="_blank">paypal</a>
