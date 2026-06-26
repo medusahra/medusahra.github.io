@@ -46,7 +46,7 @@ Escribo ensayo filosófico, crítica cultural y poemas quasi-ensayísticos vagam
 - 🔐 **[encriptador glitch](/2025/11/21/encriptador-glitch.html)**
 - 🪶 **[generador poético](/2025/11/21/generador-poemas.html)** 
 ## alquimista en flabelum ⌬ artifacts of intent
-meditación sobre la forma, la materia y el proceso ⌬ joyería de autor
+meditación sobre la forma, la materia y el proceso ⌬ joyas de autor · forjadas a mano
 - 💎 **<a href="https://instagram.com/flabelum" target="_blank">flabelum</a>** · sacred objects for the body · descubre mi joyería ·
 ## contacto
 - GitHub: <a href="https://github.com/medusahra" target="_blank">@medusahra</a>
