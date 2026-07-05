@@ -16,14 +16,13 @@ como una estación portátil totalmente personalizada.
 <img src="/assets/cyberdeck.png" alt="cyberdeck" style="max-width: 90%; width: 400px; display: block; margin: 40px auto; filter: drop-shadow(0 0 30px #ff1493);">
 <div style="margin: 40px 0;"></div>
 
-¿PARA QUÉ ES TU CYBERDECK?
-<div style="margin: 20px 0;"></div>
-Antes de armar algo, decide qué quieres que haga.
-<div style="margin: 20px 0;"></div>
-
-escribir, tomar notas, llevar un diario
+¿PARA QUÉ ES TU CYBERDECK?*
 <div style="margin: 10px 0;"></div>
-usar SSH y programar desde cualquier lugar
+Antes de armar algo, decide qué quieres que haga.
+<div style="margin: 10px 0;"></div>
+
+escribir, tomar notas, llevar un diario<br>
+usar SSH y programar desde cualquier lugar<br>
 <div style="margin: 10px 0;"></div>
 una máquina libre de distracciones
 <div style="margin: 10px 0;"></div>
