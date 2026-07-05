@@ -4,8 +4,7 @@ layout: home
 <img src="/assets/logo-small.png" alt="Logo" class="logo-home" style="max-width: 200px; display: block; margin: 80px auto 20px; filter: drop-shadow(0 0 20px #ff1493);">
  
 <h1 style="line-height: 1.2;">
-𝕲𝖎𝖔𝖛𝖆𝖓𝖓𝖆 𝕮𝖍𝖆𝖉𝖎𝖉 💾🏴‍☠️🌈🦄 <br>
-AKA ♡ 𝖒𝖊𝖉𝖚𝖘𝖆𝖍𝖗𝖆
+𝕲𝖎𝖔𝖛𝖆𝖓𝖓𝖆 𝕮𝖍𝖆𝖉𝖎𝖉 ♡ 𝖒𝖊𝖉𝖚𝖘𝖆𝖍𝖗𝖆 ♡  <br>
 </h1>
 
 Bienvenidxxs a mi sitio web 🏴‍☠️
@@ -21,7 +20,7 @@ he levantado mi propio templo de código y deseo: un glitch rosa en el mapa.
 colombo lebanese 🇨🇴 🇱🇧 <br>
 <br>
 exploit dev enfocada en seguridad ofensiva *☻ fine & dandy honeypot ☻* <br>
-todo tiene fisuras: sistemas, cuerpos e infraestructuras, de la materia y del deseo, a esas grietas me asomo. ♡
+todo tiene fisuras: sistemas, cuerpos e infraestructuras, de la materialidad y del deseo, a esas grietas me asomo. ♡
 Escribo ensayo filosófico, crítica cultural y poemas quasi-ensayísticos vagamente lujuriosos.
 
 <h1 style="line-height: 1.2;">
@@ -39,7 +38,7 @@ Escribo ensayo filosófico, crítica cultural y poemas quasi-ensayísticos vagam
 - **[enlaces de interés >](/enlaces.html)**
 ## cosas que hice cuando debería estar trabajando
 - ☣ **<a href="https://open.spotify.com/user/oer0flire345iy1g4vaifowzc/playlists" target="_blank">listen to my sick playlists</a>** ☣
-## blackbox utilities
+## hacker blackbox
 - 🔒 **[password vault](/2025/11/23/password-vault.html)**
 - 🔮 <a href="https://medusahra.github.io/ultraviolet-engine/">ultraviolet engine</a>
 - 💜 **[ultraviolet hyper hex](/2025/11/21/ultraviolet.html)** 
@@ -54,7 +53,7 @@ meditación sobre la forma, la materia y el proceso ⌬ joyas de autor
 - Instagram: <a href="https://www.instagram.com/medusahra/" target="_blank">@medusahra</a>
 - X: <a href="https://x.com/medusahra" target="_blank">@medusahra</a>
 - Guestbook notes: **[deja un mensaje](/notes.html)**
-## ♡ si te interesa lo que hago apoya mi trabajo ♡
+## ♡ apoya mi trabajo ♡
 - 💳 <a href="https://checkout.nequi.wompi.co/method" target="_blank">wompi</a>
 - 💳 <a href="https://link.mercadopago.com.co/medusahra" target="_blank">mercadopago</a>
 - 💳 <a href="https://www.paypal.com/paypalme/medusahra" target="_blank">paypal</a>
