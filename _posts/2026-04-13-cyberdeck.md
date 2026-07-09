@@ -58,3 +58,26 @@ Construido para un uso específico, no solo ensamblado.
 <div style="margin: 10px 0;"></div>
 No tienes que "llegar" a un nivel. Simplemente avanzas de forma natural.
 <div style="margin: 30px 0;"></div>
+<img src="/assets/deck.jpg" alt="cyberdecks" style="max-width: 90%; width: 400px; display: block; margin: 40px auto; filter: drop-shadow(0 0 30px #ff1493);">
+*LO QUE REALMENTE NECESITAS*
+<div style="margin: 30px 0;"></div>
+Todo cyberdeck se reduce a las mismas piezas básicas:
+<div style="margin: 30px 0;"></div>
+cómputo: Raspberry Pi, mini PC, portátil viejo
+<div style="margin: 10px 0;"></div>
+pantalla: monitor HDMI o un panel reciclado
+<div style="margin: 10px 0;"></div>
+teclado
+<div style="margin: 10px 0;"></div>
+energía: batería o power bank
+<div style="margin: 10px 0;"></div>
+conexiones: cables, adaptadores, hub
+<div style="margin: 30px 0;"></div>
+
+Y ya, eso es todo.
+<div style="margin: 30px 0;"></div>
+Puedes armar una primera versión barata, sobre todo si compras cosas de segunda. Con unos $100 dólares alcanza para tener algo funcionando.
+<div style="margin: 10px 0;"></div>
+Puedes sumarle un montón de accesorios dependiendo de para qué lo quieras usar desde un principio. Podría ser una pantalla de tinta electrónica, una pantalla táctil, un panel solar, parlantes, y mucho más.
+<div style="margin: 20px 0;"></div>
+
