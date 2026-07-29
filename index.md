@@ -14,7 +14,7 @@ he levantado mi propio templo de código y deseo: un glitch rosa en el mapa.
 𝔫𝔬𝔫 𝔞𝔡 𝔩𝔲𝔠𝔢𝔪 𝔰𝔢𝔡 𝔦𝔫 𝔦𝔫𝔠𝔢𝔫𝔡𝔦𝔲𝔪
 </h1>
 ## whoami
-*filósofa · poeta · ensayista*<br>
+*filósofa · poeta · escritora*<br>
 *hacker (offsec) pentester*<br>
 <br>
 colombo lebanese 🇨🇴 🇱🇧 <br>
@@ -23,9 +23,6 @@ exploit dev enfocada en seguridad ofensiva *☻ fine & dandy honeypot ☻* <br>
 todo tiene fisuras: sistemas, cuerpos e infraestructuras, de la materialidad y del deseo, a esas grietas me asomo. ♡
 Escribo ensayo filosófico, crítica cultural y poemas quasi-ensayísticos vagamente lujuriosos.
 
-<h1 style="line-height: 1.2;">
-𝔑𝔢𝔲𝔯𝔬𝔮𝔲𝔢𝔢𝔯 ℌ𝔢𝔯𝔢𝔰𝔦𝔢𝔰
-</h1>
 
 ## literatura
 - **[whoami >](/2025/11/14/whoami.html)**
@@ -50,7 +47,7 @@ meditación sobre la forma, la materia y el proceso ⌬ joyas de autor
 - 💎 **<a href="https://instagram.com/flabelum" target="_blank">flabelum</a>** · sacred objects for the body ·
 ## contacto
 - GitHub: <a href="https://github.com/medusahra" target="_blank">@medusahra</a>
-- Email: <a href="mailto:blackobjkt@protonmail.com">blackobjkt@protonmail.com</a>
+- Email: <a href="mailto:medusahra@proton.me">blackobjkt@protonmail.com</a>
 - Instagram: <a href="https://www.instagram.com/medusahra/" target="_blank">@medusahra</a>
 - X: <a href="https://x.com/medusahra" target="_blank">@medusahra</a>
 - Guestbook notes: **[deja un mensaje](/notes.html)**
