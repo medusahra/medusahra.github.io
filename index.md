@@ -47,7 +47,7 @@ meditación sobre la forma, la materia y el proceso ⌬ joyas de autor
 - 💎 **<a href="https://instagram.com/flabelum" target="_blank">flabelum</a>** · sacred objects for the body ·
 ## contacto
 - GitHub: <a href="https://github.com/medusahra" target="_blank">@medusahra</a>
-- Email: <a href="mailto:medusahra@proton.me">blackobjkt@protonmail.com</a>
+- Email: <a href="mailto:medusahra@proton.me">protón</a>
 - Instagram: <a href="https://www.instagram.com/medusahra/" target="_blank">@medusahra</a>
 - X: <a href="https://x.com/medusahra" target="_blank">@medusahra</a>
 - Guestbook notes: **[deja un mensaje](/notes.html)**
