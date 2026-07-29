@@ -44,8 +44,8 @@ Escribo ensayo filosófico, crítica cultural y poemas quasi-ensayísticos vagam
 - 💜 **[ultraviolet hyper hex](/2025/11/21/ultraviolet.html)** 
 - 🔐 **[encriptador glitch](/2025/11/21/encriptador-glitch.html)**
 - 🪶 **[generador poético](/2025/11/21/generador-poemas.html)** 
-## alquimista en flabelum 
-**⌬ artifacts of intent**
+## alquimista en flabelum <br>
+*⌬ artifacts of intent* <br>
 meditación sobre la forma, la materia y el proceso ⌬ joyas de autor
 - 💎 **<a href="https://instagram.com/flabelum" target="_blank">flabelum</a>** · sacred objects for the body ·
 ## contacto
