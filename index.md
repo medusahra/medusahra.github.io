@@ -1,14 +1,24 @@
 ---
 layout: home
 ---
-<img src="/assets/logo-small.png" alt="Logo" class="logo-home" style="max-width: 200px; display: block; margin: 80px auto 20px; filter: drop-shadow(0 0 20px #ff1493);">
- 
+
+<picture>
+  <source srcset="/assets/flabelum_hero_static.png" media="(prefers-reduced-motion: reduce)">
+  <img src="/assets/flabelum_hero.webp" alt="Flabelum — figura glitch rosa con bandera pirata" class="logo-home" width="400" height="303" fetchpriority="high" style="max-width: 340px; display: block; margin: 80px auto 20px; filter: drop-shadow(0 0 10px rgba(255,20,147,.45));">
+</picture>
+
+<!-- Alternativa más liviana (568 KB en vez de 1.5 MB): borra el <picture>
+     de arriba y descomenta esto. Safari puede ignorar la transparencia y
+     caer al póster estático.
+<video class="logo-home" autoplay muted loop playsinline width="640" height="484" poster="/assets/flabelum_hero_static.png" aria-label="Flabelum" style="max-width: 340px; display: block; margin: 80px auto 20px; filter: drop-shadow(0 0 10px rgba(255,20,147,.45));">
+  <source src="/assets/flabelum_hero.webm" type="video/webm">
+</video>
+-->
+
 <h1 style="line-height: 1.2;">
 𝕲𝖎𝖔𝖛𝖆𝖓𝖓𝖆 𝕮𝖍𝖆𝖉𝖎𝖉 ♡ 𝖒𝖊𝖉𝖚𝖘𝖆𝖍𝖗𝖆 ♡  <br>
 </h1>
-
 Bienvenidxxs a mi sitio web 🏴‍☠️
-
 he levantado mi propio templo de código y deseo: un glitch rosa en el mapa.
 <h1 style="line-height: 1.2;">
 𝔫𝔬𝔫 𝔞𝔡 𝔩𝔲𝔠𝔢𝔪 𝔰𝔢𝔡 𝔦𝔫 𝔦𝔫𝔠𝔢𝔫𝔡𝔦𝔲𝔪
@@ -22,8 +32,6 @@ colombo lebanese 🇨🇴 🇱🇧 <br>
 exploit dev enfocada en seguridad ofensiva *☻ fine & dandy honeypot ☻* <br>
 todo tiene fisuras: sistemas, cuerpos e infraestructuras, de la materialidad y del deseo, a esas grietas me asomo. ♡
 Escribo ensayo filosófico, crítica cultural y poemas quasi-ensayísticos vagamente lujuriosos.
-
-
 ## literatura
 - **[whoami >](/2025/11/14/whoami.html)**
 - **[archivo de textos >](/archive.html)**
@@ -56,15 +64,12 @@ meditación sobre la forma, la materia y el proceso ⌬ joyas de autor
 - 💳 <a href="https://link.mercadopago.com.co/medusahra" target="_blank">mercadopago</a>
 - 💳 <a href="https://www.paypal.com/paypalme/medusahra" target="_blank">paypal</a>
 - 💳 <a href="https://ko-fi.com/chadidgiovanna" target="_blank">ko-fi</a>
-
-
 <div style="text-align: center; margin-top: 80px; margin-bottom: 40px;">
 <em>𝔫𝔬𝔫 𝔞𝔡 𝔩𝔲𝔠𝔢𝔪, 𝔰𝔢𝔡 𝔦𝔫 𝔦𝔫𝔠𝔢𝔫𝔡𝔦𝔲𝔪</em>
 </div>
 <div style="text-align: center; margin-top: 40px;">
 <img src="/assets/piratepinkglam2x.png" alt="Pirate Flag" style="max-width: 150px; filter: drop-shadow(0 0 15px #ff1493);">
 </div>
-
 <!-- SoundCloud Player -->
 <div class="soundcloud-wrapper">
   <div class="soundcloud-title">♪ soundtrack ♪</div>
