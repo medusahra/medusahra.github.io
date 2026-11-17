@@ -15,9 +15,9 @@ he levantado mi propio templo de código y deseo: un glitch rosa en el mapa.
 </h1>
 ## *whoami*
 *filósofa · poeta · escritora*<br>
-*hacker (offsec) pentester*<br>
+*sw/hw hacker (offsec) pentester*<br>
 <br>
-## neurodivergente
+## polímata neurodivergente
 🎧 *auDHD · spectrum* 🎧<br>
 arquitectura cognitiva descentralizada<br>
 <br>
