@@ -19,8 +19,8 @@ he levantado mi propio templo de código y deseo: un glitch rosa en el mapa.
 <br>
 ## neurodivergente
 🎧 *auDHD · spectrum* 🎧<br>
-- **[existir desde la neurodivergencia >](/2025/11/13/neurodivergente.html)**
 arquitectura cognitiva descentralizada<br>
+- **[existir desde la neurodivergencia >](/2025/11/13/neurodivergente.html)**
 <br>
 colombo lebanese 🇨🇴 🇱🇧 <br>
 <br>
