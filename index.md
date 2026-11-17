@@ -17,8 +17,8 @@ he levantado mi propio templo de código y deseo: un glitch rosa en el mapa.
 *filósofa · poeta · escritora*<br>
 *sw/hw hacker (offsec) pentester*<br>
 <br>
-## polímata neurodivergente
-🎧 *auDHD · spectrum* 🎧<br>
+## neurodivergente
+🎧 *auDHD+ · spectrum* 🎧<br>
 arquitectura cognitiva descentralizada<br>
 <br>
 colombo lebanese 🇨🇴 🇱🇧 <br>
