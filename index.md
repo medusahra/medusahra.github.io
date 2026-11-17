@@ -17,7 +17,8 @@ he levantado mi propio templo de código y deseo: un glitch rosa en el mapa.
 *filósofa · poeta · escritora*<br>
 *hacker (offsec) pentester*<br>
 <br>
-🎧 *on the autistic spectrum* 🎧<br>
+🎧 *auDHD · spectrum* 🎧<br>
+arquitectura cognitiva descentralizada<br>
 <br>
 colombo lebanese 🇨🇴 🇱🇧 <br>
 <br>
