@@ -15,7 +15,7 @@ he levantado mi propio templo de código y deseo: un glitch rosa en el mapa.
 </h1>
 ## *whoami*
 *filósofa · poeta · escritora*<br>
-*independent hacker (offsec) pentester · malware coder*<br>
+*independent hacker (offsec) pentester*<br>
 exploit dev enfocada en seguridad ofensiva<br>
 *☻ fine & dandy honeypot ☻*<br>
 ## neurodivergente
