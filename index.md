@@ -24,6 +24,7 @@ arquitectura cognitiva descentralizada<br>
 <br>
 todo tiene fisuras: sistemas, cuerpos e infraestructuras, de la materialidad y del deseo, a esas grietas me asomo. ♡
 Escribo ensayo filosófico, crítica cultural y poemas quasi-ensayísticos vagamente lujuriosos.<br>
+<br>
 colombo lebanese 🇨🇴 🇱🇧<br>
 
 ## literatura
