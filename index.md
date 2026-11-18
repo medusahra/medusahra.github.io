@@ -16,15 +16,15 @@ he levantado mi propio templo de código y deseo: un glitch rosa en el mapa.
 ## *whoami*
 *filósofa · poeta · escritora*<br>
 *sw/hw hacker (offsec) pentester*<br>
+exploit dev enfocada en seguridad ofensiva *☻ fine & dandy honeypot ☻* <br>
 ## neurodivergente
 🎧 *auDHD+ · spectrum* 🎧<br>
 arquitectura cognitiva descentralizada<br>
 <br>
-colombo lebanese 🇨🇴 🇱🇧 <br>
-<br>
-exploit dev enfocada en seguridad ofensiva *☻ fine & dandy honeypot ☻* <br>
 todo tiene fisuras: sistemas, cuerpos e infraestructuras, de la materialidad y del deseo, a esas grietas me asomo. ♡
 Escribo ensayo filosófico, crítica cultural y poemas quasi-ensayísticos vagamente lujuriosos.
+<br>
+colombo lebanese 🇨🇴 🇱🇧 <br>
 
 ## literatura
 - **[whoami >](/2025/11/14/whoami.html)**
